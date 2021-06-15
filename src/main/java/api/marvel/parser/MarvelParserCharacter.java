@@ -44,7 +44,8 @@ public class MarvelParserCharacter {
     public void parseCharacter() throws ParseException {
         OkHttpClient client = new OkHttpClient().newBuilder().build();
         Request request = new Request.Builder()
-                .url(MARVEL_HOST + MARVEL_API + "characters?" + MARVEL_APIKEY + MARVEL_PARAM_LIMIT_100 + MARVEL_PARAM_OFFSET + offsetCharacter) // + "&nameStartsWith=Invencible"
+//                .url(MARVEL_HOST + MARVEL_API + "characters?" + MARVEL_APIKEY + MARVEL_PARAM_LIMIT_100 + MARVEL_PARAM_OFFSET + offsetCharacter) // + "&nameStartsWith=Invencible"
+                .url(MARVEL_HOST + MARVEL_API + "characters/1009718?" + MARVEL_APIKEY + MARVEL_PARAM_LIMIT_100 + MARVEL_PARAM_OFFSET + offsetCharacter) // + "&nameStartsWith=Invencible"
                 .method("GET", null)
                 .build();
 

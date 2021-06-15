@@ -57,7 +57,6 @@ public class MarvelParserComic {
                 JSONObject objectJson = new JSONObject(body.string());
                 JSONObject dataJson = objectJson.getJSONObject("data");
                 JSONArray resultsJson  = dataJson.getJSONArray("results");
-                log.info("Comics OffSet:" + resultsJson.length());
                 log.info("Comics Found:" + resultsJson.length());
 
                 for (int i = 0; i < resultsJson.length(); i++) {
@@ -73,9 +72,7 @@ public class MarvelParserComic {
             } catch (IOException e) {
                 e.printStackTrace();
             }
-
         }
-
     }
 
     private Comic getComicFromJson(JSONObject comicJson) throws ParseException, JsonProcessingException {

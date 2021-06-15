@@ -12,4 +12,6 @@ public class MarvelParserConstants {
 
     public static final String MARVEL_PARAM_OFFSET = "&offset=";
 
+    public static final String MARVEL_PARAM_THOR = "1009664";
+
 }

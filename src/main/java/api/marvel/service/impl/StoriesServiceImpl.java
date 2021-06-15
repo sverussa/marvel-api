@@ -33,7 +33,7 @@ public class StoriesServiceImpl implements StoriesService {
     }
 
     @Override
-    public Story save(Story series) {
-        return null;
+    public Story save(Story story) {
+        return storiesRepository.save(story);
     }
 }

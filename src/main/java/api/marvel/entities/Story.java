@@ -4,10 +4,7 @@ import api.marvel.entities.list.*;
 import api.marvel.entities.summary.ComicSummary;
 import lombok.Data;
 
-import javax.persistence.Entity;
-import javax.persistence.Id;
-import javax.persistence.Table;
-import javax.persistence.Transient;
+import javax.persistence.*;
 import java.util.Date;
 
 @Data
@@ -21,7 +18,9 @@ public class Story {
 
     private int idCharacter;
 
+    @Column(columnDefinition="TEXT")
     private String title;
+    @Column(columnDefinition="TEXT")
     private String description;
     private String resourceURI;
     private String type;

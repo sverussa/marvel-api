@@ -34,6 +34,6 @@ public class SeriesServiceImpl implements SeriesService {
 
     @Override
     public Series save(Series series) {
-        return null;
+        return seriesRepository.save(series);
     }
 }

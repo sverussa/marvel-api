@@ -4,10 +4,7 @@ import api.marvel.entities.list.*;
 import api.marvel.entities.summary.SeriesSummary;
 import lombok.Data;
 
-import javax.persistence.Entity;
-import javax.persistence.Id;
-import javax.persistence.Table;
-import javax.persistence.Transient;
+import javax.persistence.*;
 import java.util.Date;
 
 @Data
@@ -19,11 +16,17 @@ public class Series {
     private Integer id;
     private int digitalID;
 
+    private int idCharacter;
+
+    @Column(columnDefinition="TEXT")
     private String title;
+    @Column(columnDefinition="TEXT")
     private String description;
+    private String resourceURI;
     private int startYear;
     private int endYear;
     private String rating;
+    private String type;
     private Date modified;
     private Image thumbnail;
     @Transient

@@ -4,10 +4,7 @@ import api.marvel.entities.list.*;
 import api.marvel.entities.summary.EventSummary;
 import lombok.Data;
 
-import javax.persistence.Entity;
-import javax.persistence.Id;
-import javax.persistence.Table;
-import javax.persistence.Transient;
+import javax.persistence.*;
 import java.util.Date;
 
 @Data
@@ -21,8 +18,11 @@ public class Event {
 
     private int idCharacter;
 
+    @Column(columnDefinition="TEXT")
     private String title;
+    @Column(columnDefinition="TEXT")
     private String description;
+    @Column(columnDefinition="TEXT")
     private String resourceURI;
     private Date modified;
     private Date start;
