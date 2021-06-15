@@ -58,8 +58,6 @@ public class CharacterController {
         CharacterDataWrapper characterDataWrapper = new CharacterDataWrapper();
         characterDataWrapper.setData(characterDataContainer);
 
-//        ObjectWriter ow = new ObjectMapper().writer().withDefaultPrettyPrinter();
-//        String json = ow.writeValueAsString(characterDataWrapper);
         return ResponseEntity.ok(MarvelGson.getGson().toJson(characterDataWrapper));
     }
 }

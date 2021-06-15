@@ -12,7 +12,7 @@ public interface ComicsRepository extends JpaRepository<Comic, Integer> {
 
     List<Comic> findAllByIdCharacterEquals(Integer idCharacter);
 
-    @Query("select c from Comic c where c.idCharacter = :#{#character.id}")
-    List<Comic> findComicByIdCharacter(@Param("character") Character character);
+//    @Query("select c from Comic c where c.idCharacter = :#{#character.id}")
+//    List<Comic> findComicByIdCharacter(@Param("character") Character character);
 
 }
