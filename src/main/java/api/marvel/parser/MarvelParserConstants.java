@@ -10,4 +10,6 @@ public class MarvelParserConstants {
 
     public static final String MARVEL_PARAM_LIMIT_100 = "&limit=100";
 
+    public static final String MARVEL_PARAM_OFFSET = "&offset=";
+
 }

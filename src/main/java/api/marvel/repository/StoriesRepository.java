@@ -1,4 +1,7 @@
 package api.marvel.repository;
 
-public interface StoriesRepository {
+import api.marvel.entities.Story;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface StoriesRepository extends JpaRepository<Story, Integer> {
 }

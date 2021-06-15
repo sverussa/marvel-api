@@ -1,13 +1,15 @@
 package api.marvel.service;
 
 import api.marvel.entities.Character;
-
-import java.util.List;
+import api.marvel.entities.container.CharacterDataContainer;
+import api.marvel.validation.Parameters;
 
 public interface CharacterService {
 
-    List<Character> find();
+    CharacterDataContainer find(Parameters parameters);
 
-    Character insert(Character character);
+    CharacterDataContainer findById(Integer id, Parameters parameters);
+
+    Character save(Character character);
 
 }

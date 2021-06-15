@@ -6,7 +6,6 @@ import org.hibernate.validator.constraints.Range;
 import org.springframework.validation.annotation.Validated;
 
 import javax.validation.constraints.Max;
-import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.Null;
 import java.util.Date;
 
@@ -33,7 +32,7 @@ public class Parameters {
     private String orderBy;
 
     @Range(min = 0, max = 100)
-    private Integer limit;
-    private Integer offset;
+    private Integer limit = 20;
+    private Integer offset = 0;
 
 }

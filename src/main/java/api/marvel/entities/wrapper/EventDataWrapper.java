@@ -1,4 +1,10 @@
 package api.marvel.entities.wrapper;
 
-public class EventDataWrapper {
+import lombok.Data;
+
+@Data
+public class EventDataWrapper extends DataWrapper {
+
+    private EventDataWrapper data;
+
 }

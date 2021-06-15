@@ -5,6 +5,7 @@ import api.marvel.entities.list.EventList;
 import api.marvel.entities.list.SeriesList;
 import api.marvel.entities.list.StoryList;
 import lombok.Data;
+import org.springframework.hateoas.RepresentationModel;
 
 import javax.persistence.*;
 import java.util.Date;
@@ -13,7 +14,7 @@ import java.util.Set;
 @Data
 @Entity
 @Table(name = "character")
-public class Character {
+public class Character extends RepresentationModel<Character> {
 
     @Id
     private Integer id;

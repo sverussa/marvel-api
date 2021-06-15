@@ -1,4 +1,11 @@
 package api.marvel.entities.wrapper;
 
-public class CreatorDataWrapper {
+import api.marvel.entities.container.CreatorDataContainer;
+import lombok.Data;
+
+@Data
+public class CreatorDataWrapper extends DataWrapper{
+
+    private CreatorDataContainer data;
+
 }

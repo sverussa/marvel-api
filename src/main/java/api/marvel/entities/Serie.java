@@ -8,13 +8,11 @@ import javax.persistence.Table;
 
 @Data
 @Entity
-@Table(name = "story")
-public class Story {
+@Table(name = "serie")
+public class Serie {
 
     @Id
     private Integer id;
     private int digitalID;
-
-    private int idCharacter;
 
 }

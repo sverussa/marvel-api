@@ -1,6 +1,6 @@
 package api.marvel;
 
-import api.marvel.parser.ParserApiMarvel;
+import api.marvel.parser.MarvelParserApi;
 import lombok.extern.log4j.Log4j2;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
@@ -17,7 +17,7 @@ public class MarvelApiApplication implements CommandLineRunner {
     private boolean parser;
 
     @Autowired
-    private ParserApiMarvel parserApiMarvel;
+    private MarvelParserApi parserApiMarvel;
 
     public static void main(String[] args) {
         SpringApplication.run(MarvelApiApplication.class, args);

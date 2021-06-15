@@ -8,10 +8,7 @@ import api.marvel.entities.summary.ComicSummary;
 import api.marvel.entities.summary.SeriesSummary;
 import lombok.Data;
 
-import javax.persistence.Entity;
-import javax.persistence.Id;
-import javax.persistence.Table;
-import javax.persistence.Transient;
+import javax.persistence.*;
 import java.util.Date;
 import java.util.List;
 import java.util.Set;
@@ -24,9 +21,15 @@ public class Comic {
     @Id
     private Integer id;
     private int digitalID;
+
+    private int idCharacter;
+
+    @Column(columnDefinition="TEXT")
     private String title;
     private long issueNumber;
     private String variantDescription;
+
+    @Column(columnDefinition="TEXT")
     private String description;
     private Date modified;
     private String isbn;
@@ -68,4 +71,7 @@ public class Comic {
     @Transient
     private EventList eventList;
 
+    public ComicSummary getSummary() {
+        return new ComicSummary(getTitle());
+    }
 }

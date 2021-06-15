@@ -3,6 +3,7 @@ package api.marvel.parser;
 import api.marvel.entities.Character;
 import api.marvel.entities.Image;
 import api.marvel.service.CharacterService;
+import lombok.extern.log4j.Log4j2;
 import okhttp3.OkHttpClient;
 import okhttp3.Request;
 import okhttp3.Response;
@@ -20,7 +21,7 @@ import java.util.List;
 import static api.marvel.parser.MarvelParserConstants.*;
 import static api.marvel.util.DateFromDateIso.getDateFromString;
 
-
+@Log4j2
 @Component
 public class MarvelParserCharacter {
 
@@ -32,15 +33,18 @@ public class MarvelParserCharacter {
         return characters;
     }
 
+    private int offsetCharacter = 0;
+    private boolean endCharacter = false;
+
     @Autowired
     public MarvelParserCharacter(CharacterService characterService) {
         this.characterService = characterService;
     }
 
-    public void parse() throws ParseException {
+    public void parseCharacter() throws ParseException {
         OkHttpClient client = new OkHttpClient().newBuilder().build();
         Request request = new Request.Builder()
-                .url(MARVEL_HOST + MARVEL_API + "characters?" + MARVEL_APIKEY + MARVEL_PARAM_LIMIT_100 + "&nameStartsWith=Hulk")
+                .url(MARVEL_HOST + MARVEL_API + "characters?" + MARVEL_APIKEY + MARVEL_PARAM_LIMIT_100 + MARVEL_PARAM_OFFSET + offsetCharacter) // + "&nameStartsWith=Invencible"
                 .method("GET", null)
                 .build();
 
@@ -49,24 +53,39 @@ public class MarvelParserCharacter {
             JSONObject Jobject = new JSONObject(body.string());
             JSONObject Jdata = Jobject.getJSONObject("data");
             JSONArray Jresults = Jdata.getJSONArray("results");
+            int totalCharacters = Jresults.length();
+            log.info("Characters OffSet:" + offsetCharacter);
+            log.info("Characters Found:" + totalCharacters);
 
-            for (int i = 0; i < Jresults.length(); i++) {
-                JSONObject character = Jresults.getJSONObject(i);
-                Character characterFromJson = getCharacterFromJson(character);
-                characters.add(characterFromJson);
+            if (totalCharacters < 100) {
+                offsetCharacter = 0;
+                endCharacter = true;
+            } else {
+                offsetCharacter = offsetCharacter + 100;
             }
+
+            getCharacters(Jresults, totalCharacters);
         } catch (IOException e) {
             e.printStackTrace();
         }
-    }
-
-    public void insert() {
-        for (Character character : characters) {
-            characterService.insert(character);
+        if (!endCharacter) {
+            parseCharacter();
         }
     }
 
-    private Character getCharacterFromJson(JSONObject character) throws ParseException {
+    private void getCharacters(JSONArray Jresults, int totalCharacters) throws ParseException {
+        for (int i = 0; i < totalCharacters; i++) {
+            JSONObject characterJson = Jresults.getJSONObject(i);
+            Character character = getCharacter(characterJson);
+            characters.add(character);
+
+            log.info("Insert Character:" + character.getId());
+            log.info("Name:" + character.getName());
+            characterService.save(character);
+        }
+    }
+
+    private Character getCharacter(JSONObject character) throws ParseException {
         int id = character.getInt("id");
         String name = character.getString("name");
         String description = character.getString("description");
@@ -75,8 +94,6 @@ public class MarvelParserCharacter {
         JSONObject Jthumbnail = character.getJSONObject("thumbnail");
         String path = Jthumbnail.getString("path");
         String extension = Jthumbnail.getString("extension");
-
-        // todo URLs
 
         Image thumbnail = new Image();
         thumbnail.setPath(path);
@@ -89,6 +106,7 @@ public class MarvelParserCharacter {
         ch.setModified(getDateFromString(modifiedString));
         ch.setResourceURI(resourceURI);
         ch.setThumbnail(thumbnail);
+        log.info("Character:" + ch.getName());
         return ch;
     }
 }

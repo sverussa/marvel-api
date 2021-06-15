@@ -1,10 +1,10 @@
 package api.marvel.entities.container;
 
-import api.marvel.entities.Series;
+import api.marvel.entities.Serie;
 
 import java.util.List;
 
 public class SeriesDataContainer {
 
-    private List<Series> results;
+    private List<Serie> results;
 }
