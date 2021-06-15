@@ -26,7 +26,7 @@ public class ComicController {
 
     @GetMapping(path = "/{characterId}/comics", produces = MediaType.APPLICATION_JSON_VALUE)
     public ResponseEntity<String> getCharacterIdComics(@PathVariable("characterId") int characterId, @Valid Parameters parameters) throws JsonProcessingException {
-        log.info("CharacterId: " + characterId);
+        log.info("Comic Controller CharacterId: " + characterId);
         ComicDataContainer comicDataContainer = comicsService.findByIdCharacter(characterId, parameters);
         ComicDataWrapper comicDataWrapper = new ComicDataWrapper();
         comicDataWrapper.setData(comicDataContainer);

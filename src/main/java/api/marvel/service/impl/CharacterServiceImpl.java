@@ -1,12 +1,9 @@
 package api.marvel.service.impl;
 
 import api.marvel.entities.Character;
-import api.marvel.entities.Comic;
 import api.marvel.entities.container.CharacterDataContainer;
 import api.marvel.entities.list.ComicList;
-import api.marvel.entities.summary.ComicSummary;
 import api.marvel.repository.CharacterRepository;
-import api.marvel.repository.ComicsRepository;
 import api.marvel.service.CharacterService;
 import api.marvel.service.ComicsService;
 import api.marvel.validation.Parameters;

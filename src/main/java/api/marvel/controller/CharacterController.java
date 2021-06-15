@@ -1,14 +1,17 @@
 package api.marvel.controller;
 
 
+import api.marvel.adapter.HibernateProxyTypeAdapter;
 import api.marvel.entities.container.CharacterDataContainer;
 import api.marvel.entities.wrapper.CharacterDataWrapper;
 import api.marvel.service.CharacterService;
+import api.marvel.util.MarvelGson;
 import api.marvel.validation.Parameters;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.ObjectWriter;
 import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
 import lombok.extern.log4j.Log4j2;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
@@ -55,11 +58,8 @@ public class CharacterController {
         CharacterDataWrapper characterDataWrapper = new CharacterDataWrapper();
         characterDataWrapper.setData(characterDataContainer);
 
-//        Gson gson = new GsonBuilder().registerTypeAdapterFactory( HibernateProxyTypeAdapter.FACTORY).create();
-
-        ObjectWriter ow = new ObjectMapper().writer().withDefaultPrettyPrinter();
-        String json = ow.writeValueAsString(characterDataWrapper);
-//        return ResponseEntity.ok(gson.toJson(characterDataWrapper, CharacterDataWrapper.class));
-        return ResponseEntity.ok(json);
+//        ObjectWriter ow = new ObjectMapper().writer().withDefaultPrettyPrinter();
+//        String json = ow.writeValueAsString(characterDataWrapper);
+        return ResponseEntity.ok(MarvelGson.getGson().toJson(characterDataWrapper));
     }
 }
