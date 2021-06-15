@@ -1,4 +1,4 @@
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1011334,'','2014-04-29 15:18:17','3-D Man','http://gateway.marvel.com/v1/public/characters/1011334','jpg','http://i.annihil.us/u/prod/marvel/i/mg/c/e0/535fecbbb9784'),
 (1017100,'Rick Jones has been Hulk''s best bud since day one, but now he''s more than a friend...he''s a teammate! Transformed by a Gamma energy explosion, A-Bomb''s thick, armored skin is just as strong and powerful as it is blue. And when he curls into action, he uses it like a giant bowling ball of destruction! ','2013-09-18 16:54:04','A-Bomb (HAS)','http://gateway.marvel.com/v1/public/characters/1017100','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/20/5232158de5b16'),
 (1009144,'AIM is a terrorist organization bent on destroying the world.','2013-10-17 15:41:30','A.I.M.','http://gateway.marvel.com/v1/public/characters/1009144','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/20/52602f21f29ec'),
@@ -9,7 +9,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1009149,'','2014-04-29 15:10:43','Abyss','http://gateway.marvel.com/v1/public/characters/1009149','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/30/535feab462a64'),
 (1010903,'','1969-12-31 21:00:00','Abyss (Age of Apocalypse)','http://gateway.marvel.com/v1/public/characters/1010903','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/80/4c00358ec7548'),
 (1011266,'','1969-12-31 21:00:00','Adam Destine','http://gateway.marvel.com/v1/public/characters/1011266','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1010354,'Adam Warlock is an artificially created human who was born in a cocoon at a scientific complex called The Beehive.','2013-08-07 14:49:06','Adam Warlock','http://gateway.marvel.com/v1/public/characters/1010354','jpg','http://i.annihil.us/u/prod/marvel/i/mg/a/f0/5202887448860'),
 (1010846,'','1969-12-31 21:00:00','Aegis (Trey Rollins)','http://gateway.marvel.com/v1/public/characters/1010846','gif','http://i.annihil.us/u/prod/marvel/i/mg/5/e0/4c0035c9c425d'),
 (1011297,'','2013-10-24 15:09:30','Agent Brand','http://gateway.marvel.com/v1/public/characters/1011297','jpg','http://i.annihil.us/u/prod/marvel/i/mg/4/60/52695285d6e7e'),
@@ -20,7 +20,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1011136,'','1969-12-31 21:00:00','Air-Walker (Gabriel Lan)','http://gateway.marvel.com/v1/public/characters/1011136','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011176,'','1969-12-31 21:00:00','Ajak','http://gateway.marvel.com/v1/public/characters/1011176','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/80/4c002f35c5215'),
 (1010870,'','1969-12-31 21:00:00','Ajaxis','http://gateway.marvel.com/v1/public/characters/1010870','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/70/4c0035adc7d3a');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1011194,'','1969-12-31 21:00:00','Akemi','http://gateway.marvel.com/v1/public/characters/1011194','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011170,'','1969-12-31 21:00:00','Alain','http://gateway.marvel.com/v1/public/characters/1011170','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009240,'','1969-12-31 21:00:00','Albert Cleary','http://gateway.marvel.com/v1/public/characters/1009240','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -31,7 +31,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1009497,'','1969-12-31 21:00:00','Alexander Pierce','http://gateway.marvel.com/v1/public/characters/1009497','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1014990,'','2010-11-18 19:01:44','Alice','http://gateway.marvel.com/v1/public/characters/1014990','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/70/4cd061e6d6573'),
 (1009435,'','1969-12-31 21:00:00','Alicia Masters','http://gateway.marvel.com/v1/public/characters/1009435','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/4c003d40ac7ae');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1010370,'','2013-10-24 15:09:22','Alpha Flight','http://gateway.marvel.com/v1/public/characters/1010370','jpg','http://i.annihil.us/u/prod/marvel/i/mg/1/60/52695277ee088'),
 (1011324,'','1969-12-31 21:00:00','Alpha Flight (Ultimate)','http://gateway.marvel.com/v1/public/characters/1011324','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011164,'','1969-12-31 21:00:00','Alvin Maker','http://gateway.marvel.com/v1/public/characters/1011164','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -42,7 +42,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1009151,'','1969-12-31 21:00:00','Amiko','http://gateway.marvel.com/v1/public/characters/1009151','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1010672,'','1969-12-31 21:00:00','Amora','http://gateway.marvel.com/v1/public/characters/1010672','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1010673,'','1969-12-31 21:00:00','Amphibian (Earth-712)','http://gateway.marvel.com/v1/public/characters/1010673','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1010905,'Amun is a ruthless teenage assassin, employed by the Sisterhood of the Wasp to serve under the mage Vincent after Araña interrupted the ritual to initiate the Wasp''s new chosen one.','1969-12-31 21:00:00','Amun','http://gateway.marvel.com/v1/public/characters/1010905','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009152,'','1969-12-31 21:00:00','Ancient One','http://gateway.marvel.com/v1/public/characters/1009152','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/b0/4ce59ea2103ac'),
 (1016824,'','2012-07-10 20:15:49','Ancient One (Ultimate)','http://gateway.marvel.com/v1/public/characters/1016824','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -53,7 +53,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1010674,'','2004-04-14 01:00:00','Anita Blake','http://gateway.marvel.com/v1/public/characters/1010674','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/a0/4c0038fa14452'),
 (1009346,'','1969-12-31 21:00:00','Anne Marie Hoag','http://gateway.marvel.com/v1/public/characters/1009346','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009154,'','2013-11-20 20:06:36','Annihilus','http://gateway.marvel.com/v1/public/characters/1009154','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/f0/528d31f20a2f6');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1011301,'','1969-12-31 21:00:00','Anole','http://gateway.marvel.com/v1/public/characters/1011301','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/20/4c002e635ddd9'),
 (1010802,'','2014-03-05 15:20:04','Ant-Man (Eric O''Grady)','http://gateway.marvel.com/v1/public/characters/1010802','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/c0/53176aa9df48d'),
 (1010801,'','2017-01-31 14:03:40','Ant-Man (Scott Lang)','http://gateway.marvel.com/v1/public/characters/1010801','jpg','http://i.annihil.us/u/prod/marvel/i/mg/e/20/52696868356a0'),
@@ -64,7 +64,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1010773,'','2013-10-24 15:07:59','Arachne','http://gateway.marvel.com/v1/public/characters/1010773','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/70/5269526591794'),
 (1017438,'','2013-12-17 18:58:26','Araña','http://gateway.marvel.com/v1/public/characters/1017438','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009158,'','1969-12-31 21:00:00','Arcade','http://gateway.marvel.com/v1/public/characters/1009158','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/a0/4c0042091ab69');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1010686,'','1969-12-31 21:00:00','Arcana','http://gateway.marvel.com/v1/public/characters/1010686','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009159,'','2013-10-18 13:48:24','Archangel','http://gateway.marvel.com/v1/public/characters/1009159','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/03/526165ed93180'),
 (1009160,'','1969-12-31 21:00:00','Arclight','http://gateway.marvel.com/v1/public/characters/1009160','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4c0042067fd8b'),
@@ -75,7 +75,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1010827,'','1969-12-31 21:00:00','Armory','http://gateway.marvel.com/v1/public/characters/1010827','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009740,'The frail, dwarfish Arnim Zola was born in 1930s Switzerland where he became the world''s leading biochemist and genetic engineer.','2012-03-20 13:33:28','Arnim Zola','http://gateway.marvel.com/v1/public/characters/1009740','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/b0/4c00393a4cb7c'),
 (1010748,'','1969-12-31 21:00:00','Arsenic','http://gateway.marvel.com/v1/public/characters/1010748','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4c00359a2be7b');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009161,'','2011-10-27 11:59:16','Artiee','http://gateway.marvel.com/v1/public/characters/1009161','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1010718,'','1969-12-31 21:00:00','Asgardian','http://gateway.marvel.com/v1/public/characters/1010718','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009162,'','1969-12-31 21:00:00','Askew-Tronics','http://gateway.marvel.com/v1/public/characters/1009162','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -86,7 +86,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1009165,'Earth''s Mightiest Heroes joined forces to take on threats that were too big for any one hero to tackle. With a roster that has included Captain America, Iron Man, Ant-Man, Hulk, Thor, Wasp and dozens more over the years, the Avengers have come to be regarded as Earth''s No. 1 team.','2020-07-21 11:29:09','Avengers','http://gateway.marvel.com/v1/public/characters/1009165','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/20/5102c774ebae7'),
 (1015239,'','2012-07-10 20:18:28','Avengers (Ultimate)','http://gateway.marvel.com/v1/public/characters/1015239','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011766,'A mutant from biblical times, Azazel is the ruler of the Neyaphem and claims that the Earth and everything on it belongs to him.','2011-06-09 12:04:52','Azazel (Mutant)','http://gateway.marvel.com/v1/public/characters/1011766','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009168,'','2013-11-01 18:27:08','Banshee','http://gateway.marvel.com/v1/public/characters/1009168','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/03/52740e4619f54'),
 (1009596,'The daughter of former X-Men member Sean Cassidy, a.k.a. Banshee, and Maeve Rourke, Theresa Rourke was raised by her first cousin once removed, mutant terrorist Thomas Cassidy, a.k.a. Black Tom.','2011-03-23 18:37:27','Banshee (Theresa Rourke)','http://gateway.marvel.com/v1/public/characters/1009596','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/c0/4ce5a1a50e56b'),
 (1009169,'','2012-03-20 13:30:55','Baron Strucker','http://gateway.marvel.com/v1/public/characters/1009169','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/80/4c0041fb5a90d'),
@@ -97,7 +97,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1009550,'','1969-12-31 21:00:00','Bart Rozum','http://gateway.marvel.com/v1/public/characters/1009550','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009171,'','2013-10-24 15:07:45','Bastion','http://gateway.marvel.com/v1/public/characters/1009171','jpg','http://i.annihil.us/u/prod/marvel/i/mg/d/80/52695253215f4'),
 (1009172,'','2011-03-03 13:45:12','Batroc the Leaper','http://gateway.marvel.com/v1/public/characters/1009172','gif','http://i.annihil.us/u/prod/marvel/i/mg/c/80/4ce59eb840da5');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009173,'','1969-12-31 21:00:00','Battering Ram','http://gateway.marvel.com/v1/public/characters/1009173','gif','http://i.annihil.us/u/prod/marvel/i/mg/f/60/4c002e0305708'),
 (1009174,'','1969-12-31 21:00:00','Beak','http://gateway.marvel.com/v1/public/characters/1009174','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/90/4c0040b8329ad'),
 (1009175,'','2014-01-13 17:48:32','Beast','http://gateway.marvel.com/v1/public/characters/1009175','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/80/511a79a0451a3'),
@@ -108,7 +108,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1009178,'','1969-12-31 21:00:00','Beef','http://gateway.marvel.com/v1/public/characters/1009178','gif','http://i.annihil.us/u/prod/marvel/i/mg/f/60/4c002e0305708'),
 (1009179,'','1969-12-31 21:00:00','Beetle (Abner Jenkins)','http://gateway.marvel.com/v1/public/characters/1009179','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009329,'','2011-03-18 13:27:31','Ben Grimm','http://gateway.marvel.com/v1/public/characters/1009329','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009489,'','1969-12-31 21:00:00','Ben Parker','http://gateway.marvel.com/v1/public/characters/1009489','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4c003d00c8ed9'),
 (1011346,'Ben Reilly was the most genetically stable of the many clones of Spider-Man created by Professor Miles Warren, the Jackal.','1969-12-31 21:00:00','Ben Reilly','http://gateway.marvel.com/v1/public/characters/1011346','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/20/4ce5a6abaea69'),
 (1010782,'Ben Urich is a reporter for the Daily Bugle who has many ties to the city''s superhero community.','1969-12-31 21:00:00','Ben Urich','http://gateway.marvel.com/v1/public/characters/1010782','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/90/4c00373d10e5e'),
@@ -119,7 +119,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1011138,'','2013-11-20 20:06:32','Beyonder','http://gateway.marvel.com/v1/public/characters/1011138','jpg','http://i.annihil.us/u/prod/marvel/i/mg/7/10/528d31df87c49'),
 (1011296,'','2011-05-24 17:45:33','Bi-Beast','http://gateway.marvel.com/v1/public/characters/1011296','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1010843,'','1969-12-31 21:00:00','Big Bertha','http://gateway.marvel.com/v1/public/characters/1010843','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4c0035cfca8b6');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009181,'','2012-12-27 18:37:56','Big Wheel','http://gateway.marvel.com/v1/public/characters/1009181','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/00/4c0040b26877d'),
 (1011262,'','1969-12-31 21:00:00','Bill Hollister','http://gateway.marvel.com/v1/public/characters/1011262','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009182,'','2013-10-23 14:43:10','Bishop','http://gateway.marvel.com/v1/public/characters/1009182','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/70/52602f4b42d98'),
@@ -130,7 +130,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1009185,'','2016-03-07 12:00:52','Black Cat','http://gateway.marvel.com/v1/public/characters/1009185','jpg','http://i.annihil.us/u/prod/marvel/i/mg/e/03/526952357d91c'),
 (1010910,'','1969-12-31 21:00:00','Black Cat (Ultimate)','http://gateway.marvel.com/v1/public/characters/1010910','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/80/4c00357da502e'),
 (1010859,'','1969-12-31 21:00:00','Black Crow','http://gateway.marvel.com/v1/public/characters/1010859','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009186,'','1969-12-31 21:00:00','Black Knight (Sir Percy of Scandia)','http://gateway.marvel.com/v1/public/characters/1009186','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4ce59ed1590a7'),
 (1009187,'','2018-06-19 17:39:46','Black Panther','http://gateway.marvel.com/v1/public/characters/1009187','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/60/5261a80a67e7d'),
 (1011130,'','2014-03-05 15:19:46','Black Panther (Ultimate)','http://gateway.marvel.com/v1/public/characters/1011130','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/20/53176a7b3a4e4'),
@@ -141,7 +141,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1017296,'','2013-09-18 12:15:15','Black Widow (LEGO Marvel Super Heroes)','http://gateway.marvel.com/v1/public/characters/1017296','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/30/5239c3722bdc5'),
 (1010911,'','2014-03-05 15:19:36','Black Widow (Ultimate)','http://gateway.marvel.com/v1/public/characters/1010911','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/03/53176a690b261'),
 (1017109,'Natasha Romanoff, also known as Black Widow, is a world-renowned super spy and one of S.H.I.E.L.D.''s top agents. Her hand-to-hand combat skills, intelligence, and unpredictability make her a deadly secret weapon. True to her mysterious nature, Black Widow comes and goes as she pleases, but always appears exactly when her particular skills are needed.','2013-09-18 16:52:01','Black Widow/Natasha Romanoff (MAA)','http://gateway.marvel.com/v1/public/characters/1017109','jpg','http://i.annihil.us/u/prod/marvel/i/mg/a/03/523219743a99b');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009190,'','1969-12-31 21:00:00','Blackheart','http://gateway.marvel.com/v1/public/characters/1009190','jpg','http://i.annihil.us/u/prod/marvel/i/mg/a/f0/4c0040a0ee5ba'),
 (1010881,'','1969-12-31 21:00:00','Blacklash','http://gateway.marvel.com/v1/public/characters/1010881','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011349,'','1969-12-31 21:00:00','Blackout','http://gateway.marvel.com/v1/public/characters/1011349','jpg','http://i.annihil.us/u/prod/marvel/i/mg/c/60/4ce5a6b641eb9'),
@@ -152,7 +152,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1009197,'','1969-12-31 21:00:00','Blink','http://gateway.marvel.com/v1/public/characters/1009197','jpg','http://i.annihil.us/u/prod/marvel/i/mg/f/d0/4ce59eeb38a9a'),
 (1009198,'','1969-12-31 21:00:00','Blizzard','http://gateway.marvel.com/v1/public/characters/1009198','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009199,'','2011-02-09 20:31:11','Blob','http://gateway.marvel.com/v1/public/characters/1009199','png','http://i.annihil.us/u/prod/marvel/i/mg/1/10/4c7c648178328');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1011132,'','1969-12-31 21:00:00','Blob (Ultimate)','http://gateway.marvel.com/v1/public/characters/1011132','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/00/4ce5a51b309b7'),
 (1009200,'','1969-12-31 21:00:00','Blockbuster','http://gateway.marvel.com/v1/public/characters/1009200','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/60/4c0040969fa92'),
 (1009201,'','1969-12-31 21:00:00','Blok','http://gateway.marvel.com/v1/public/characters/1009201','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -163,7 +163,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1009204,'','1969-12-31 21:00:00','Bloodstorm','http://gateway.marvel.com/v1/public/characters/1009204','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1010850,'','1969-12-31 21:00:00','Bloodstrike','http://gateway.marvel.com/v1/public/characters/1010850','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011113,'','1969-12-31 21:00:00','Blue Blade','http://gateway.marvel.com/v1/public/characters/1011113','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4ce5a4b76d1c0');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1011339,'','2014-03-20 15:23:38','Blue Marvel','http://gateway.marvel.com/v1/public/characters/1011339','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011264,'','1969-12-31 21:00:00','Blue Shield','http://gateway.marvel.com/v1/public/characters/1011264','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1010688,'','1969-12-31 21:00:00','Blur','http://gateway.marvel.com/v1/public/characters/1010688','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -174,7 +174,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1009206,'','1969-12-31 21:00:00','Box','http://gateway.marvel.com/v1/public/characters/1009206','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/e0/4ce59ef63362d'),
 (1011236,'','2011-05-26 18:53:05','Bride of Nine Spiders (Immortal Weapons)','http://gateway.marvel.com/v1/public/characters/1011236','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4ce5a592212cc'),
 (1014981,'','2010-11-18 18:53:49','Bromley','http://gateway.marvel.com/v1/public/characters/1014981','jpg','http://i.annihil.us/u/prod/marvel/i/mg/c/00/4cd05b51df5c5');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009208,'','2013-10-17 15:53:39','Brood','http://gateway.marvel.com/v1/public/characters/1009208','jpg','http://i.annihil.us/u/prod/marvel/i/mg/d/40/5260321259f91'),
 (1011090,'','2010-11-08 16:18:21','Brother Voodoo','http://gateway.marvel.com/v1/public/characters/1011090','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009209,'','2014-06-16 11:40:40','Brotherhood of Evil Mutants','http://gateway.marvel.com/v1/public/characters/1009209','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/30/539f01b910d91'),
@@ -185,7 +185,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1011038,'','1969-12-31 21:00:00','Bug','http://gateway.marvel.com/v1/public/characters/1011038','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/30/4c00323e50dda'),
 (1010887,'','1969-12-31 21:00:00','Bulldozer','http://gateway.marvel.com/v1/public/characters/1010887','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009212,'','2016-02-03 19:49:50','Bullseye','http://gateway.marvel.com/v1/public/characters/1009212','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/30/539a08f322fd1');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009213,'','1969-12-31 21:00:00','Bushwacker','http://gateway.marvel.com/v1/public/characters/1009213','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011101,'','1969-12-31 21:00:00','Butterfly','http://gateway.marvel.com/v1/public/characters/1011101','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/00/4c0030b5dbc50'),
 (1009214,'','2016-03-28 13:36:31','Cable','http://gateway.marvel.com/v1/public/characters/1009214','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/90/526165df2b584'),
@@ -196,7 +196,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1011209,'','1969-12-31 21:00:00','Calamity','http://gateway.marvel.com/v1/public/characters/1011209','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009216,'','2013-12-26 18:01:09','Caliban','http://gateway.marvel.com/v1/public/characters/1009216','jpg','http://i.annihil.us/u/prod/marvel/i/mg/f/60/52bc8ac6e48db'),
 (1009217,'','1969-12-31 21:00:00','Callisto','http://gateway.marvel.com/v1/public/characters/1009217','jpg','http://i.annihil.us/u/prod/marvel/i/mg/f/90/4c004082711b8');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1010912,'','2014-04-29 15:14:52','Callisto (Age of Apocalypse)','http://gateway.marvel.com/v1/public/characters/1010912','jpg','http://i.annihil.us/u/prod/marvel/i/mg/f/c0/535feb96ee0fb'),
 (1009218,'','1969-12-31 21:00:00','Calypso','http://gateway.marvel.com/v1/public/characters/1009218','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4ce59f17087ab'),
 (1011139,'','1969-12-31 21:00:00','Cammi','http://gateway.marvel.com/v1/public/characters/1011139','jpg','http://i.annihil.us/u/prod/marvel/i/mg/d/a0/4c00309587477'),
@@ -207,7 +207,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1017295,'','2013-09-18 12:15:29','Captain America (LEGO Marvel Super Heroes)','http://gateway.marvel.com/v1/public/characters/1017295','jpg','http://i.annihil.us/u/prod/marvel/i/mg/d/b0/5239c38051946'),
 (1017327,'','2013-09-18 12:00:38','Captain America (Marvel War of Heroes)','http://gateway.marvel.com/v1/public/characters/1017327','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/03/5239c005a4827'),
 (1017575,'<p class="Body">Sam Wilson, a Harlem native, previously operated under the name Falcon, fighting alongside the Avengers. When his longtime friend Steve Rogers stepped down as Captain America, Wilson was hand-picked to fill the role. Now the former Falcon soars through the skies wearing red, white and blue.</p>','2014-11-17 20:46:57','Captain America (Sam Wilson)','http://gateway.marvel.com/v1/public/characters/1017575','jpg','http://i.annihil.us/u/prod/marvel/i/mg/c/80/545a84a75ddaf');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1010913,'','2014-03-05 15:17:57','Captain America (Ultimate)','http://gateway.marvel.com/v1/public/characters/1010913','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/80/53176a0bb810c'),
 (1017105,'During World War II, Steve Rogers enlisted in the military and was injected with a super-serum that turned him into super-soldier Captain America! He''s a skilled strategist and even more skilled with his shield, but it''s his courage and good heart that makes Captain America both a leader and a true hero. ','2013-09-18 16:49:41','Captain America/Steve Rogers (MAA)','http://gateway.marvel.com/v1/public/characters/1017105','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/10/52321928eaa72'),
 (1009223,'','2012-01-19 13:15:28','Captain Britain','http://gateway.marvel.com/v1/public/characters/1009223','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/50/4dbf0e5d57226'),
@@ -218,7 +218,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1011096,'','1969-12-31 21:00:00','Captain Marvel (Genis-Vell)','http://gateway.marvel.com/v1/public/characters/1011096','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009224,'','2013-10-17 15:53:19','Captain Marvel (Mar-Vell)','http://gateway.marvel.com/v1/public/characters/1009224','jpg','http://i.annihil.us/u/prod/marvel/i/mg/f/60/526032048d1a1'),
 (1011095,'','1969-12-31 21:00:00','Captain Marvel (Monica Rambeau)','http://gateway.marvel.com/v1/public/characters/1011095','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/00/4c0030bee8c86');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1011097,'','1969-12-31 21:00:00','Captain Marvel (Phyla-Vell)','http://gateway.marvel.com/v1/public/characters/1011097','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/a0/4c0030bc4629e'),
 (1011355,'','1969-12-31 21:00:00','Captain Midlands','http://gateway.marvel.com/v1/public/characters/1011355','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009225,'NYPD Captain George Stacy was the father of one-time Peter Parker girlfriend Gwen Stacy.','1969-12-31 21:00:00','Captain Stacy','http://gateway.marvel.com/v1/public/characters/1009225','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/a0/4c00407752be2'),
@@ -229,7 +229,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1011258,'','2011-09-08 17:50:58','Carlie Cooper','http://gateway.marvel.com/v1/public/characters/1011258','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009688,'Carmella Unuscione was one of the first members of the Magneto''s Acolytes.','1969-12-31 21:00:00','Carmella Unuscione','http://gateway.marvel.com/v1/public/characters/1009688','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009227,'','2016-02-18 15:28:26','Carnage','http://gateway.marvel.com/v1/public/characters/1009227','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/50/535fee423f170');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1010916,'','1969-12-31 21:00:00','Carnage (Ultimate)','http://gateway.marvel.com/v1/public/characters/1010916','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/00/4c003571c756c'),
 (1009261,'','2012-06-06 16:38:57','Carol Danvers','http://gateway.marvel.com/v1/public/characters/1009261','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009344,'','1969-12-31 21:00:00','Carol Hines','http://gateway.marvel.com/v1/public/characters/1009344','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -240,7 +240,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1011039,'','1969-12-31 21:00:00','Centennial','http://gateway.marvel.com/v1/public/characters/1011039','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/80/4c00323b6ac57'),
 (1011140,'','1969-12-31 21:00:00','Centurions','http://gateway.marvel.com/v1/public/characters/1011140','jpg','http://i.annihil.us/u/prod/marvel/i/mg/c/c0/4c7c63dd70fe7'),
 (1009231,'','1969-12-31 21:00:00','Cerebro','http://gateway.marvel.com/v1/public/characters/1009231','gif','http://i.annihil.us/u/prod/marvel/i/mg/f/60/4c002e0305708');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1011141,'','1969-12-31 21:00:00','Cerise','http://gateway.marvel.com/v1/public/characters/1011141','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009232,'','1969-12-31 21:00:00','Ch''od','http://gateway.marvel.com/v1/public/characters/1009232','jpg','http://i.annihil.us/u/prod/marvel/i/mg/f/60/4ce59f2dcd04d'),
 (1009233,'','2011-05-27 14:35:17','Chamber','http://gateway.marvel.com/v1/public/characters/1009233','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/80/4c00406e4731b'),
@@ -251,7 +251,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1011331,'','1969-12-31 21:00:00','Charlie Campion','http://gateway.marvel.com/v1/public/characters/1011331','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1010754,'Chase Stein is the son of mad scientists Victor and Janet Stein and is the tech genius of the Runaways.','2010-11-18 15:06:36','Chase Stein','http://gateway.marvel.com/v1/public/characters/1010754','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4ce5a2e831d0c'),
 (1011359,'','2010-11-30 18:45:40','Chat','http://gateway.marvel.com/v1/public/characters/1011359','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/50/4ce5a6cd63eaf');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009237,'','1969-12-31 21:00:00','Chimera','http://gateway.marvel.com/v1/public/characters/1009237','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011411,'','1969-12-31 21:00:00','Chores MacGillicudy','http://gateway.marvel.com/v1/public/characters/1011411','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/80/4c002e1c622c8'),
 (1011187,'','1969-12-31 21:00:00','Christian Walker','http://gateway.marvel.com/v1/public/characters/1011187','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -262,7 +262,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1010809,'','1969-12-31 21:00:00','Clint Barton','http://gateway.marvel.com/v1/public/characters/1010809','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009241,'','2013-11-20 20:06:28','Cloak','http://gateway.marvel.com/v1/public/characters/1009241','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/e0/528d31d76a2b0'),
 (1010823,'','2013-10-24 15:17:04','Cloud 9','http://gateway.marvel.com/v1/public/characters/1010823','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/80/526955ef00db6');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1011286,'','1969-12-31 21:00:00','Cobalt Man','http://gateway.marvel.com/v1/public/characters/1011286','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1010676,'Colleen Wing was raised in Japan by her grandfather Kanji Ozawa, who taught her the ways of a samurai, in which she became highly skilled, after which she teamed up with Misty Knight at the behest of Tony Stark as a new Heroes for Hire tasked with capturing superhumans who have not registered.','2013-11-01 18:27:00','Colleen Wing','http://gateway.marvel.com/v1/public/characters/1010676','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/e0/52740e24bddb4'),
 (1010798,'','1969-12-31 21:00:00','Colonel America','http://gateway.marvel.com/v1/public/characters/1010798','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -273,7 +273,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1011407,'','1969-12-31 21:00:00','Contessa (Vera Vidal)','http://gateway.marvel.com/v1/public/characters/1011407','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/70/4c002e274342b'),
 (1010346,'','1969-12-31 21:00:00','Controller','http://gateway.marvel.com/v1/public/characters/1010346','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/60/4c003923719ff'),
 (1009246,'','1969-12-31 21:00:00','Cornelius','http://gateway.marvel.com/v1/public/characters/1009246','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009247,'','2011-06-02 17:58:21','Corsair','http://gateway.marvel.com/v1/public/characters/1009247','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4c004062d89bd'),
 (1011353,'','2014-07-24 16:14:21','Cosmo (dog)','http://gateway.marvel.com/v1/public/characters/1011353','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011362,'','1969-12-31 21:00:00','Cottonmouth','http://gateway.marvel.com/v1/public/characters/1011362','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -284,7 +284,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1017323,'','2013-09-18 12:05:28','Crimson Dynamo (Iron Man 3 - The Official Game)','http://gateway.marvel.com/v1/public/characters/1017323','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/b0/5239c1307d9c9'),
 (1011169,'','1969-12-31 21:00:00','Crimson King','http://gateway.marvel.com/v1/public/characters/1011169','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009252,'','2011-09-26 12:36:46','Crossbones','http://gateway.marvel.com/v1/public/characters/1009252','jpg','http://i.annihil.us/u/prod/marvel/i/mg/1/c0/4c00405a403c0');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009253,'','1969-12-31 21:00:00','Crule','http://gateway.marvel.com/v1/public/characters/1009253','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009254,'','1969-12-31 21:00:00','Crusher Hogan','http://gateway.marvel.com/v1/public/characters/1009254','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/90/4c004057a5bc6'),
 (1014991,'','2012-07-10 20:27:37','Crusher Hogan (Ultimate)','http://gateway.marvel.com/v1/public/characters/1014991','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -295,18 +295,18 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1009256,'','1969-12-31 21:00:00','Cyber','http://gateway.marvel.com/v1/public/characters/1009256','jpg','http://i.annihil.us/u/prod/marvel/i/mg/1/f0/4c0040521bc06'),
 (1009257,'','2016-07-05 15:30:06','Cyclops','http://gateway.marvel.com/v1/public/characters/1009257','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/70/526547e2d90ad'),
 (1010918,'','2014-03-05 15:27:26','Cyclops (Ultimate)','http://gateway.marvel.com/v1/public/characters/1010918','jpg','http://i.annihil.us/u/prod/marvel/i/mg/c/80/53176b8fe1dfa');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1017473,'','2014-01-15 22:39:15','Cyclops (X-Men: Battle of the Atom)','http://gateway.marvel.com/v1/public/characters/1017473','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/40/52d72a169ddf0'),
 (1011385,'','2011-02-28 18:06:26','Cypher','http://gateway.marvel.com/v1/public/characters/1011385','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/10/4ce5a70abf6fb'),
 (1011050,'','1969-12-31 21:00:00','D''Ken Neramani','http://gateway.marvel.com/v1/public/characters/1011050','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009258,'','2013-11-20 20:06:21','Dagger','http://gateway.marvel.com/v1/public/characters/1009258','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/e0/528d31c9eac10'),
-(1010774,'','0002-11-30 02:00:00 BC','Daily Bugle','http://gateway.marvel.com/v1/public/characters/1010774','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4ce5a31605544'),
+(1010774,'','0002-11-30 02:00:00','Daily Bugle','http://gateway.marvel.com/v1/public/characters/1010774','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4ce5a31605544'),
 (1010719,'','2012-10-12 18:25:43','Daimon Hellstrom','http://gateway.marvel.com/v1/public/characters/1010719','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/60/4ce5a2959ba25'),
 (1011001,'','2013-08-07 14:54:38','Daken','http://gateway.marvel.com/v1/public/characters/1011001','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/a0/520289a920fd9'),
 (1011333,'','1969-12-31 21:00:00','Dakota North','http://gateway.marvel.com/v1/public/characters/1011333','jpg','http://i.annihil.us/u/prod/marvel/i/mg/7/d0/4ce5a6888f769'),
 (1009259,'','1969-12-31 21:00:00','Damage Control','http://gateway.marvel.com/v1/public/characters/1009259','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/00/4c00404b5e1a2'),
 (1009453,'','2013-08-07 00:17:59','Dani Moonstar','http://gateway.marvel.com/v1/public/characters/1009453','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/20/4ce5a0614487a');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1010776,'','2004-04-14 01:00:00','Danny Rand','http://gateway.marvel.com/v1/public/characters/1010776','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/20/4c00374b1008a'),
 (1009262,'Abandoned by his mother, Matt Murdock was raised by his father, boxer "Battling Jack" Murdock, in Hell''s Kitchen. Realizing that rules were needed to prevent people from behaving badly, young Matt decided to study law; however, when he saved a man from an oncoming truck, it spilled a radioactive cargo that rendered Matt blind while enhancing his remaining senses. Under the harsh tutelage of blind martial arts master Stick, Matt mastered his heightened senses and became a formidable fighter.','2020-03-04 18:09:36','Daredevil','http://gateway.marvel.com/v1/public/characters/1009262','jpg','http://i.annihil.us/u/prod/marvel/i/mg/d/50/50febb79985ee'),
 (1017292,'','2013-09-12 18:29:45','Daredevil (LEGO Marvel Super Heroes)','http://gateway.marvel.com/v1/public/characters/1017292','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -317,7 +317,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1010907,'','2013-10-17 15:41:37','Dark Beast','http://gateway.marvel.com/v1/public/characters/1010907','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/d0/52602f32efdab'),
 (1009265,'','2011-04-22 15:26:50','Dark Phoenix','http://gateway.marvel.com/v1/public/characters/1009265','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/e0/4ce59f6c7e332'),
 (1011387,'','1969-12-31 21:00:00','Dark X-Men','http://gateway.marvel.com/v1/public/characters/1011387','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/40/4ce5a7160a79b');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1011020,'','2013-10-24 15:16:45','Darkhawk','http://gateway.marvel.com/v1/public/characters/1011020','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/a0/5269553f4bc6a'),
 (1009266,'','1969-12-31 21:00:00','Darkstar','http://gateway.marvel.com/v1/public/characters/1009266','jpg','http://i.annihil.us/u/prod/marvel/i/mg/d/20/4ce59f77ea6f1'),
 (1011016,'','1969-12-31 21:00:00','Darwin','http://gateway.marvel.com/v1/public/characters/1011016','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/60/4c003269b12a4'),
@@ -328,7 +328,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1009268,'','2020-04-04 20:02:15','Deadpool','http://gateway.marvel.com/v1/public/characters/1009268','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/90/5261a86cacb99'),
 (1017316,'','2013-09-18 12:09:55','Deadpool (Deadpool)','http://gateway.marvel.com/v1/public/characters/1017316','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/f0/5239c232c227c'),
 (1017336,'','2013-09-18 16:06:33','Deadpool (LEGO Marvel Super Heroes)','http://gateway.marvel.com/v1/public/characters/1017336','jpg','http://i.annihil.us/u/prod/marvel/i/mg/a/a0/5239f9a8ee88d');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1017474,'','2014-01-15 22:40:09','Deadpool (X-Men: Battle of the Atom)','http://gateway.marvel.com/v1/public/characters/1017474','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/20/52d72a5b55a55'),
 (1009269,'','2013-10-17 15:52:53','Death','http://gateway.marvel.com/v1/public/characters/1009269','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/80/526031f5a21eb'),
 (1009270,'','1969-12-31 21:00:00','Deathbird','http://gateway.marvel.com/v1/public/characters/1009270','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/60/4c004041be770'),
@@ -339,7 +339,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1010717,'','1969-12-31 21:00:00','Debrii','http://gateway.marvel.com/v1/public/characters/1010717','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/a0/4c0038c02e75a'),
 (1011188,'','1969-12-31 21:00:00','Deena Pilgrim','http://gateway.marvel.com/v1/public/characters/1011188','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011023,'','2016-02-10 14:11:18','Defenders','http://gateway.marvel.com/v1/public/characters/1011023','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/80/526031e9c785a');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1011071,'Jason Macendale, the newest Hobgoblin was down on his luck and offered the demon N''astirh his soul in exchange for power during the  Inferno crisis, turning him into the Demogoblin.','2014-04-29 15:23:54','Demogoblin','http://gateway.marvel.com/v1/public/characters/1011071','jpg','http://i.annihil.us/u/prod/marvel/i/mg/c/80/535fedd611db9'),
 (1009271,'','1969-12-31 21:00:00','Destiny','http://gateway.marvel.com/v1/public/characters/1009271','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009272,'','1969-12-31 21:00:00','Detective Soap','http://gateway.marvel.com/v1/public/characters/1009272','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -350,7 +350,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1011260,'','1969-12-31 21:00:00','Dexter Bennett','http://gateway.marvel.com/v1/public/characters/1011260','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4ce5a5d5d8932'),
 (1009273,'','1969-12-31 21:00:00','Diablo','http://gateway.marvel.com/v1/public/characters/1009273','jpg','http://i.annihil.us/u/prod/marvel/i/mg/c/f0/4ce59f83af33f'),
 (1009274,'','2013-10-24 15:17:17','Diamondback (Rachel Leighton)','http://gateway.marvel.com/v1/public/characters/1009274','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/f0/526955c158ece');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1011040,'','1969-12-31 21:00:00','Dinah Soar','http://gateway.marvel.com/v1/public/characters/1011040','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1010997,'','1969-12-31 21:00:00','Dirk Anger','http://gateway.marvel.com/v1/public/characters/1010997','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009275,'','2013-10-18 18:32:38','Doc Samson','http://gateway.marvel.com/v1/public/characters/1009275','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/10/5261a84c1707c'),
@@ -361,7 +361,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1010921,'','1969-12-31 21:00:00','Doctor Octopus (Ultimate)','http://gateway.marvel.com/v1/public/characters/1010921','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/50/4c00344e05ce0'),
 (1010689,'','2011-05-05 14:07:29','Doctor Spectrum','http://gateway.marvel.com/v1/public/characters/1010689','jpg','http://i.annihil.us/u/prod/marvel/i/mg/4/90/4dc2d94978576'),
 (1009282,'','2020-07-21 11:33:36','Doctor Strange','http://gateway.marvel.com/v1/public/characters/1009282','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/f0/5261a85a501fe');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1011358,'','2014-03-05 15:24:09','Doctor Strange (Ultimate)','http://gateway.marvel.com/v1/public/characters/1011358','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/f0/53176bbb6dc50'),
 (1011235,'','2011-05-26 18:53:17','Dog Brother #1','http://gateway.marvel.com/v1/public/characters/1011235','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/d0/4ce5a586c3c95'),
 (1009277,'','2014-10-17 18:55:54','Domino','http://gateway.marvel.com/v1/public/characters/1009277','jpg','http://i.annihil.us/u/prod/marvel/i/mg/f/60/526031dc10516'),
@@ -372,7 +372,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1011195,'','1969-12-31 21:00:00','Dorian Gray','http://gateway.marvel.com/v1/public/characters/1011195','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009280,'','2010-12-01 15:27:51','Dormammu','http://gateway.marvel.com/v1/public/characters/1009280','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/70/4c003f1ddc0e5'),
 (1014992,'','2012-07-10 20:31:24','Dormammu (Ultimate)','http://gateway.marvel.com/v1/public/characters/1014992','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1017300,'','2013-09-18 11:17:22','Dr. Strange (Marvel: Avengers Alliance)','http://gateway.marvel.com/v1/public/characters/1017300','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/f0/5239b5e7d7f70'),
 (1010677,'','2014-02-20 22:49:31','Dracula','http://gateway.marvel.com/v1/public/characters/1010677','jpg','http://i.annihil.us/u/prod/marvel/i/mg/a/03/526955af18612'),
 (1011247,'','1969-12-31 21:00:00','Dragon Lord','http://gateway.marvel.com/v1/public/characters/1011247','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -383,7 +383,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1011322,'','1969-12-31 21:00:00','Druig','http://gateway.marvel.com/v1/public/characters/1011322','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009284,'','2011-07-28 13:55:53','Dum Dum Dugan','http://gateway.marvel.com/v1/public/characters/1009284','jpg','http://i.annihil.us/u/prod/marvel/i/mg/e/00/4ce59f9fc788f'),
 (1009285,'','1969-12-31 21:00:00','Dust','http://gateway.marvel.com/v1/public/characters/1009285','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/f0/4c003f17db9a6');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009286,'','1969-12-31 21:00:00','Earthquake','http://gateway.marvel.com/v1/public/characters/1009286','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/90/4c003f153b571'),
 (1010785,'','2004-04-14 01:00:00','Echo','http://gateway.marvel.com/v1/public/characters/1010785','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4c00373a2629f'),
 (1010787,'','2014-10-28 20:00:31','Eddie Brock','http://gateway.marvel.com/v1/public/characters/1010787','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/80/4de932f1a298a'),
@@ -394,7 +394,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1009287,'','2015-06-12 14:16:44','Electro','http://gateway.marvel.com/v1/public/characters/1009287','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/60/4c003f1214bd7'),
 (1010922,'','1969-12-31 21:00:00','Electro (Ultimate)','http://gateway.marvel.com/v1/public/characters/1010922','jpg','http://i.annihil.us/u/prod/marvel/i/mg/f/d0/4c0034491f280'),
 (1009288,'','2017-08-21 17:51:16','Elektra','http://gateway.marvel.com/v1/public/characters/1009288','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/d0/51114fec4a2c8');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1010923,'','2014-03-05 15:26:27','Elektra (Ultimate)','http://gateway.marvel.com/v1/public/characters/1010923','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/03/53176bc813157'),
 (1010355,'','1969-12-31 21:00:00','Elements of Doom','http://gateway.marvel.com/v1/public/characters/1010355','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009290,'','1969-12-31 21:00:00','Elite','http://gateway.marvel.com/v1/public/characters/1009290','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -402,10 +402,10 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1011122,'','2013-10-24 15:17:25','Elloe Kaifi','http://gateway.marvel.com/v1/public/characters/1011122','jpg','http://i.annihil.us/u/prod/marvel/i/mg/4/50/5269559c8d0c9'),
 (1010701,'','1969-12-31 21:00:00','Elsa Bloodstone','http://gateway.marvel.com/v1/public/characters/1010701','jpg','http://i.annihil.us/u/prod/marvel/i/mg/e/b0/4c0038ccbe4fa'),
 (1009310,'','2016-07-05 15:28:45','Emma Frost','http://gateway.marvel.com/v1/public/characters/1009310','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/80/51151ef7cf4c8'),
-(1009291,'','0002-11-30 02:00:00 BC','Empath','http://gateway.marvel.com/v1/public/characters/1009291','jpg','http://i.annihil.us/u/prod/marvel/i/mg/f/60/4ce59faf350ea'),
+(1009291,'','0002-11-30 02:00:00','Empath','http://gateway.marvel.com/v1/public/characters/1009291','jpg','http://i.annihil.us/u/prod/marvel/i/mg/f/60/4ce59faf350ea'),
 (1009292,'','1969-12-31 21:00:00','Emplate','http://gateway.marvel.com/v1/public/characters/1009292','jpg','http://i.annihil.us/u/prod/marvel/i/mg/f/10/4bb3bcffb8325'),
 (1010671,'','2013-11-01 18:26:51','Enchantress (Amora)','http://gateway.marvel.com/v1/public/characters/1010671','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/10/52740e0f3c733');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1011432,'','2016-02-01 17:18:56','Enchantress (Sylvie Lushton)','http://gateway.marvel.com/v1/public/characters/1011432','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011313,'','2010-12-08 15:39:15','Ender Wiggin','http://gateway.marvel.com/v1/public/characters/1011313','jpg','http://i.annihil.us/u/prod/marvel/i/mg/c/90/4ce154e96ec1e'),
 (1010445,'','1969-12-31 21:00:00','Energizer','http://gateway.marvel.com/v1/public/characters/1010445','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -416,7 +416,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1010771,'','1969-12-31 21:00:00','Excalibur','http://gateway.marvel.com/v1/public/characters/1010771','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/f0/4c00374eb5d5d'),
 (1009294,'','2010-11-18 17:08:22','Exiles','http://gateway.marvel.com/v1/public/characters/1009294','jpg','http://i.annihil.us/u/prod/marvel/i/mg/f/c0/4ce59fbab92f5'),
 (1009295,'','2013-10-24 15:17:29','Exodus','http://gateway.marvel.com/v1/public/characters/1009295','jpg','http://i.annihil.us/u/prod/marvel/i/mg/e/20/52695589e1721');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009296,'','1969-12-31 21:00:00','Expediter','http://gateway.marvel.com/v1/public/characters/1009296','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011199,'','1969-12-31 21:00:00','Ezekiel','http://gateway.marvel.com/v1/public/characters/1011199','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/c0/4c002f2268bd4'),
 (1011317,'','1969-12-31 21:00:00','Ezekiel Stane','http://gateway.marvel.com/v1/public/characters/1011317','jpg','http://i.annihil.us/u/prod/marvel/i/mg/c/50/4ce5a64fd283a'),
@@ -427,7 +427,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1009298,'','1969-12-31 21:00:00','Famine','http://gateway.marvel.com/v1/public/characters/1009298','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009299,'After being exposed to cosmic rays, Reed Richards, Susan Storm, Ben Grimm and Johnny Storm found they had amazing new powers. Reed Richards found he has the ability to stretch his body in any way he wanted, while Susan Storm can turn herself, objects and other people invisible. Ben Grimm transformed into a rocky, super-strong behemoth and Johnny Storm has the ability to set himself on fire. Dubbed the Fantastic Four, Mr. Fantastic, Invisible Woman, Thing and the Human Torch are Marvel''s First Family.','2016-05-05 15:38:42','Fantastic Four','http://gateway.marvel.com/v1/public/characters/1009299','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/60/50febc4f55525'),
 (1011013,'','1969-12-31 21:00:00','Fantastic Four (Ultimate)','http://gateway.marvel.com/v1/public/characters/1011013','jpg','http://i.annihil.us/u/prod/marvel/i/mg/f/b0/4c0032727c038');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1011111,'','1969-12-31 21:00:00','Fantastick Four','http://gateway.marvel.com/v1/public/characters/1011111','jpg','http://i.annihil.us/u/prod/marvel/i/mg/4/80/4c0030a052a1c'),
 (1009301,'','2014-04-29 15:52:10','Fantomex','http://gateway.marvel.com/v1/public/characters/1009301','jpg','http://i.annihil.us/u/prod/marvel/i/mg/f/60/535ff35da5ccd'),
 (1011233,'','2011-05-26 18:52:52','Fat Cobra','http://gateway.marvel.com/v1/public/characters/1011233','jpg','http://i.annihil.us/u/prod/marvel/i/mg/e/f0/4db58b3c6aaa6'),
@@ -438,7 +438,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1010868,'','1969-12-31 21:00:00','Firebird','http://gateway.marvel.com/v1/public/characters/1010868','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/30/4c0035b0a7de0'),
 (1009304,'','1969-12-31 21:00:00','Firebrand','http://gateway.marvel.com/v1/public/characters/1009304','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1014987,'','2010-11-18 18:58:52','Firedrake','http://gateway.marvel.com/v1/public/characters/1014987','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/a0/4cd0603234ecd');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009305,'','2010-11-18 17:27:51','Firelord','http://gateway.marvel.com/v1/public/characters/1009305','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4ce59fd314c38'),
 (1009306,'','2013-10-17 15:57:09','Firestar','http://gateway.marvel.com/v1/public/characters/1009306','jpg','http://i.annihil.us/u/prod/marvel/i/mg/7/03/526032b8247e8'),
 (1011222,'','2011-03-10 18:54:12','Firestar (Ultimate)','http://gateway.marvel.com/v1/public/characters/1011222','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/d0/4ce5a555585c6'),
@@ -449,7 +449,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1009307,'','2013-11-01 18:26:47','Force Works','http://gateway.marvel.com/v1/public/characters/1009307','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/a0/52740df74b57d'),
 (1009308,'','1969-12-31 21:00:00','Forearm','http://gateway.marvel.com/v1/public/characters/1009308','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009309,'','2013-10-24 15:28:57','Forge','http://gateway.marvel.com/v1/public/characters/1009309','jpg','http://i.annihil.us/u/prod/marvel/i/mg/a/90/5269585071503');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1014993,'','2012-07-10 20:32:29','Forge (Ultimate)','http://gateway.marvel.com/v1/public/characters/1014993','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011177,'','1969-12-31 21:00:00','Forgotten One','http://gateway.marvel.com/v1/public/characters/1011177','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/70/4c002f332fb1f'),
 (1009229,'','2004-04-14 01:00:00','Frank Castle','http://gateway.marvel.com/v1/public/characters/1009229','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -460,7 +460,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1010799,'','1969-12-31 21:00:00','Frightful Four','http://gateway.marvel.com/v1/public/characters/1010799','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/a0/4c00372aafb39'),
 (1011389,'','1969-12-31 21:00:00','Frog Thor','http://gateway.marvel.com/v1/public/characters/1011389','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/b0/4ce5a72d1a081'),
 (1010670,'','2011-06-08 13:00:18','Frog-Man','http://gateway.marvel.com/v1/public/characters/1010670','jpg','http://i.annihil.us/u/prod/marvel/i/mg/f/60/4def9bf15ce30');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009377,'','1969-12-31 21:00:00','Gabe Jones','http://gateway.marvel.com/v1/public/characters/1009377','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4ce5a0155d904'),
 (1009312,'','2014-09-30 17:47:03','Galactus','http://gateway.marvel.com/v1/public/characters/1009312','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/03/528d31a791308'),
 (1011384,'','1969-12-31 21:00:00','Galia','http://gateway.marvel.com/v1/public/characters/1011384','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -471,7 +471,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1010832,'','2004-04-14 01:00:00','Gargoyle','http://gateway.marvel.com/v1/public/characters/1010832','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1012513,'','2010-12-15 16:35:44','Gargoyle (Yuri Topolov)','http://gateway.marvel.com/v1/public/characters/1012513','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011380,'','1969-12-31 21:00:00','Garia','http://gateway.marvel.com/v1/public/characters/1011380','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009383,'','1969-12-31 21:00:00','Garrison Kane','http://gateway.marvel.com/v1/public/characters/1009383','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/f0/4c003e9db374b'),
 (1009315,'','1969-12-31 21:00:00','Gateway','http://gateway.marvel.com/v1/public/characters/1009315','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4c003ef236e72'),
 (1009316,'','2014-04-29 15:42:58','Gauntlet (Joseph Green)','http://gateway.marvel.com/v1/public/characters/1009316','jpg','http://i.annihil.us/u/prod/marvel/i/mg/7/20/535ff2a48869b'),
@@ -482,7 +482,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1011098,'','1969-12-31 21:00:00','Genis-Vell','http://gateway.marvel.com/v1/public/characters/1011098','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1014974,'','2012-07-10 20:25:45','George Stacy (Ultimate)','http://gateway.marvel.com/v1/public/characters/1014974','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1010749,'','1969-12-31 21:00:00','Gertrude Yorkes','http://gateway.marvel.com/v1/public/characters/1010749','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4c00359a2be7b');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1010925,'','2016-02-10 13:25:38','Ghost Rider (Daniel Ketch)','http://gateway.marvel.com/v1/public/characters/1010925','jpg','http://i.annihil.us/u/prod/marvel/i/mg/c/50/535feaa671cc6'),
 (1009318,'','2016-02-10 13:25:28','Ghost Rider (Johnny Blaze)','http://gateway.marvel.com/v1/public/characters/1009318','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/80/52696ba1353e7'),
 (1017329,'','2013-09-18 11:59:53','Ghost Rider (Marvel War of Heroes)','http://gateway.marvel.com/v1/public/characters/1017329','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/f0/5239bfd918fb5'),
@@ -493,7 +493,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1011055,'','1969-12-31 21:00:00','Gideon','http://gateway.marvel.com/v1/public/characters/1011055','jpg','http://i.annihil.us/u/prod/marvel/i/mg/c/20/4c00311236811'),
 (1014982,'','2010-11-18 18:54:36','Git Hoskins','http://gateway.marvel.com/v1/public/characters/1014982','jpg','http://i.annihil.us/u/prod/marvel/i/mg/1/c0/4cd05c0c4ffad'),
 (1009321,'','2016-07-08 15:38:24','Gladiator (Kallark)','http://gateway.marvel.com/v1/public/characters/1009321','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/03/52696b33b7920');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1011256,'','1969-12-31 21:00:00','Gladiator (Melvin Potter)','http://gateway.marvel.com/v1/public/characters/1011256','jpg','http://i.annihil.us/u/prod/marvel/i/mg/f/90/4ce5a5ca49c7f'),
 (1009645,'Major Glenn Talbot was member of United States Air Force, United States Army and Hulkbusters.','1969-12-31 21:00:00','Glenn Talbot','http://gateway.marvel.com/v1/public/characters/1009645','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011144,'','1969-12-31 21:00:00','Glorian','http://gateway.marvel.com/v1/public/characters/1011144','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4c002f81ea1f8'),
@@ -504,7 +504,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1010731,'','2004-04-14 01:00:00','Gorilla Man','http://gateway.marvel.com/v1/public/characters/1010731','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/30/4c00378d65a54'),
 (1011076,'','2017-08-21 15:39:21','Grandmaster','http://gateway.marvel.com/v1/public/characters/1011076','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/10/4c0030dc410d6'),
 (1010702,'','2013-10-17 16:01:40','Gravity','http://gateway.marvel.com/v1/public/characters/1010702','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/70/526033d50fa1b');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1011041,'','1969-12-31 21:00:00','Great Lakes Avengers','http://gateway.marvel.com/v1/public/characters/1011041','jpg','http://i.annihil.us/u/prod/marvel/i/mg/f/70/4c0032387d022'),
 (1014985,'','2010-11-18 18:57:08','Green Goblin (Barry Norman Osborn)','http://gateway.marvel.com/v1/public/characters/1014985','jpg','http://i.annihil.us/u/prod/marvel/i/mg/e/f0/4cd05ee55faa2'),
 (1010928,'','1969-12-31 21:00:00','Green Goblin (Harry Osborn)','http://gateway.marvel.com/v1/public/characters/1010928','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -515,7 +515,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1009328,'','1969-12-31 21:00:00','Grim Reaper','http://gateway.marvel.com/v1/public/characters/1009328','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/b0/4c003ee8885e4'),
 (1010743,'','2013-10-17 16:01:37','Groot','http://gateway.marvel.com/v1/public/characters/1010743','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/10/526033c8b474a'),
 (1009330,'','2011-05-19 12:07:05','Guardian','http://gateway.marvel.com/v1/public/characters/1009330','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/50/4dd531d26079c');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1011299,'A group of cosmic adventurers brought together by Star-Lord, the  Guardians of the Galaxy protect the universe from threats all  across space. The team also includes Drax, Gamora, Groot and Rocket  Raccoon!','2020-07-21 11:30:47','Guardians of the Galaxy','http://gateway.marvel.com/v1/public/characters/1011299','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/70/50febd8be6b5d'),
 (1009331,'','1969-12-31 21:00:00','Guardsmen','http://gateway.marvel.com/v1/public/characters/1009331','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1010709,'','2004-04-14 01:00:00','Gunslinger','http://gateway.marvel.com/v1/public/characters/1010709','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -526,7 +526,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1009332,'','2012-03-20 13:48:36','H.E.R.B.I.E.','http://gateway.marvel.com/v1/public/characters/1009332','jpg','http://i.annihil.us/u/prod/marvel/i/mg/c/e0/4ce59fe9811cb'),
 (1011391,'','1969-12-31 21:00:00','Hairball','http://gateway.marvel.com/v1/public/characters/1011391','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009333,'','1969-12-31 21:00:00','Half-Life (Tony Masterson)','http://gateway.marvel.com/v1/public/characters/1009333','jpg','http://i.annihil.us/u/prod/marvel/i/mg/a/20/4ce59ff485b35');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009334,'','1969-12-31 21:00:00','Hammerhead','http://gateway.marvel.com/v1/public/characters/1009334','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/c0/4c003ee47c207'),
 (1014995,'','2012-07-11 10:13:15','Hammerhead (Ultimate)','http://gateway.marvel.com/v1/public/characters/1014995','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011490,' ','2015-06-01 17:59:16','Hank Pym','http://gateway.marvel.com/v1/public/characters/1011490','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/b0/5205305343bfd'),
@@ -537,7 +537,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1009336,'','1969-12-31 21:00:00','Harpoon','http://gateway.marvel.com/v1/public/characters/1009336','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011069,'','1969-12-31 21:00:00','Harrier','http://gateway.marvel.com/v1/public/characters/1011069','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/30/4c0030e7aba3e'),
 (1009339,'','1969-12-31 21:00:00','Harry Heck','http://gateway.marvel.com/v1/public/characters/1009339','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009486,'','2012-02-02 17:04:39','Harry Osborn','http://gateway.marvel.com/v1/public/characters/1009486','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4ce5a0b3181d8'),
 (1011218,'','1969-12-31 21:00:00','Harry Osborn (Ultimate)','http://gateway.marvel.com/v1/public/characters/1011218','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1010816,'','1969-12-31 21:00:00','Hate-Monger (Adolf Hitler)','http://gateway.marvel.com/v1/public/characters/1010816','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/50/4c0035ea3151e'),
@@ -548,7 +548,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1011131,'','2014-03-05 15:26:13','Hawkeye (Ultimate)','http://gateway.marvel.com/v1/public/characters/1011131','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/03/53176be145914'),
 (1017108,'Hawkeye is an expert archer with an attitude just as on-target as his aim. His stealth combat experience and his ability to hit any target with any projectile make him a valuable member of the Avengers. However, he refuses to let things get too serious, as he has as many jokes as he does arrows!','2013-09-18 16:48:47','Hawkeye/Clint Barton (MAA)','http://gateway.marvel.com/v1/public/characters/1017108','jpg','http://i.annihil.us/u/prod/marvel/i/mg/4/03/5232198a81c17'),
 (1011046,'','1969-12-31 21:00:00','Hedge Knight','http://gateway.marvel.com/v1/public/characters/1011046','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1010351,'','2011-03-07 15:02:34','Hellcat (Patsy Walker)','http://gateway.marvel.com/v1/public/characters/1010351','jpg','http://i.annihil.us/u/prod/marvel/i/mg/c/30/4d751d6b1bc7d'),
 (1009340,'','1969-12-31 21:00:00','Hellfire Club','http://gateway.marvel.com/v1/public/characters/1009340','jpg','http://i.annihil.us/u/prod/marvel/i/mg/c/20/4c003eddcc659'),
 (1014996,'','2012-07-11 10:14:59','Hellfire Club (Ultimate)','http://gateway.marvel.com/v1/public/characters/1014996','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -556,10 +556,10 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1011044,'','1969-12-31 21:00:00','Hellions (Squad)','http://gateway.marvel.com/v1/public/characters/1011044','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/10/4c00323303deb'),
 (1009341,'','1969-12-31 21:00:00','Hemingway','http://gateway.marvel.com/v1/public/characters/1009341','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011371,'','2014-04-29 15:23:23','Henry Peter Gyrich','http://gateway.marvel.com/v1/public/characters/1011371','jpg','http://i.annihil.us/u/prod/marvel/i/mg/f/c0/535fed9b1ae7f'),
-(1009342,'','0002-11-30 02:00:00 BC','Hepzibah','http://gateway.marvel.com/v1/public/characters/1009342','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4c003eda76ac7'),
+(1009342,'','0002-11-30 02:00:00','Hepzibah','http://gateway.marvel.com/v1/public/characters/1009342','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4c003eda76ac7'),
 (1009343,'','2013-11-14 17:47:08','Hercules','http://gateway.marvel.com/v1/public/characters/1009343','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/d0/52052ebddfa53'),
 (1010759,'','2010-11-29 19:22:27','Heroes For Hire','http://gateway.marvel.com/v1/public/characters/1010759','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4c00376a77ce0');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1011274,'','1969-12-31 21:00:00','Hex','http://gateway.marvel.com/v1/public/characters/1011274','jpg','http://i.annihil.us/u/prod/marvel/i/mg/e/f0/4c002eeb6ed5e'),
 (1011300,'','2013-10-24 15:29:06','High Evolutionary','http://gateway.marvel.com/v1/public/characters/1011300','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/f0/5269583a77bd3'),
 (1010839,'','1969-12-31 21:00:00','Hindsight Lad','http://gateway.marvel.com/v1/public/characters/1010839','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/30/4c0035d60033c'),
@@ -570,7 +570,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1010931,'','1969-12-31 21:00:00','Hobgoblin (Robin Borne)','http://gateway.marvel.com/v1/public/characters/1010931','png','http://i.annihil.us/u/prod/marvel/i/mg/d/40/4c00343625597'),
 (1009347,'','2011-02-01 15:51:12','Hobgoblin (Roderick Kingsley)','http://gateway.marvel.com/v1/public/characters/1009347','jpg','http://i.annihil.us/u/prod/marvel/i/mg/c/80/4c003ed3cff99'),
 (1009349,'','1969-12-31 21:00:00','Holocaust (Age of Apocalypse)','http://gateway.marvel.com/v1/public/characters/1009349','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009350,'','1969-12-31 21:00:00','Holy','http://gateway.marvel.com/v1/public/characters/1009350','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011428,'','2013-02-05 16:57:56','Hope Summers','http://gateway.marvel.com/v1/public/characters/1011428','jpg','http://i.annihil.us/u/prod/marvel/i/mg/f/90/511155f5015e0'),
 (1009557,'','1969-12-31 21:00:00','Howard Saint','http://gateway.marvel.com/v1/public/characters/1009557','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -581,7 +581,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1011118,'','2014-03-05 15:25:50','Hulk (Marvel Zombies)','http://gateway.marvel.com/v1/public/characters/1011118','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/00/53176c115da55'),
 (1017303,'','2013-09-18 11:17:06','Hulk (Marvel: Avengers Alliance)','http://gateway.marvel.com/v1/public/characters/1017303','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/b0/5239b5d891fc1'),
 (1011005,'','2014-03-05 15:25:55','Hulk (Ultimate)','http://gateway.marvel.com/v1/public/characters/1011005','jpg','http://i.annihil.us/u/prod/marvel/i/mg/c/03/53176c06e3974');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1010721,'','1969-12-31 21:00:00','Hulk-dok','http://gateway.marvel.com/v1/public/characters/1010721','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1017107,'Scientist Bruce Banner was transformed into the Hulk as a result to gamma radiation exposure. Over 8 feet tall and weighing 1,040 pounds, it''s Hulk''s strength that makes him the strongest hero in the Marvel Universe! Hulk smashes all threats that dare disturb the peace and friendship he has found in the Avengers. ','2013-09-18 16:49:50','Hulk/Bruce Banner (MAA)','http://gateway.marvel.com/v1/public/characters/1017107','jpg','http://i.annihil.us/u/prod/marvel/i/mg/0/03/523219b086a17'),
 (1009355,'','2011-03-10 17:02:10','Hulkling','http://gateway.marvel.com/v1/public/characters/1009355','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/20/4c003ed070fa0'),
@@ -592,7 +592,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1010932,'','2014-05-20 19:01:17','Human Torch (Jim Hammond)','http://gateway.marvel.com/v1/public/characters/1010932','jpg','http://i.annihil.us/u/prod/marvel/i/mg/c/70/53176bed3fe4c'),
 (1011102,'','2014-03-05 15:26:00','Human Torch (Ultimate)','http://gateway.marvel.com/v1/public/characters/1011102','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/60/53176bfb07176'),
 (1010675,'','1969-12-31 21:00:00','Humbug','http://gateway.marvel.com/v1/public/characters/1010675','jpg','http://i.annihil.us/u/prod/marvel/i/mg/7/20/4c7c6433e79f5');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009357,'','1969-12-31 21:00:00','Husk','http://gateway.marvel.com/v1/public/characters/1009357','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/e0/4c003eca01988'),
 (1009358,'','1969-12-31 21:00:00','Hussar','http://gateway.marvel.com/v1/public/characters/1009358','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/e0/4c003ec700983'),
 (1009359,'','1969-12-31 21:00:00','Hydra','http://gateway.marvel.com/v1/public/characters/1009359','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/40/4c003ec4331bd'),
@@ -603,7 +603,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1010933,'','2014-03-05 15:37:05','Iceman (Ultimate)','http://gateway.marvel.com/v1/public/characters/1010933','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/70/53176e6436aa6'),
 (1017475,'','2014-01-16 16:12:41','Iceman (X-Men: Battle of the Atom)','http://gateway.marvel.com/v1/public/characters/1017475','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/70/52d72ac3c45f9'),
 (1011077,'','1969-12-31 21:00:00','Ikaris','http://gateway.marvel.com/v1/public/characters/1011077','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/50/4c0030d8df78e');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1010758,'','2013-10-17 16:01:33','Illuminati','http://gateway.marvel.com/v1/public/characters/1010758','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/70/526033bb40a5e'),
 (1009529,'','1969-12-31 21:00:00','Ilyana Rasputin','http://gateway.marvel.com/v1/public/characters/1009529','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011273,'','1969-12-31 21:00:00','Imp','http://gateway.marvel.com/v1/public/characters/1011273','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/30/4c002eee45d85'),
@@ -614,7 +614,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1011064,'','1969-12-31 21:00:00','Inertia','http://gateway.marvel.com/v1/public/characters/1011064','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/60/4c0030f6eab3d'),
 (1011146,'','1969-12-31 21:00:00','Infant Terrible','http://gateway.marvel.com/v1/public/characters/1011146','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4c002f7854e02'),
 (1009365,'','2016-07-08 16:02:03','Inhumans','http://gateway.marvel.com/v1/public/characters/1009365','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/a0/526033a73dca3');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1011293,'','1969-12-31 21:00:00','Ink','http://gateway.marvel.com/v1/public/characters/1011293','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011024,'','2014-06-13 15:01:12','Invaders','http://gateway.marvel.com/v1/public/characters/1011024','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/60/539b3c2fca079'),
 (1009366,'','2013-10-24 15:48:00','Invisible Woman','http://gateway.marvel.com/v1/public/characters/1009366','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/a0/52695b9cd40b6'),
@@ -625,7 +625,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1009367,'','2017-08-21 17:49:13','Iron Fist (Danny Rand)','http://gateway.marvel.com/v1/public/characters/1009367','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/f0/52616788ebc63'),
 (1010888,'','2014-03-05 15:37:33','Iron Fist (Orson Randall)','http://gateway.marvel.com/v1/public/characters/1010888','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/e0/53176e979cca2'),
 (1011413,'','2014-03-05 15:36:07','Iron Fist (Quan Yaozu)','http://gateway.marvel.com/v1/public/characters/1011413','jpg','http://i.annihil.us/u/prod/marvel/i/mg/4/20/53176e89b563e');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1016839,'Danny is always focused yet relaxed - more Zen-focused than chill surfer dude. But when Danny turns into Iron First, he becomes very rigid with perfect posture. A very Yin/Yang character.
 
 Danny is THE Danny Rand â€“ the 17-year-old head of the giant Rand Corporation.  His wealth rivals Osbornâ€™s â€“ but youâ€™d never know it from his laid- back attitude. However, as Iron Fist, he takes his powers very seriously.
@@ -640,7 +640,7 @@ While Danny and Luke are best friends, Danny has a special respect for Spider-Ma
 (1017326,'','2013-09-18 11:59:29','Iron Man (Marvel War of Heroes)','http://gateway.marvel.com/v1/public/characters/1017326','jpg','http://i.annihil.us/u/prod/marvel/i/mg/f/f0/5239bfbfeea88'),
 (1010935,'','2014-03-05 15:37:05','Iron Man (Ultimate)','http://gateway.marvel.com/v1/public/characters/1010935','jpg','http://i.annihil.us/u/prod/marvel/i/mg/1/90/53176e7785d95'),
 (1017104,'Tony Stark is the genius inventor/billionaire/philanthropist owner of Stark Industries. With his super high-tech Iron Man suit, he is practically indestructible, able to fly, and has a large selection of weapons to choose from - but it''s Tony''s quick thinking and ability to adapt and improvise that make him an effective leader of the Avengers.        ','2013-09-18 16:49:18','Iron Man/Tony Stark (MAA)','http://gateway.marvel.com/v1/public/characters/1017104','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/d0/5232190d42df2');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009371,'','1969-12-31 21:00:00','Iron Monger','http://gateway.marvel.com/v1/public/characters/1009371','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009487,'','1969-12-31 21:00:00','Iron Patriot','http://gateway.marvel.com/v1/public/characters/1009487','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009538,'U.S. Air Force pilot and Tony Stark''s friend who has his own suit of Iron Man armor, nicknamed, "War Machine."','2013-11-12 18:29:22','Iron Patriot (James Rhodes)','http://gateway.marvel.com/v1/public/characters/1009538','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/70/526035f38cd5d'),
@@ -651,7 +651,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1010766,'','1969-12-31 21:00:00','Jack O'' Lantern','http://gateway.marvel.com/v1/public/characters/1010766','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011251,'','1969-12-31 21:00:00','Jack Power','http://gateway.marvel.com/v1/public/characters/1011251','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011288,'','2011-05-12 16:32:42','Jackal','http://gateway.marvel.com/v1/public/characters/1011288','jpg','http://i.annihil.us/u/prod/marvel/i/mg/f/e0/4c002e7012876');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1011259,'','1969-12-31 21:00:00','Jackpot','http://gateway.marvel.com/v1/public/characters/1011259','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1010775,'','2004-04-14 01:00:00','James Buchanan Barnes','http://gateway.marvel.com/v1/public/characters/1010775','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1010777,'','1969-12-31 21:00:00','James Howlett','http://gateway.marvel.com/v1/public/characters/1010777','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/10/4c00374780cc6'),
@@ -662,18 +662,18 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1011344,'','1969-12-31 21:00:00','Jazinda','http://gateway.marvel.com/v1/public/characters/1011344','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/00/4c002e3dbc0b3'),
 (1009496,'','1969-12-31 21:00:00','Jean Grey','http://gateway.marvel.com/v1/public/characters/1009496','jpg','http://i.annihil.us/u/prod/marvel/i/mg/f/30/4bc654cf9d0ac'),
 (1009327,'','2013-11-20 20:15:32','Jean Grey','http://gateway.marvel.com/v1/public/characters/1009327','jpg','http://i.annihil.us/u/prod/marvel/i/mg/f/d0/528d3412090b4');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1010946,'','2014-03-05 15:40:08','Jean Grey (Ultimate)','http://gateway.marvel.com/v1/public/characters/1010946','jpg','http://i.annihil.us/u/prod/marvel/i/mg/f/b0/53176f424c100'),
 (1009604,'','1969-12-31 21:00:00','Jennifer Smith','http://gateway.marvel.com/v1/public/characters/1009604','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011404,'','1969-12-31 21:00:00','Jeryn Hogarth','http://gateway.marvel.com/v1/public/characters/1011404','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
-(1010667,'','0002-11-30 02:00:00 BC','Jessica Drew','http://gateway.marvel.com/v1/public/characters/1010667','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
+(1010667,'','0002-11-30 02:00:00','Jessica Drew','http://gateway.marvel.com/v1/public/characters/1010667','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009378,'','2017-08-21 15:47:52','Jessica Jones','http://gateway.marvel.com/v1/public/characters/1009378','jpg','http://i.annihil.us/u/prod/marvel/i/mg/d/00/5390e41260345'),
 (1009373,'','1969-12-31 21:00:00','Jetstream','http://gateway.marvel.com/v1/public/characters/1009373','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009374,'','2010-11-03 14:10:46','Jigsaw','http://gateway.marvel.com/v1/public/characters/1009374','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/30/4ce188192a0b6'),
 (1011105,'Jimmy Woo is a former FBI and SHIELD agent from the ''50s who now leads the Agents of Atlas in the present.','1969-12-31 21:00:00','Jimmy Woo','http://gateway.marvel.com/v1/public/characters/1011105','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/30/4c0030a8ec05b'),
 (1009375,'','1969-12-31 21:00:00','Joan the Mouse','http://gateway.marvel.com/v1/public/characters/1009375','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009376,'','2011-05-27 11:33:33','Jocasta','http://gateway.marvel.com/v1/public/characters/1009376','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/a0/4c003eac7419a');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1011171,'','1969-12-31 21:00:00','John Farson','http://gateway.marvel.com/v1/public/characters/1011171','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1010812,'','2010-11-04 16:37:23','John Jameson','http://gateway.marvel.com/v1/public/characters/1010812','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/90/4c7c641e86d14'),
 (1009500,'','1969-12-31 21:00:00','John Porter','http://gateway.marvel.com/v1/public/characters/1009500','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -684,7 +684,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1010938,'','1969-12-31 21:00:00','Joshua Kane','http://gateway.marvel.com/v1/public/characters/1010938','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/70/4c003423be2c7'),
 (1010937,'','1969-12-31 21:00:00','Josiah X','http://gateway.marvel.com/v1/public/characters/1010937','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011033,'','1969-12-31 21:00:00','Joystick','http://gateway.marvel.com/v1/public/characters/1011033','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4c0032437ece7');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009381,'','2016-02-10 12:46:54','Jubilee','http://gateway.marvel.com/v1/public/characters/1009381','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/c0/4e7a2148b6e59'),
 (1010936,'','2014-04-30 17:56:11','Jubilee (Age of Apocalypse)','http://gateway.marvel.com/v1/public/characters/1010936','jpg','http://i.annihil.us/u/prod/marvel/i/mg/4/03/53616326ca627'),
 (1009382,'','2013-11-20 20:15:17','Juggernaut','http://gateway.marvel.com/v1/public/characters/1009382','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/c0/528d340442cca'),
@@ -695,7 +695,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1011310,'','2010-11-08 18:51:15','Justin Hammer','http://gateway.marvel.com/v1/public/characters/1011310','jpg','http://i.annihil.us/u/prod/marvel/i/mg/e/e0/4ce18ab1be1f6'),
 (1011081,'','2016-02-04 15:31:16','Ka-Zar','http://gateway.marvel.com/v1/public/characters/1011081','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/40/4dcc503738d3d'),
 (1011193,'','1969-12-31 21:00:00','Kabuki','http://gateway.marvel.com/v1/public/characters/1011193','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009384,'','2013-10-24 15:55:04','Kang','http://gateway.marvel.com/v1/public/characters/1009384','jpg','http://i.annihil.us/u/prod/marvel/i/mg/4/30/52695ed19538d'),
 (1014983,'','2010-11-18 18:55:23','Karen O''Malley','http://gateway.marvel.com/v1/public/characters/1014983','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4cd05c8be4587'),
 (1011357,'','2017-08-21 17:53:37','Karen Page','http://gateway.marvel.com/v1/public/characters/1011357','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -706,7 +706,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1010810,'','1969-12-31 21:00:00','Kate Bishop','http://gateway.marvel.com/v1/public/characters/1010810','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/60/4c0035f5b8c95'),
 (1011250,'','1969-12-31 21:00:00','Katie Power','http://gateway.marvel.com/v1/public/characters/1011250','jpg','http://i.annihil.us/u/prod/marvel/i/mg/c/90/4ce5a5bf6b872'),
 (1011319,'Former Daily Bugle and current DB! reporter Ken Ellis first made a splash during the public debut of Ben Reilly as the Scarlet Spider, providing the new costumed hero with his name following a pitched battle with Venom.','1969-12-31 21:00:00','Ken Ellis','http://gateway.marvel.com/v1/public/characters/1011319','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/80/4c002e50c1a87');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009386,'','1969-12-31 21:00:00','Khan','http://gateway.marvel.com/v1/public/characters/1009386','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1010893,'','1969-12-31 21:00:00','Kid Colt','http://gateway.marvel.com/v1/public/characters/1010893','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011397,'','1969-12-31 21:00:00','Killer Shrike','http://gateway.marvel.com/v1/public/characters/1011397','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -717,7 +717,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1009389,'','2013-10-17 16:05:59','Kingpin','http://gateway.marvel.com/v1/public/characters/1009389','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/60/526034fb5aff7'),
 (1011308,'','1969-12-31 21:00:00','Kinsey Walden','http://gateway.marvel.com/v1/public/characters/1011308','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009508,'','2013-10-18 13:54:19','Kitty Pryde','http://gateway.marvel.com/v1/public/characters/1009508','jpg','http://i.annihil.us/u/prod/marvel/i/mg/4/03/5261677b30b64');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1017476,'','2014-01-15 22:42:16','Kitty Pryde (X-Men: Battle of the Atom)','http://gateway.marvel.com/v1/public/characters/1017476','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/60/52d72adad132a'),
 (1009390,'','2013-10-17 16:06:08','Klaw','http://gateway.marvel.com/v1/public/characters/1009390','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/20/526034e1c6ede'),
 (1010818,'','2014-04-29 15:54:48','Komodo (Melati Kusuma)','http://gateway.marvel.com/v1/public/characters/1010818','jpg','http://i.annihil.us/u/prod/marvel/i/mg/a/30/535ff55a6d8f6'),
@@ -728,7 +728,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1011148,'','2014-06-17 18:36:40','Kree','http://gateway.marvel.com/v1/public/characters/1011148','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/50/53a0b4b5c40f1'),
 (1015017,'','2010-11-12 17:47:14','Krista Starr','http://gateway.marvel.com/v1/public/characters/1015017','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011178,'','1969-12-31 21:00:00','Kronos','http://gateway.marvel.com/v1/public/characters/1011178','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/90/4c7c623c74db8');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1011029,'','1969-12-31 21:00:00','Kulan Gath','http://gateway.marvel.com/v1/public/characters/1011029','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011058,'','1969-12-31 21:00:00','Kylun','http://gateway.marvel.com/v1/public/characters/1011058','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/b0/4c003108ee445'),
 (1009392,'','1969-12-31 21:00:00','La Nuit','http://gateway.marvel.com/v1/public/characters/1009392','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/10/4c003d76b5ec6'),
@@ -739,7 +739,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1014976,'','2010-11-18 18:49:03','Lady Vermin','http://gateway.marvel.com/v1/public/characters/1014976','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/10/4cd053529dd41'),
 (1009394,'','1969-12-31 21:00:00','Lake','http://gateway.marvel.com/v1/public/characters/1009394','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009395,'','1969-12-31 21:00:00','Landau','http://gateway.marvel.com/v1/public/characters/1009395','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009397,'','1969-12-31 21:00:00','Lava-Man','http://gateway.marvel.com/v1/public/characters/1009397','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011100,'','2013-11-01 18:27:04','Layla Miller','http://gateway.marvel.com/v1/public/characters/1011100','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/00/52740e37c104f'),
 (1009398,'','2013-12-26 17:45:52','Leader','http://gateway.marvel.com/v1/public/characters/1009398','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/c0/52b0d25c3dbb9'),
@@ -750,7 +750,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1011186,'','1969-12-31 21:00:00','Leo (Zodiac)','http://gateway.marvel.com/v1/public/characters/1011186','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1010340,'','1969-12-31 21:00:00','Leopardon','http://gateway.marvel.com/v1/public/characters/1010340','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011375,'','1969-12-31 21:00:00','Leper Queen','http://gateway.marvel.com/v1/public/characters/1011375','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1014988,'','2010-11-18 18:59:42','Lester','http://gateway.marvel.com/v1/public/characters/1014988','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/80/4cd060cb94659'),
 (1011421,'','1969-12-31 21:00:00','Lethal Legion','http://gateway.marvel.com/v1/public/characters/1011421','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/50/4c002e13dd271'),
 (1010977,'','1969-12-31 21:00:00','Lieutenant Marcus Stone','http://gateway.marvel.com/v1/public/characters/1010977','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/30/4c0032b127cf1'),
@@ -761,7 +761,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1009402,'','2013-11-01 18:34:54','Lilandra','http://gateway.marvel.com/v1/public/characters/1009402','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/20/52740ff3f2c50'),
 (1011074,'','2013-11-01 18:34:58','Lilith','http://gateway.marvel.com/v1/public/characters/1011074','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/e0/52740fe6287e4'),
 (1011257,'','1969-12-31 21:00:00','Lily Hollister','http://gateway.marvel.com/v1/public/characters/1011257','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1010337,'','1969-12-31 21:00:00','Lionheart','http://gateway.marvel.com/v1/public/characters/1010337','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1010854,'','1969-12-31 21:00:00','Living Lightning','http://gateway.marvel.com/v1/public/characters/1010854','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/a0/4c0035c72cc26'),
 (1011036,'','1969-12-31 21:00:00','Living Mummy','http://gateway.marvel.com/v1/public/characters/1011036','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -772,7 +772,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1011414,'','2013-11-01 18:32:33','Loa','http://gateway.marvel.com/v1/public/characters/1011414','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/a0/52740fd40a2cc'),
 (1009405,'','1969-12-31 21:00:00','Lockheed','http://gateway.marvel.com/v1/public/characters/1009405','png','http://i.annihil.us/u/prod/marvel/i/mg/7/20/4c7c6465c79c5'),
 (1009406,'','1969-12-31 21:00:00','Lockjaw','http://gateway.marvel.com/v1/public/characters/1009406','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/20/4c003d64a5a99');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1010363,'','1969-12-31 21:00:00','Logan','http://gateway.marvel.com/v1/public/characters/1010363','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009407,'','2017-08-21 17:45:34','Loki','http://gateway.marvel.com/v1/public/characters/1009407','jpg','http://i.annihil.us/u/prod/marvel/i/mg/d/90/526547f509313'),
 (1017299,'','2013-09-18 12:21:22','Loki (LEGO Marvel Super Heroes)','http://gateway.marvel.com/v1/public/characters/1017299','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/20/5239c4e1c5351'),
@@ -783,7 +783,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1014980,'','2010-11-18 18:53:02','Lord Tyger','http://gateway.marvel.com/v1/public/characters/1014980','jpg','http://i.annihil.us/u/prod/marvel/i/mg/1/b0/4cd05ab2bd5ee'),
 (1011283,'','1969-12-31 21:00:00','Lords of Avalon','http://gateway.marvel.com/v1/public/characters/1011283','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009260,'','1969-12-31 21:00:00','Lorna Dane','http://gateway.marvel.com/v1/public/characters/1009260','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009409,'','1969-12-31 21:00:00','Luckman','http://gateway.marvel.com/v1/public/characters/1009409','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011405,'','1969-12-31 21:00:00','Lucky Pierre','http://gateway.marvel.com/v1/public/characters/1011405','jpg','http://i.annihil.us/u/prod/marvel/i/mg/a/e0/4c002e2ce2ba0'),
 (1010751,'','1969-12-31 21:00:00','Lucy in the Sky','http://gateway.marvel.com/v1/public/characters/1010751','jpg','http://i.annihil.us/u/prod/marvel/i/mg/d/50/4c00377435871'),
@@ -794,7 +794,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1011004,'','1969-12-31 21:00:00','M.O.D.A.M.','http://gateway.marvel.com/v1/public/characters/1011004','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011320,'','1969-12-31 21:00:00','M.O.D.O.G.','http://gateway.marvel.com/v1/public/characters/1011320','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1010726,'','2013-10-17 16:06:22','M.O.D.O.K.','http://gateway.marvel.com/v1/public/characters/1010726','jpg','http://i.annihil.us/u/prod/marvel/i/mg/0/03/526034ba37851');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1017321,'','2013-09-18 12:06:00','M.O.D.O.K. (Iron Man 3 - The Official Game)','http://gateway.marvel.com/v1/public/characters/1017321','jpg','http://i.annihil.us/u/prod/marvel/i/mg/c/00/5239c14fcddc0'),
 (1009418,'','1969-12-31 21:00:00','Ma Gnuci','http://gateway.marvel.com/v1/public/characters/1009418','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009314,'','1969-12-31 21:00:00','Mac Gargan','http://gateway.marvel.com/v1/public/characters/1009314','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -805,7 +805,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1010352,'','1969-12-31 21:00:00','Madame Masque','http://gateway.marvel.com/v1/public/characters/1010352','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/00/4ce5a251c1100'),
 (1010796,'','2013-11-12 18:28:51','Madame Web (Julia Carpenter)','http://gateway.marvel.com/v1/public/characters/1010796','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/30/4c00373114b4b'),
 (1010724,'','1969-12-31 21:00:00','Maddog','http://gateway.marvel.com/v1/public/characters/1010724','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009509,'','2013-11-20 20:15:09','Madelyne Pryor','http://gateway.marvel.com/v1/public/characters/1009509','jpg','http://i.annihil.us/u/prod/marvel/i/mg/c/50/528d33ddaef70'),
 (1011205,'','1969-12-31 21:00:00','Madripoor','http://gateway.marvel.com/v1/public/characters/1011205','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4c7c6221db444'),
 (1009413,'','2013-11-01 18:34:26','Madrox','http://gateway.marvel.com/v1/public/characters/1009413','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/30/52740fc5a4c7c'),
@@ -816,7 +816,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1010942,'','2011-07-14 15:29:29','Magik (Amanda Sefton)','http://gateway.marvel.com/v1/public/characters/1010942','jpg','http://i.annihil.us/u/prod/marvel/i/mg/f/b0/4c003414d6535'),
 (1009415,'','2013-10-24 15:46:00','Magik (Illyana Rasputin)','http://gateway.marvel.com/v1/public/characters/1009415','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/b0/52695ca8391cc'),
 (1011135,'','1969-12-31 21:00:00','Maginty','http://gateway.marvel.com/v1/public/characters/1011135','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009416,'','2011-02-28 18:06:13','Magma (Amara Aquilla)','http://gateway.marvel.com/v1/public/characters/1009416','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/20/4c003d55e4ce8'),
 (1009417,'','2016-02-10 18:55:02','Magneto','http://gateway.marvel.com/v1/public/characters/1009417','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/b0/5261a7e53f827'),
 (1010944,'','2014-03-05 15:40:56','Magneto (Age of Apocalypse)','http://gateway.marvel.com/v1/public/characters/1010944','jpg','http://i.annihil.us/u/prod/marvel/i/mg/d/70/53176f5026364'),
@@ -827,7 +827,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1011364,'','1969-12-31 21:00:00','Magus (Technarch)','http://gateway.marvel.com/v1/public/characters/1011364','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011085,'','1969-12-31 21:00:00','Major Mapleleaf','http://gateway.marvel.com/v1/public/characters/1011085','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1010725,'','1969-12-31 21:00:00','Makkari','http://gateway.marvel.com/v1/public/characters/1010725','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009242,'','1969-12-31 21:00:00','Malcolm Colcord','http://gateway.marvel.com/v1/public/characters/1009242','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011229,'','1969-12-31 21:00:00','Malice (Earth-161)','http://gateway.marvel.com/v1/public/characters/1011229','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009420,'','2011-05-13 15:31:28','Man-Thing','http://gateway.marvel.com/v1/public/characters/1009420','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4ce5a043191dc'),
@@ -838,7 +838,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1009423,'','1969-12-31 21:00:00','Manta','http://gateway.marvel.com/v1/public/characters/1009423','jpg','http://i.annihil.us/u/prod/marvel/i/mg/f/90/4c003d5308145'),
 (1011026,'','2013-11-01 18:34:14','Mantis','http://gateway.marvel.com/v1/public/characters/1011026','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/20/52740fa12e826'),
 (1009424,'','2013-12-17 20:48:07','Marauders','http://gateway.marvel.com/v1/public/characters/1009424','jpg','http://i.annihil.us/u/prod/marvel/i/mg/e/70/52b0d48aaecb1');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1015018,'','2010-11-12 17:47:59','Marcus Van Sciver','http://gateway.marvel.com/v1/public/characters/1015018','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011335,'','2014-05-30 15:29:18','Maria Hill','http://gateway.marvel.com/v1/public/characters/1011335','jpg','http://i.annihil.us/u/prod/marvel/i/mg/a/00/535ff3f5397cb'),
 (1009735,'Mariko Yashida was the daughter of Japanese crimelord Lord Shingen, leader of Clan Yashida, and one-time fiance of Wolverine.','1969-12-31 21:00:00','Mariko Yashida','http://gateway.marvel.com/v1/public/characters/1009735','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/10/4c00393d65a55'),
@@ -849,7 +849,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1009427,'','1969-12-31 21:00:00','Marvel Boy','http://gateway.marvel.com/v1/public/characters/1009427','jpg','http://i.annihil.us/u/prod/marvel/i/mg/7/d0/4c003d4a0e1c0'),
 (1011002,'','2010-11-30 18:55:43','Marvel Zombies','http://gateway.marvel.com/v1/public/characters/1011002','jpg','http://i.annihil.us/u/prod/marvel/i/mg/c/40/4ce5a430d93fd'),
 (1011417,'','1969-12-31 21:00:00','Marvex','http://gateway.marvel.com/v1/public/characters/1011417','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009708,'Mary Jane Watson was the guiding light in Peter Parker''s life, and their love had overcome countless obstacles.','2016-07-11 12:13:42','Mary Jane Watson','http://gateway.marvel.com/v1/public/characters/1009708','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/03/528d33d000749'),
 (1010993,'Mary Jane Watson always wanted to be an actress, but all the roles seemed to go to mutants, until her former high school friend, and world famous performer, Peter Parker asked her to play his love interest in his newest movie, upon the release of which made her America''s sweetheart and one of the only human movies stars able to launch her own solo projects.','1969-12-31 21:00:00','Mary Jane Watson (House of M)','http://gateway.marvel.com/v1/public/characters/1010993','jpg','http://i.annihil.us/u/prod/marvel/i/mg/f/60/4c003291616a1'),
 (1011203,'','2011-05-03 14:02:57','Mary Jane Watson (Ultimate)','http://gateway.marvel.com/v1/public/characters/1011203','jpg','http://i.annihil.us/u/prod/marvel/i/mg/e/f0/4ce5a53fae2a5'),
@@ -860,7 +860,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1009434,'','2011-05-18 13:34:19','Mastermind','http://gateway.marvel.com/v1/public/characters/1009434','jpg','http://i.annihil.us/u/prod/marvel/i/mg/7/d0/4c003d43b02ab'),
 (1011279,'','1969-12-31 21:00:00','Masters of Evil','http://gateway.marvel.com/v1/public/characters/1011279','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/30/4c002e75e67db'),
 (1010877,'','1969-12-31 21:00:00','Mathemanic','http://gateway.marvel.com/v1/public/characters/1010877','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009677,'Tsurayaba became leader of a faction of the ninja clan the Hand, finding himself at odds with his lover Kwannon who was an assassin for rival crimelord Nyoirin.','1969-12-31 21:00:00','Matsu''o Tsurayaba','http://gateway.marvel.com/v1/public/characters/1009677','jpg','http://i.annihil.us/u/prod/marvel/i/mg/1/c0/4ce5a1efc3b2c'),
 (1009463,'','1969-12-31 21:00:00','Matthew Murdock','http://gateway.marvel.com/v1/public/characters/1009463','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1010793,'','1969-12-31 21:00:00','Mattie Franklin','http://gateway.marvel.com/v1/public/characters/1010793','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -870,8 +870,8 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1011305,'','2013-11-01 18:34:10','Maximus','http://gateway.marvel.com/v1/public/characters/1011305','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/80/52740f7c6f0b7'),
 (1009490,'','2014-04-29 15:18:39','May Parker','http://gateway.marvel.com/v1/public/characters/1009490','jpg','http://i.annihil.us/u/prod/marvel/i/mg/c/30/535fec80bb4a6'),
 (1009438,'','2014-06-18 14:02:36','Medusa','http://gateway.marvel.com/v1/public/characters/1009438','jpg','http://i.annihil.us/u/prod/marvel/i/mg/c/30/537bb549bebd0'),
-(1011399,'','0002-11-30 02:00:00 BC','Meggan','http://gateway.marvel.com/v1/public/characters/1011399','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/20/4c002e2fa3070');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+(1011399,'','0002-11-30 02:00:00','Meggan','http://gateway.marvel.com/v1/public/characters/1011399','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/20/4c002e2fa3070');
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009439,'When Tabitha Smith''s mutant nature manifested at age 13, she ran away from her abusive home before eventually hooking up with the New Mutants and, subsequently, X-Force.','1969-12-31 21:00:00','Meltdown','http://gateway.marvel.com/v1/public/characters/1009439','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011241,'','1969-12-31 21:00:00','Menace','http://gateway.marvel.com/v1/public/characters/1011241','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/20/4c002f01b93c0'),
 (1011099,'','1969-12-31 21:00:00','Mentallo','http://gateway.marvel.com/v1/public/characters/1011099','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/c0/4c0030b9256c6'),
@@ -882,7 +882,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1009442,'','1969-12-31 21:00:00','Mesmero','http://gateway.marvel.com/v1/public/characters/1009442','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/70/4c003d3b033e8'),
 (1009443,'','1969-12-31 21:00:00','Metal Master','http://gateway.marvel.com/v1/public/characters/1009443','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1010361,'','1969-12-31 21:00:00','Meteorite','http://gateway.marvel.com/v1/public/characters/1010361','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1011340,'','1969-12-31 21:00:00','MI: 13','http://gateway.marvel.com/v1/public/characters/1011340','jpg','http://i.annihil.us/u/prod/marvel/i/mg/c/c0/4ce5a69fe70f2'),
 (1009444,'','1969-12-31 21:00:00','Micro/Macro','http://gateway.marvel.com/v1/public/characters/1009444','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1010690,'','1969-12-31 21:00:00','Microbe','http://gateway.marvel.com/v1/public/characters/1010690','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/10/4c0038dd065c8'),
@@ -893,7 +893,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1009530,'','1969-12-31 21:00:00','Mikhail Rasputin','http://gateway.marvel.com/v1/public/characters/1009530','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011192,'','1969-12-31 21:00:00','Millenium Guard','http://gateway.marvel.com/v1/public/characters/1011192','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1010894,'','1969-12-31 21:00:00','Millie the Model','http://gateway.marvel.com/v1/public/characters/1010894','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/00/4c003597aefd0');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009445,'','1969-12-31 21:00:00','Mimic','http://gateway.marvel.com/v1/public/characters/1009445','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011204,'','1969-12-31 21:00:00','Mindworm','http://gateway.marvel.com/v1/public/characters/1011204','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4c002f18eabe7'),
 (1013727,'Michael Moran has a superhuman alter ego. By saying the trigger word "Kimota!" Michael turns into Miracleman! But is the good of being Miracleman enough to outweigh the cost?','2014-11-17 19:52:49','Miracleman','http://gateway.marvel.com/v1/public/characters/1013727','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/90/545a820a2dc50'),
@@ -904,7 +904,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1010948,'','1969-12-31 21:00:00','Mister Sinister (House of M)','http://gateway.marvel.com/v1/public/characters/1010948','jpg','http://i.annihil.us/u/prod/marvel/i/mg/f/00/4c00340427a12'),
 (1011254,'','1969-12-31 21:00:00','Mister Sinister (Ultimate)','http://gateway.marvel.com/v1/public/characters/1011254','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1010682,'','2016-09-27 10:17:07','Misty Knight','http://gateway.marvel.com/v1/public/characters/1010682','jpg','http://i.annihil.us/u/prod/marvel/i/mg/d/90/511151789a863');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1011220,'','2015-11-20 15:04:34','Mockingbird','http://gateway.marvel.com/v1/public/characters/1011220','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/b0/51e829af23af9'),
 (1009410,'','2011-04-21 13:00:52','Moira MacTaggert','http://gateway.marvel.com/v1/public/characters/1009410','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/d0/4c003d5e64f22'),
 (1010941,'','1969-12-31 21:00:00','Moira MacTaggert (Ultimate)','http://gateway.marvel.com/v1/public/characters/1010941','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4c7c640312deb'),
@@ -915,7 +915,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1009541,'','1969-12-31 21:00:00','Molly Von Richtofen','http://gateway.marvel.com/v1/public/characters/1009541','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011370,'','1969-12-31 21:00:00','Molten Man','http://gateway.marvel.com/v1/public/characters/1011370','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/b0/4c002e34d7cdc'),
 (1010876,'','1969-12-31 21:00:00','Mongoose','http://gateway.marvel.com/v1/public/characters/1010876','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/20/4c00359f53bde');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009450,'','1969-12-31 21:00:00','Mongu (Unrevealed)','http://gateway.marvel.com/v1/public/characters/1009450','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1010331,'','1969-12-31 21:00:00','Monster Badoon','http://gateway.marvel.com/v1/public/characters/1010331','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1017814,'','2019-10-16 17:28:05','Moon Girl (Lunella Layfayette)','http://gateway.marvel.com/v1/public/characters/1017814','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -926,7 +926,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1010362,'','2014-04-29 15:50:49','Moonstone','http://gateway.marvel.com/v1/public/characters/1010362','jpg','http://i.annihil.us/u/prod/marvel/i/mg/4/00/535ff3e867252'),
 (1009454,'','2016-02-10 14:29:12','Morbius','http://gateway.marvel.com/v1/public/characters/1009454','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/c0/535fee11e0e1a'),
 (1010902,'','1969-12-31 21:00:00','Mordo','http://gateway.marvel.com/v1/public/characters/1010902','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009455,'','1969-12-31 21:00:00','Morg','http://gateway.marvel.com/v1/public/characters/1009455','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009623,'','1969-12-31 21:00:00','Morgan Stark','http://gateway.marvel.com/v1/public/characters/1009623','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011008,'','2014-05-23 12:45:28','Morlocks','http://gateway.marvel.com/v1/public/characters/1011008','jpg','http://i.annihil.us/u/prod/marvel/i/mg/f/90/537f6cfa0e8bd'),
@@ -937,7 +937,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1009459,'','2016-02-11 13:51:21','Mr. Fantastic','http://gateway.marvel.com/v1/public/characters/1009459','jpg','http://i.annihil.us/u/prod/marvel/i/mg/d/c0/51127e9337538'),
 (1010950,'','2014-03-05 15:42:53','Mr. Fantastic (Ultimate)','http://gateway.marvel.com/v1/public/characters/1010950','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/d0/53176fc75a448'),
 (1010900,'','1969-12-31 21:00:00','Mr. Fish','http://gateway.marvel.com/v1/public/characters/1010900','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009460,'','1969-12-31 21:00:00','Mr. Fixit','http://gateway.marvel.com/v1/public/characters/1009460','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1010347,'','1969-12-31 21:00:00','Mr. Hyde','http://gateway.marvel.com/v1/public/characters/1010347','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/30/4c7c64437b5a1'),
 (1010840,'','1969-12-31 21:00:00','Mr. Immortal','http://gateway.marvel.com/v1/public/characters/1010840','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/d0/4c0035d2872f0'),
@@ -948,7 +948,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1017577,'A Muslim-American teenager growing up in Jersey City, Kamala Khan gained shape-shifting powers when Inhumanity spread over the Earth. A fan of super heroes, in particular Carol Danvers, Kamala took up Captain Marvel''s former identity, becoming the new Ms. Marvel. This up and coming hero works to protect her community and understand her place in the world.','2016-04-29 16:02:56','Ms. Marvel (Kamala Khan)','http://gateway.marvel.com/v1/public/characters/1017577','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/b0/548730dac2a40'),
 (1011372,'','1969-12-31 21:00:00','MS2','http://gateway.marvel.com/v1/public/characters/1011372','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011210,'','1969-12-31 21:00:00','Mulholland Black','http://gateway.marvel.com/v1/public/characters/1011210','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1011056,'','1969-12-31 21:00:00','Multiple Man','http://gateway.marvel.com/v1/public/characters/1011056','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/a0/4c00310e9dc27'),
 (1010826,'','1969-12-31 21:00:00','MVP','http://gateway.marvel.com/v1/public/characters/1010826','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/50/4ce5a36f31b94'),
 (1009464,'','2011-01-25 18:41:53','Mysterio','http://gateway.marvel.com/v1/public/characters/1009464','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/70/4ce5a083d8346'),
@@ -959,7 +959,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1010954,'','1969-12-31 21:00:00','Mystique (House of M)','http://gateway.marvel.com/v1/public/characters/1010954','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/70/4c0033fbbdb54'),
 (1011129,'','1969-12-31 21:00:00','Mystique (Ultimate)','http://gateway.marvel.com/v1/public/characters/1011129','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1013483,'','2017-08-24 17:48:01','Nakia (Nakia)','http://gateway.marvel.com/v1/public/characters/1013483','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009466,'','2016-05-26 10:29:39','Namor','http://gateway.marvel.com/v1/public/characters/1009466','jpg','http://i.annihil.us/u/prod/marvel/i/mg/e/90/50febf4ae101d'),
 (1009468,'','2011-09-07 17:36:43','Namora','http://gateway.marvel.com/v1/public/characters/1009468','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/a0/4c003d248f331'),
 (1009469,'','2013-11-20 20:14:56','Namorita','http://gateway.marvel.com/v1/public/characters/1009469','jpg','http://i.annihil.us/u/prod/marvel/i/mg/4/03/528d33a253447'),
@@ -970,7 +970,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1011422,'','1969-12-31 21:00:00','Nekra','http://gateway.marvel.com/v1/public/characters/1011422','jpg','http://i.annihil.us/u/prod/marvel/i/mg/4/c0/4c002e11323ba'),
 (1011086,'','2004-04-14 01:00:00','Nemesis','http://gateway.marvel.com/v1/public/characters/1011086','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1010831,'','1969-12-31 21:00:00','Network','http://gateway.marvel.com/v1/public/characters/1010831','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1010815,'','1969-12-31 21:00:00','New Goblin','http://gateway.marvel.com/v1/public/characters/1010815','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011336,'','2017-10-13 11:18:07','New Mutants','http://gateway.marvel.com/v1/public/characters/1011336','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/e0/53ea47c1d41a6'),
 (1010683,'','2013-11-01 18:41:52','New Warriors','http://gateway.marvel.com/v1/public/characters/1010683','jpg','http://i.annihil.us/u/prod/marvel/i/mg/0/03/527411a7204f7'),
@@ -981,7 +981,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1009471,'','2016-02-10 13:01:27','Nick Fury','http://gateway.marvel.com/v1/public/characters/1009471','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/c0/5261a745e658d'),
 (1017298,'','2013-09-12 18:37:19','Nick Fury (LEGO Marvel Super Heroes)','http://gateway.marvel.com/v1/public/characters/1017298','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011007,'','1969-12-31 21:00:00','Nick Fury (Ultimate)','http://gateway.marvel.com/v1/public/characters/1011007','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/70/4c0032832d0de');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1010746,'','1969-12-31 21:00:00','Nico Minoru','http://gateway.marvel.com/v1/public/characters/1010746','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/b0/4c00377e2a541'),
 (1010706,'','1969-12-31 21:00:00','Nicolaos','http://gateway.marvel.com/v1/public/characters/1010706','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011282,'','1969-12-31 21:00:00','Night Nurse (Earth-9997)','http://gateway.marvel.com/v1/public/characters/1011282','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/b0/4ce5a5ecbf8b9'),
@@ -992,7 +992,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1010349,'','2011-05-13 15:31:56','Nighthawk','http://gateway.marvel.com/v1/public/characters/1010349','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/80/4c00391ba3a93'),
 (1009473,'','2016-06-16 15:58:09','Nightmare','http://gateway.marvel.com/v1/public/characters/1009473','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/40/4c003d1b26622'),
 (1011124,'','1969-12-31 21:00:00','Nightshade','http://gateway.marvel.com/v1/public/characters/1011124','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1011409,'','1969-12-31 21:00:00','Nine-Fold Daughters of Xao','http://gateway.marvel.com/v1/public/characters/1011409','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/70/4c002e21e16a8'),
 (1010797,'','1969-12-31 21:00:00','Nitro','http://gateway.marvel.com/v1/public/characters/1010797','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4c00372e0847c'),
 (1009474,'','1969-12-31 21:00:00','Nocturne','http://gateway.marvel.com/v1/public/characters/1009474','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -1003,7 +1003,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1010063,'','1969-12-31 21:00:00','Norrin Radd','http://gateway.marvel.com/v1/public/characters/1010063','jpg','http://i.annihil.us/u/prod/marvel/i/mg/d/50/4c00393385563'),
 (1009476,'','2012-05-30 15:06:10','Northstar','http://gateway.marvel.com/v1/public/characters/1009476','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/c0/4c003d15985a0'),
 (1009477,'','2016-08-25 15:11:04','Nova','http://gateway.marvel.com/v1/public/characters/1009477','jpg','http://i.annihil.us/u/prod/marvel/i/mg/1/00/51756578d2a75');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1010956,'','2014-03-05 15:43:01','Nova (Frankie Raye)','http://gateway.marvel.com/v1/public/characters/1010956','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/f0/53176fd93dbc9'),
 (1017078,'Sam Alexander inherited the role of Nova from his father, who went missing mysteriously. The new Human Rocket struggles to become a hero while searching for his dad.','2014-12-19 02:44:59','Nova (Sam Alexander)','http://gateway.marvel.com/v1/public/characters/1017078','jpg','http://i.annihil.us/u/prod/marvel/i/mg/e/20/5269615681f91'),
 (1011045,'','1969-12-31 21:00:00','Photon','http://gateway.marvel.com/v1/public/characters/1011045','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -1020,7 +1020,7 @@ Enthusiastic and immature, Samâ€™s eagerness can be a blessing and a curse.
 (1009620,'','1969-12-31 21:00:00','Obadiah Stane','http://gateway.marvel.com/v1/public/characters/1009620','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/e0/4ce5a1b721545'),
 (1009480,'','2014-06-12 17:01:36','Odin','http://gateway.marvel.com/v1/public/characters/1009480','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/00/539a06a64b262'),
 (1009481,'','1969-12-31 21:00:00','Ogun','http://gateway.marvel.com/v1/public/characters/1009481','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/a0/4c003d0c92efb');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1017840,'','2017-08-24 17:49:45','Okoye','http://gateway.marvel.com/v1/public/characters/1017840','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1010882,'','1969-12-31 21:00:00','Old Lace','http://gateway.marvel.com/v1/public/characters/1010882','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4c00359a2be7b'),
 (1010757,'','1969-12-31 21:00:00','Omega Flight','http://gateway.marvel.com/v1/public/characters/1010757','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -1031,9 +1031,9 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1011255,'','1969-12-31 21:00:00','Onslaught (Ultimate)','http://gateway.marvel.com/v1/public/characters/1011255','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009484,'','1969-12-31 21:00:00','Oracle','http://gateway.marvel.com/v1/public/characters/1009484','jpg','http://i.annihil.us/u/prod/marvel/i/mg/f/60/4c003d0361454'),
 (1011202,'','1969-12-31 21:00:00','Ord','http://gateway.marvel.com/v1/public/characters/1011202','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/40/4c002f1c476f9');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009485,'','1969-12-31 21:00:00','Orphan','http://gateway.marvel.com/v1/public/characters/1009485','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
-(1010957,'','0002-11-30 02:00:00 BC','Orphan-Maker','http://gateway.marvel.com/v1/public/characters/1010957','jpg','http://i.annihil.us/u/prod/marvel/i/mg/c/50/4c7c63f383bac'),
+(1010957,'','0002-11-30 02:00:00','Orphan-Maker','http://gateway.marvel.com/v1/public/characters/1010957','jpg','http://i.annihil.us/u/prod/marvel/i/mg/c/50/4c7c63f383bac'),
 (1009479,'','1969-12-31 21:00:00','Otto Octavius','http://gateway.marvel.com/v1/public/characters/1009479','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011228,'','1969-12-31 21:00:00','Outlaw Kid','http://gateway.marvel.com/v1/public/characters/1011228','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1010332,'','1969-12-31 21:00:00','Overlord','http://gateway.marvel.com/v1/public/characters/1010332','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -1042,7 +1042,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1011150,'','1969-12-31 21:00:00','Paibok','http://gateway.marvel.com/v1/public/characters/1011150','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/30/4c002f617817e'),
 (1010873,'','2014-04-29 15:51:16','Paladin','http://gateway.marvel.com/v1/public/characters/1010873','jpg','http://i.annihil.us/u/prod/marvel/i/mg/c/30/535ff3bef14c1'),
 (1010708,'','1969-12-31 21:00:00','Pandemic','http://gateway.marvel.com/v1/public/characters/1010708','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1011321,'','1969-12-31 21:00:00','Paper Doll','http://gateway.marvel.com/v1/public/characters/1011321','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/10/4ce5a65b2e406'),
 (1010357,'','1969-12-31 21:00:00','Patch','http://gateway.marvel.com/v1/public/characters/1010357','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009492,'','2011-03-10 16:50:29','Patriot','http://gateway.marvel.com/v1/public/characters/1009492','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/b0/4c003cfda4644'),
@@ -1051,9 +1051,9 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1009494,'','2015-11-23 20:45:15','Pepper Potts','http://gateway.marvel.com/v1/public/characters/1009494','jpg','http://i.annihil.us/u/prod/marvel/i/mg/c/f0/4ce188e09af9c'),
 (1009495,'','1969-12-31 21:00:00','Pestilence','http://gateway.marvel.com/v1/public/characters/1009495','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011388,'','2011-07-19 16:56:51','Pet Avengers','http://gateway.marvel.com/v1/public/characters/1011388','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/50/4ce5a721b6817'),
-(1010779,'Pete Wisdom is a former agent of the British intelligence agency Black Air, which was charged with the observation of, and interaction with, extranormal activity, and he was the agency''s liaison with the British superhero group Excalibur, whom he eventually aided in exposing Black Air''s subversive criminal activities.','0002-11-30 02:00:00 BC','Pete Wisdom','http://gateway.marvel.com/v1/public/characters/1010779','png','http://i.annihil.us/u/prod/marvel/i/mg/f/b0/4c003740c9027'),
+(1010779,'Pete Wisdom is a former agent of the British intelligence agency Black Air, which was charged with the observation of, and interaction with, extranormal activity, and he was the agency''s liaison with the British superhero group Excalibur, whom he eventually aided in exposing Black Air''s subversive criminal activities.','0002-11-30 02:00:00','Pete Wisdom','http://gateway.marvel.com/v1/public/characters/1010779','png','http://i.annihil.us/u/prod/marvel/i/mg/f/b0/4c003740c9027'),
 (1009491,'','2011-09-08 17:58:21','Peter Parker','http://gateway.marvel.com/v1/public/characters/1009491','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1010734,'','1969-12-31 21:00:00','Peter Quill','http://gateway.marvel.com/v1/public/characters/1010734','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011021,'','2013-11-01 18:41:45','Phalanx','http://gateway.marvel.com/v1/public/characters/1011021','jpg','http://i.annihil.us/u/prod/marvel/i/mg/e/03/527411987e35d'),
 (1011419,'','1969-12-31 21:00:00','Phantom Reporter','http://gateway.marvel.com/v1/public/characters/1011419','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/90/4ce5a77f0492c'),
@@ -1064,7 +1064,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1009498,'','1969-12-31 21:00:00','Plazm','http://gateway.marvel.com/v1/public/characters/1009498','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009499,'','2013-11-01 18:43:39','Polaris','http://gateway.marvel.com/v1/public/characters/1009499','jpg','http://i.annihil.us/u/prod/marvel/i/mg/c/c0/5274122562b05'),
 (1009501,'','1969-12-31 21:00:00','Post','http://gateway.marvel.com/v1/public/characters/1009501','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1016840,'A former street kid whoâ€™s not quite used to the Super Hero world, Luke is a no-nonsense tough guy who serves as the emotional heart and big brother of the group. He is fiercely loyal and nearly fearless in battle.
 
 Lukeâ€™s unbreakable skin and super strength make him the bruiser out of all the trainees. Heâ€™s the first guy to jump into a fight. However, he can still be hurt by concussive blasts and other forms of energy.
@@ -1079,7 +1079,7 @@ As Dannyâ€™s best friend, Luke is the translator for Dannyâ€™s sometim
 (1011234,'','2011-05-26 18:52:40','Prince of Orphans','http://gateway.marvel.com/v1/public/characters/1011234','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1010750,'','1969-12-31 21:00:00','Princess Powerful','http://gateway.marvel.com/v1/public/characters/1010750','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/60/4c0037783e8b3'),
 (1009503,'','1969-12-31 21:00:00','Prism','http://gateway.marvel.com/v1/public/characters/1009503','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1011030,'','2014-04-29 15:18:25','Prodigy','http://gateway.marvel.com/v1/public/characters/1011030','jpg','http://i.annihil.us/u/prod/marvel/i/mg/c/20/535feca6710cd'),
 (1011153,'','1969-12-31 21:00:00','Proemial Gods','http://gateway.marvel.com/v1/public/characters/1011153','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4c002f51c9436'),
 (1011378,'','1969-12-31 21:00:00','Professor Monster','http://gateway.marvel.com/v1/public/characters/1011378','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -1090,7 +1090,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1010959,'','1969-12-31 21:00:00','Proteus (Ultimate)','http://gateway.marvel.com/v1/public/characters/1010959','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/30/4c0033f0b31ed'),
 (1009506,'','1969-12-31 21:00:00','Proudstar','http://gateway.marvel.com/v1/public/characters/1009506','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009507,'','1969-12-31 21:00:00','Prowler','http://gateway.marvel.com/v1/public/characters/1009507','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/50/4c003c8acc314');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1010961,'','1969-12-31 21:00:00','Prowler (Rick Lawson)','http://gateway.marvel.com/v1/public/characters/1010961','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009511,'','2011-10-10 17:38:33','Psycho-Man','http://gateway.marvel.com/v1/public/characters/1009511','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/e0/4c003c82b377c'),
 (1009512,'','2015-07-28 20:24:17','Psylocke','http://gateway.marvel.com/v1/public/characters/1009512','jpg','http://i.annihil.us/u/prod/marvel/i/mg/1/50/526961ce86539'),
@@ -1101,7 +1101,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1011165,'','1969-12-31 21:00:00','pug','http://gateway.marvel.com/v1/public/characters/1011165','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009514,'','1969-12-31 21:00:00','Puma','http://gateway.marvel.com/v1/public/characters/1009514','jpg','http://i.annihil.us/u/prod/marvel/i/mg/7/c0/4c003c7a0ab21'),
 (1009515,'','2017-08-24 12:20:12','Punisher','http://gateway.marvel.com/v1/public/characters/1009515','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/90/5261675f6b22f');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009517,'','2014-03-05 15:43:05','Punisher (2099)','http://gateway.marvel.com/v1/public/characters/1009517','jpg','http://i.annihil.us/u/prod/marvel/i/mg/c/a0/53176fef7fa1c'),
 (1017306,'','2013-09-18 11:16:29','Punisher (Marvel: Avengers Alliance)','http://gateway.marvel.com/v1/public/characters/1017306','jpg','http://i.annihil.us/u/prod/marvel/i/mg/0/03/5239b5b358300'),
 (1009519,'','1969-12-31 21:00:00','Puppet Master','http://gateway.marvel.com/v1/public/characters/1009519','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/40/4c003c738f74c'),
@@ -1112,7 +1112,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1009523,'','2013-11-01 18:41:34','Quasar (Phyla-Vell)','http://gateway.marvel.com/v1/public/characters/1009523','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/03/52741171e681e'),
 (1010778,'','2013-11-01 18:41:29','Quasar (Wendell Vaughn)','http://gateway.marvel.com/v1/public/characters/1010778','jpg','http://i.annihil.us/u/prod/marvel/i/mg/d/80/52741155a2994'),
 (1010334,'','1969-12-31 21:00:00','Quasimodo','http://gateway.marvel.com/v1/public/characters/1010334','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/d0/4c00392ddd605');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1011191,'','1969-12-31 21:00:00','Queen Noir','http://gateway.marvel.com/v1/public/characters/1011191','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009387,'','2014-02-07 16:41:04','Quentin Quire','http://gateway.marvel.com/v1/public/characters/1009387','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/40/4c003d7fc6294'),
 (1009524,'','2014-03-05 15:43:15','Quicksilver','http://gateway.marvel.com/v1/public/characters/1009524','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/f0/53176ffc42f58'),
@@ -1123,18 +1123,18 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1011280,'','1969-12-31 21:00:00','Rafael Vega','http://gateway.marvel.com/v1/public/characters/1011280','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1010817,'','1969-12-31 21:00:00','Rage','http://gateway.marvel.com/v1/public/characters/1010817','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/20/4c0035e72e3d8'),
 (1009527,'','1969-12-31 21:00:00','Raider','http://gateway.marvel.com/v1/public/characters/1009527','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009528,'','1969-12-31 21:00:00','Randall','http://gateway.marvel.com/v1/public/characters/1009528','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011326,'','1969-12-31 21:00:00','Randall Flagg','http://gateway.marvel.com/v1/public/characters/1011326','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4ce5a67201a4e'),
 (1010767,'','1969-12-31 21:00:00','Random','http://gateway.marvel.com/v1/public/characters/1010767','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/c0/4c00375b36bd4'),
 (1010838,'','1969-12-31 21:00:00','Rattler','http://gateway.marvel.com/v1/public/characters/1010838','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011154,'','1969-12-31 21:00:00','Ravenous','http://gateway.marvel.com/v1/public/characters/1011154','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1010892,'','1969-12-31 21:00:00','Rawhide Kid','http://gateway.marvel.com/v1/public/characters/1010892','jpg','http://i.annihil.us/u/prod/marvel/i/mg/1/90/4ce5a3e0dbd3a'),
-(1009531,'','0002-11-30 02:00:00 BC','Raza','http://gateway.marvel.com/v1/public/characters/1009531','jpg','http://i.annihil.us/u/prod/marvel/i/mg/c/70/4ce5a1057fce9'),
+(1009531,'','0002-11-30 02:00:00','Raza','http://gateway.marvel.com/v1/public/characters/1009531','jpg','http://i.annihil.us/u/prod/marvel/i/mg/c/70/4ce5a1057fce9'),
 (1009532,'','1969-12-31 21:00:00','Reaper','http://gateway.marvel.com/v1/public/characters/1009532','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009533,'','1969-12-31 21:00:00','Reavers','http://gateway.marvel.com/v1/public/characters/1009533','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/c0/4c003c63deac8'),
 (1015000,'','2012-07-11 10:37:35','Reavers (Ultimate)','http://gateway.marvel.com/v1/public/characters/1015000','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1011249,'','1969-12-31 21:00:00','Red 9','http://gateway.marvel.com/v1/public/characters/1011249','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009534,'','2014-04-29 15:51:08','Red Ghost','http://gateway.marvel.com/v1/public/characters/1009534','jpg','http://i.annihil.us/u/prod/marvel/i/mg/7/10/535ff3cd59285'),
 (1011238,'','1969-12-31 21:00:00','Red Ghost (Ultimate)','http://gateway.marvel.com/v1/public/characters/1011238','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -1145,7 +1145,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1009535,'','2016-06-02 13:20:31','Red Skull','http://gateway.marvel.com/v1/public/characters/1009535','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/03/526036550cd37'),
 (1010965,'','1969-12-31 21:00:00','Red Skull (Albert Malik)','http://gateway.marvel.com/v1/public/characters/1010965','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1010837,'','1969-12-31 21:00:00','Red Wolf','http://gateway.marvel.com/v1/public/characters/1010837','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1011390,'','2010-12-20 16:56:41','Redwing','http://gateway.marvel.com/v1/public/characters/1011390','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/70/4ce5a7383561c'),
 (1011376,'','2012-03-21 16:04:41','Reptil','http://gateway.marvel.com/v1/public/characters/1011376','jpg','http://i.annihil.us/u/prod/marvel/i/mg/c/00/4ce5a6ff4202c'),
 (1011189,'','1969-12-31 21:00:00','Retro Girl','http://gateway.marvel.com/v1/public/characters/1011189','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -1156,7 +1156,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1009379,'','2013-11-01 18:41:20','Rick Jones','http://gateway.marvel.com/v1/public/characters/1009379','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/e0/5274112b036ff'),
 (1015006,'','2012-07-16 15:52:14','Rick Jones (Ultimate)','http://gateway.marvel.com/v1/public/characters/1015006','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011348,'','1969-12-31 21:00:00','Ricochet','http://gateway.marvel.com/v1/public/characters/1011348','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009542,'','2016-02-03 18:21:53','Rictor','http://gateway.marvel.com/v1/public/characters/1009542','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/03/527414130f76d'),
 (1009543,'','1969-12-31 21:00:00','Riptide','http://gateway.marvel.com/v1/public/characters/1009543','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009544,'','1969-12-31 21:00:00','Risque','http://gateway.marvel.com/v1/public/characters/1009544','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4c7c645aa1623'),
@@ -1167,7 +1167,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1017314,'','2013-09-18 11:53:15','Rocket Raccoon (Marvel Heroes)','http://gateway.marvel.com/v1/public/characters/1017314','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/40/5239be52b8c32'),
 (1010769,'','1969-12-31 21:00:00','Rocket Racer','http://gateway.marvel.com/v1/public/characters/1010769','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/e0/4c0037551d8c2'),
 (1010692,'','1969-12-31 21:00:00','Rockslide','http://gateway.marvel.com/v1/public/characters/1010692','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009546,'','2016-02-01 17:50:44','Rogue','http://gateway.marvel.com/v1/public/characters/1009546','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/10/5112d84e2166c'),
 (1010967,'','2013-11-20 20:28:13','Rogue (Age of Apocalypse)','http://gateway.marvel.com/v1/public/characters/1010967','jpg','http://i.annihil.us/u/prod/marvel/i/mg/1/00/528d36d415498'),
 (1017319,'','2013-09-18 12:10:33','Rogue (Deadpool)','http://gateway.marvel.com/v1/public/characters/1017319','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/20/5239c25861c1a'),
@@ -1178,7 +1178,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1010344,'','2014-07-17 17:45:26','Ronan','http://gateway.marvel.com/v1/public/characters/1010344','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/f0/5260363fc40f2'),
 (1011117,'','1969-12-31 21:00:00','Roughhouse','http://gateway.marvel.com/v1/public/characters/1011117','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009549,'','1969-12-31 21:00:00','Roulette','http://gateway.marvel.com/v1/public/characters/1009549','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009595,'','1969-12-31 21:00:00','Roxanne Simpson','http://gateway.marvel.com/v1/public/characters/1009595','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009311,'','1969-12-31 21:00:00','Rumiko Fujikawa','http://gateway.marvel.com/v1/public/characters/1009311','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1010747,'The teens who became the Runaways found that some family secrets are bigger than others when they witnessed their parents, part of a cabal known as the Pride, murdering a young girl during a secret sacrificial ritual. ','2016-07-27 15:46:35','Runaways','http://gateway.marvel.com/v1/public/characters/1010747','jpg','http://i.annihil.us/u/prod/marvel/i/mg/f/60/535fec953eaab'),
@@ -1189,7 +1189,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1010969,'','2013-10-24 15:25:35','Sabretooth (Age of Apocalypse)','http://gateway.marvel.com/v1/public/characters/1010969','jpg','http://i.annihil.us/u/prod/marvel/i/mg/d/90/5269580126d71'),
 (1010970,'','1969-12-31 21:00:00','Sabretooth (House of M)','http://gateway.marvel.com/v1/public/characters/1010970','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/80/4c0033dd26d33'),
 (1010968,'','2011-05-24 10:57:30','Sabretooth (Ultimate)','http://gateway.marvel.com/v1/public/characters/1010968','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4c0033dfc318e');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009555,'','1969-12-31 21:00:00','Sage','http://gateway.marvel.com/v1/public/characters/1009555','png','http://i.annihil.us/u/prod/marvel/i/mg/5/90/4c003c44095cb'),
 (1011325,'','1969-12-31 21:00:00','Salem''s Seven (Ultimate)','http://gateway.marvel.com/v1/public/characters/1011325','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011126,'','1969-12-31 21:00:00','Sally Floyd','http://gateway.marvel.com/v1/public/characters/1011126','jpg','http://i.annihil.us/u/prod/marvel/i/mg/c/d0/4ce5a4ef4b966'),
@@ -1200,8 +1200,8 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1009560,'','2011-09-08 14:22:13','Sasquatch (Walter Langkowski)','http://gateway.marvel.com/v1/public/characters/1009560','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011035,'','2011-08-11 13:02:11','Satana','http://gateway.marvel.com/v1/public/characters/1011035','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4ce5a46882aa9'),
 (1009561,'','1969-12-31 21:00:00','Sauron','http://gateway.marvel.com/v1/public/characters/1009561','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/00/4c003c3d85554');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
-(1011048,'','0002-11-30 02:00:00 BC','Scalphunter','http://gateway.marvel.com/v1/public/characters/1011048','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/10/4ce5a473b81b3'),
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
+(1011048,'','0002-11-30 02:00:00','Scalphunter','http://gateway.marvel.com/v1/public/characters/1011048','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/10/4ce5a473b81b3'),
 (1010856,'','1969-12-31 21:00:00','Silk Fever','http://gateway.marvel.com/v1/public/characters/1010856','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1010861,'Realizing the criminal potential of his abilities, Umberto stole a flock of trained birds from a fellow performer to assist him in his new costumed criminal guise as the Scarecrow.','1969-12-31 21:00:00','Scarecrow (Ebenezer Laughton)','http://gateway.marvel.com/v1/public/characters/1010861','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011197,'','2012-01-31 14:54:31','Scarlet Spider (Ben Reilly)','http://gateway.marvel.com/v1/public/characters/1011197','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/20/4ce5a531089da'),
@@ -1211,7 +1211,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1017308,'','2013-09-18 11:52:50','Scarlet Witch (Marvel Heroes)','http://gateway.marvel.com/v1/public/characters/1017308','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/60/5239be3a2a6e9'),
 (1010971,'','2014-03-05 15:51:08','Scarlet Witch (Ultimate)','http://gateway.marvel.com/v1/public/characters/1010971','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/03/53177154d219d'),
 (1010790,'Carmilla Black is a genetically engineered human, created by Advanced Idea Mechanics (A.I.M.).','1969-12-31 21:00:00','Scorpion (Carmilla Black)','http://gateway.marvel.com/v1/public/characters/1010790','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/40/4c0037366fae7');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1011079,'','1969-12-31 21:00:00','Scorpion (Ultimate)','http://gateway.marvel.com/v1/public/characters/1011079','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009565,'','1969-12-31 21:00:00','Scourge','http://gateway.marvel.com/v1/public/characters/1009565','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011230,'Korean national Kim Il Sung was the youngest member of the Marauders, the superhuman assassins responsible for massacring the underground mutant community known as the Morlocks.','1969-12-31 21:00:00','Scrambler','http://gateway.marvel.com/v1/public/characters/1011230','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/a0/4c002f076451c'),
@@ -1222,7 +1222,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1009568,'The long-standing Black Queen of the Hellfire Club''s Inner Circle, Selene Gallio professes to have lived for several millennia, and to have been a foe of the ancient sorcerer, Kulan Gath.','1969-12-31 21:00:00','Selene','http://gateway.marvel.com/v1/public/characters/1009568','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4c003c337aff5'),
 (1009569,'','2012-02-02 16:50:36','Senator Kelly','http://gateway.marvel.com/v1/public/characters/1009569','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/f0/4ce5a14f2ea36'),
 (1009570,'','2011-10-21 14:56:02','Sentinel','http://gateway.marvel.com/v1/public/characters/1009570','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/60/4ce5a159e5082');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1011323,'','2011-05-25 11:04:06','Sentinels','http://gateway.marvel.com/v1/public/characters/1011323','jpg','http://i.annihil.us/u/prod/marvel/i/mg/4/50/4ce5a66693659'),
 (1009571,'Empowered by the enigmatic Professor''s secret formula, high school student Robert Reynolds became a superhuman.','2013-10-24 15:38:51','Sentry (Robert Reynolds)','http://gateway.marvel.com/v1/public/characters/1009571','jpg','http://i.annihil.us/u/prod/marvel/i/mg/f/03/52695b1392c78'),
 (1011167,'','1969-12-31 21:00:00','Ser Duncan','http://gateway.marvel.com/v1/public/characters/1011167','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -1233,7 +1233,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1009574,'','2011-07-14 15:16:37','Shadowcat','http://gateway.marvel.com/v1/public/characters/1009574','jpg','http://i.annihil.us/u/prod/marvel/i/mg/7/e0/4c003c2b50b1d'),
 (1010975,'Katherine Pryde lived in the suburbs of Illinois and kept her mutant abilities a secret.','2014-04-29 15:11:09','Shadowcat (Age of Apocalypse)','http://gateway.marvel.com/v1/public/characters/1010975','jpg','http://i.annihil.us/u/prod/marvel/i/mg/f/80/535feaf1a92ef'),
 (1010974,'After fourteen-year-old Kitty Pryde''s mutant powers emerged, causing terrifying incidents where she uncontrollably phased out of the family apartment in to moving traffic andsewers, her mother Theresa contacted Professor Xavier.','1969-12-31 21:00:00','Shadowcat (Ultimate)','http://gateway.marvel.com/v1/public/characters/1010974','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/00/4c0033d9d26de');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1011406,'Shadu the Shady claimed to travel to many unseen magical lands and witnessed miracles he would duplicate at a club called the 53rd Card.','1969-12-31 21:00:00','Shadu the Shady','http://gateway.marvel.com/v1/public/characters/1011406','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/50/4c002e2a04c75'),
 (1009575,'','1969-12-31 21:00:00','Shalla-bal','http://gateway.marvel.com/v1/public/characters/1009575','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009576,'Dr. Michael Twoyoungmen was a surgeon who found that modern science was insufficient to accomplish everything he wished to do, and so he turned to mysticism that his grandfather told him about.','2011-05-10 16:51:36','Shaman','http://gateway.marvel.com/v1/public/characters/1009576','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -1244,7 +1244,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1010712,'Often clashing with the heroes of the Squadron Supreme, the Shape was later subjected to the mind-altering behavior modification device used as part of the Squadron Supreme''s "Utopia Program."','1969-12-31 21:00:00','Shape','http://gateway.marvel.com/v1/public/characters/1010712','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/e0/4c0038c68a450'),
 (1009579,'Shard and her older brother Bishop were raised in the 21st Century, some eighty years into an alternate future, by their grandmother, in a timeline in which the X-Men were betrayed by one of their own and killed, causing a disaster that caused the government to place a stylized ''M'' tattoo over the left eyes of all mutants.','1969-12-31 21:00:00','Shard','http://gateway.marvel.com/v1/public/characters/1009579','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/50/4c003c24b9222'),
 (1009228,'','2016-04-20 17:10:50','Sharon Carter','http://gateway.marvel.com/v1/public/characters/1009228','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/d0/4ce59f2323b88');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1010895,'','1969-12-31 21:00:00','Sharon Ventura','http://gateway.marvel.com/v1/public/characters/1010895','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009580,'Shatterstar is Gaveedra Seven, the product of bio-engineering on an otherdimensional world, who was at one point merged with an Earth mutant named Benjamin Russell, the nature of whose genetic mutation remains unknown.','2011-11-08 14:47:58','Shatterstar','http://gateway.marvel.com/v1/public/characters/1009580','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/70/4c003c21cd9e1'),
 (1017111,'She-Hulk is the Hulk''s action-loving cousin. She''s unbelievably strong, pilots the group''s heavily armed Jump Jet, and uses a pair of Gamma Gauntlets that give her fists an added energy wallop. As the most competitive member of the team, She-Hulk never backs down from a fight, arm-wrestling match, or burping contest!  ','2013-09-18 16:53:40','She-Hulk (HAS)','http://gateway.marvel.com/v1/public/characters/1017111','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/d0/523214b8ea2cf'),
@@ -1255,7 +1255,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1015035,'','2010-11-12 16:05:50','Shen','http://gateway.marvel.com/v1/public/characters/1015035','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/20/4cdd81a5743a4'),
 (1011168,'','1969-12-31 21:00:00','Sheva Callister','http://gateway.marvel.com/v1/public/characters/1011168','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011093,'','2014-06-18 13:40:30','Shi''Ar','http://gateway.marvel.com/v1/public/characters/1011093','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/00/53a1c0e5a1f00');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1011381,'','1969-12-31 21:00:00','Shinko Yamashiro','http://gateway.marvel.com/v1/public/characters/1011381','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009582,'Shinobi Shaw is the illegitimate son of Sebastian Shaw, who was rejected and abandoned by his father at an early age and grew tired of waiting to inherit his father''s wealth and wearied of the elder Shaw''s contempt for his decadent lifestyle.','1969-12-31 21:00:00','Shinobi Shaw','http://gateway.marvel.com/v1/public/characters/1009582','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/a0/4c003c1bbf29f'),
 (1009584,'','1969-12-31 21:00:00','Shiva','http://gateway.marvel.com/v1/public/characters/1009584','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -1266,7 +1266,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1009586,'','1969-12-31 21:00:00','Shotgun','http://gateway.marvel.com/v1/public/characters/1009586','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009587,'Shriek became a groupie for a rock band and a drug dealer on the side until the vigilantes Cloak and Dagger happened by during one of her deals.','2013-11-20 20:27:36','Shriek','http://gateway.marvel.com/v1/public/characters/1009587','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/03/528d36b054844'),
 (1009588,'Sif was born a second generation goddess of Asgard and eventually became Thor''s lover.','2015-03-09 18:40:25','Sif','http://gateway.marvel.com/v1/public/characters/1009588','jpg','http://i.annihil.us/u/prod/marvel/i/mg/c/50/527bb6fc4ec43');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1010848,'Silhouette Chord is a descendant of the Dragon''s Breadth cult, which spent centuries trying to master the Well of All Things, a hidden interdimensional mystic energy breach in Cambodia.','1969-12-31 21:00:00','Silhouette','http://gateway.marvel.com/v1/public/characters/1010848','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1010339,'','1969-12-31 21:00:00','Silver Centurion','http://gateway.marvel.com/v1/public/characters/1010339','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009589,'Silver Fox was a young member of the Blackfoot Indian tribe who, in the early 1910s, fell in love with a young mutant named Logan and shared a cabin with him in a remote community in the Canadian Rockies.','1969-12-31 21:00:00','Silver Fox','http://gateway.marvel.com/v1/public/characters/1009589','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/d0/4c003c19078c3'),
@@ -1277,7 +1277,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1010864,'When her father died, Lupe was taken in by the Church orphanage, despite their misgivings about her “ungodly” powers.','1969-12-31 21:00:00','Silverclaw','http://gateway.marvel.com/v1/public/characters/1010864','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/70/4c0035b922e12'),
 (1009594,'Silvio Manfredi has been a career criminal for most of his life.','1969-12-31 21:00:00','Silvermane','http://gateway.marvel.com/v1/public/characters/1009594','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/80/4c003c0fc6a28'),
 (1010898,'','2013-10-24 16:19:06','Sin','http://gateway.marvel.com/v1/public/characters/1010898','jpg','http://i.annihil.us/u/prod/marvel/i/mg/e/70/5269647684f61');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1011265,'','2013-12-26 17:24:53','Sinister Six','http://gateway.marvel.com/v1/public/characters/1011265','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/80/52b0d6f874e15'),
 (1014975,'','2010-11-18 18:48:19','Sir Ram','http://gateway.marvel.com/v1/public/characters/1014975','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/10/4cd043b0a3b2d'),
 (1010834,'Jennifer Pearson appeared on the Ultra hero scene as Siren after being held hostage by her fathers foe known as Mannequin.','1969-12-31 21:00:00','Siren (Earth-93060)','http://gateway.marvel.com/v1/public/characters/1010834','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -1288,7 +1288,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1011157,'The Proemial God Aegis revealed that Skreet was a Chaos Mite, a race of very small and powerful beings, which were deemed unstable by the Cosmic Consonance.','1969-12-31 21:00:00','Skreet','http://gateway.marvel.com/v1/public/characters/1011157','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/20/4c002f4a15c1c'),
 (1009599,'','2016-05-26 11:59:51','Skrulls','http://gateway.marvel.com/v1/public/characters/1009599','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/70/52028ba02bc7d'),
 (1015002,'','2012-07-11 12:09:44','Skrulls (Ultimate)','http://gateway.marvel.com/v1/public/characters/1015002','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009600,'','1969-12-31 21:00:00','Skullbuster (Cylla Markham)','http://gateway.marvel.com/v1/public/characters/1009600','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/b0/4c003c072eb58'),
 (1011057,'Steven Harmon''s powers have been described as "all of the abilities of a Saturday morning cartoon character."','1969-12-31 21:00:00','Slapstick','http://gateway.marvel.com/v1/public/characters/1011057','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/a0/4c00310b887bc'),
 (1011070,'Ten years ago, Slayback was killed by Deadpool before returning from the dead to break into Department K, from which he stole the Weapon X Program files of Kane and Deadpool.','1969-12-31 21:00:00','Slayback','http://gateway.marvel.com/v1/public/characters/1011070','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -1299,7 +1299,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1009603,'Smasher is a member of the Imperial Guard, a multi-ethnic group of super-powered alien beings who act as enforcers of the laws of the Shi''ar Empire.','1969-12-31 21:00:00','Smasher (Vril Rokk)','http://gateway.marvel.com/v1/public/characters/1009603','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/d0/4c003ae66139c'),
 (1010845,'','1969-12-31 21:00:00','Smiling Tiger','http://gateway.marvel.com/v1/public/characters/1010845','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009606,'Narya''s origins trace back to ancient times when the Eskimo Gods of the North battled the mystical Great Beasts for the fate of the world.','2011-08-11 11:32:42','Snowbird','http://gateway.marvel.com/v1/public/characters/1009606','jpg','http://i.annihil.us/u/prod/marvel/i/mg/e/a0/4c003ae37eccd');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1010855,'James Bourne was drafted to a top-secret special forces operation where he endured ten months of hard and brutal training to earn his place in the new counter-terrorist group Omega Strike.','1969-12-31 21:00:00','Solo (James Bourne)','http://gateway.marvel.com/v1/public/characters/1010855','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4c7c641408c12'),
 (1010693,'Melissa Gold grew up on the streets, adopting her mother''s name "Mimi" as part of a hard, cold persona she developed as a survival mechanism.','2011-08-11 13:06:21','Songbird','http://gateway.marvel.com/v1/public/characters/1010693','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/10/4c0038da16738'),
 (1011373,'','1969-12-31 21:00:00','Sons of the Tiger','http://gateway.marvel.com/v1/public/characters/1011373','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -1310,7 +1310,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1010694,'','2017-08-24 18:00:17','Speedball (Robert Baldwin)','http://gateway.marvel.com/v1/public/characters/1010694','jpg','http://i.annihil.us/u/prod/marvel/i/mg/7/30/4d52f6a668e76'),
 (1009605,'','1969-12-31 21:00:00','Spencer Smythe','http://gateway.marvel.com/v1/public/characters/1009605','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011366,'','1969-12-31 21:00:00','Sphinx (Anath-Na Mut)','http://gateway.marvel.com/v1/public/characters/1011366','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1010727,'','1969-12-31 21:00:00','Spider-dok','http://gateway.marvel.com/v1/public/characters/1010727','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009157,' ','2013-12-17 19:00:02','Spider-Girl (Anya Corazon)','http://gateway.marvel.com/v1/public/characters/1009157','jpg','http://i.annihil.us/u/prod/marvel/i/mg/a/10/528d369de3e4f'),
 (1009609,'May "Mayday" Parker is the daughter of Spider-Man and Mary Jane Watson-Parker. Born with all her fatherï¿½s powers-and the same silly sense of humor-sheï¿½s grown up to become one of Earthï¿½s most trusted heroes and a fitting tribute to her proud papa.','2014-03-25 14:30:33','Spider-Girl (May Parker)','http://gateway.marvel.com/v1/public/characters/1009609','jpg','http://i.annihil.us/u/prod/marvel/i/mg/1/70/4c003adccbe4f'),
@@ -1321,7 +1321,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1014873,'','2013-08-15 15:16:16','Spider-Man (2099)','http://gateway.marvel.com/v1/public/characters/1014873','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/c0/520d1ad3e543f'),
 (1016452,'','2012-08-06 17:22:54','Spider-Man (Ai Apaec)','http://gateway.marvel.com/v1/public/characters/1016452','jpg','http://i.annihil.us/u/prod/marvel/i/mg/c/60/4fce7a4d900f4'),
 (1014858,'','2014-03-05 15:48:42','Spider-Man (Ben Reilly)','http://gateway.marvel.com/v1/public/characters/1014858','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/c0/5317717bed6fe');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1012200,'In the House of M universe, surrounded by his family, including his young son Richard and close friends, Peter Parker is the envy of the world and its most popular mutant; but lately, Peter has felt like something is wrong in his world.','2014-03-05 15:49:00','Spider-Man (House of M)','http://gateway.marvel.com/v1/public/characters/1012200','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/60/5317718f0a2e7'),
 (1017332,'','2013-09-18 12:21:05','Spider-Man (LEGO Marvel Super Heroes)','http://gateway.marvel.com/v1/public/characters/1017332','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/03/5239c4d095611'),
 (1011114,'Zombie Spider-Man ate his own wife and aunt, the only two people left in the world who truly loved him.','2014-03-05 15:53:01','Spider-Man (Marvel Zombies)','http://gateway.marvel.com/v1/public/characters/1011114','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/00/531772716d0ac'),
@@ -1332,7 +1332,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1011010,'Peter’s relatively normal life changed abruptly during a school trip to Osborn Industries, Inc, where the company had been working on a super soldier serum, the Oz Compound; a spider exposed to it escaped and bit Peter before it was destroyed.','2014-03-05 15:50:46','Spider-Man (Ultimate)','http://gateway.marvel.com/v1/public/characters/1011010','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/50/531771b4e8c60'),
 (1010795,'','2014-03-05 15:49:34','Spider-Woman (Charlotte Witter)','http://gateway.marvel.com/v1/public/characters/1010795','jpg','http://i.annihil.us/u/prod/marvel/i/mg/c/60/531771afe4ffa'),
 (1009608,'When young Jessica Drew suffered uranium poisoning in 1931, her father was forced to inject her with his untested spider serum and seal her in a genetic accelerator.','2016-04-26 16:26:56','Spider-Woman (Jessica Drew)','http://gateway.marvel.com/v1/public/characters/1009608','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/50/5265479097743');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1010794,'Mattie Franklin was granted her powers when, after overhearing a phone call between her father and Norman Osborn about the Gathering of the Five, she took her father''s place during the Gathering and was endowed with the awesome powers that Norman Osborn had wanted for himself.','2014-03-05 15:50:37','Spider-Woman (Mattie Franklin)','http://gateway.marvel.com/v1/public/characters/1010794','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/30/531771c2ab020'),
 (1009614,'Spiral was created to be an agent of Mojo, the despotic leader of Mojo World, often used as his favored personal servant, executioner, and spy.','1969-12-31 21:00:00','Spiral (Rita Wayword)','http://gateway.marvel.com/v1/public/characters/1009614','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/a0/4c003ad84f314'),
 (1011158,'Spirit is a member of the Luphomoid race and she is one of the few survivors of her planet''s destruction.','1969-12-31 21:00:00','Spirit','http://gateway.marvel.com/v1/public/characters/1011158','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/90/4c002f471444a'),
@@ -1343,7 +1343,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1014905,'','2015-01-08 18:06:31','Squadron Sinister','http://gateway.marvel.com/v1/public/characters/1014905','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1010814,'','1969-12-31 21:00:00','Squadron Supreme (Earth-712)','http://gateway.marvel.com/v1/public/characters/1010814','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/a0/4c0035eca1466'),
 (1010860,'Escaping the taunts of her fellow school students regarding her physical mutation, Los-Angeles born Doreen Green fled into the nearby woods where she quickly discovered her affinity for squirrels.','2016-07-26 11:13:42','Squirrel Girl','http://gateway.marvel.com/v1/public/characters/1010860','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/60/4c0035beb0c55');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009618,'','2012-11-09 18:14:06','Stacy X','http://gateway.marvel.com/v1/public/characters/1009618','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1015003,'','2012-07-11 12:12:29','Stacy X (Ultimate)','http://gateway.marvel.com/v1/public/characters/1015003','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011307,'','1969-12-31 21:00:00','Star Brand','http://gateway.marvel.com/v1/public/characters/1011307','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -1354,7 +1354,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1011341,'Though best known as a 31st century hero in the alternate Reality-691 timeline, the enigmatic, space-faring Starhawk originated a millennium earlier.','1969-12-31 21:00:00','Starhawk (Stakar Ogord)','http://gateway.marvel.com/v1/public/characters/1011341','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011078,'','2014-05-23 13:18:18','Starjammers','http://gateway.marvel.com/v1/public/characters/1011078','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/60/537f74ae55a3a'),
 (1009622,'','1969-12-31 21:00:00','Stark Industries','http://gateway.marvel.com/v1/public/characters/1009622','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1010828,'Cassie Lang is the daughter of deceased Avenger Scott Lang and a member of the Young Avengers.','2013-11-01 18:50:16','Stature','http://gateway.marvel.com/v1/public/characters/1010828','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/60/527413be6077d'),
 (1010889,'','1969-12-31 21:00:00','Steel Serpent (Davos)','http://gateway.marvel.com/v1/public/characters/1010889','jpg','http://i.annihil.us/u/prod/marvel/i/mg/4/90/4ce5a3cacb3af'),
 (1011159,'It is unknown how Stellaris survived the extermination of her home world by the Celestials or how she acquired her living armor, but ever since she has committed herself to their destruction.','1969-12-31 21:00:00','Stellaris','http://gateway.marvel.com/v1/public/characters/1011159','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/e0/4c002f4445ce5'),
@@ -1365,7 +1365,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1009626,'Stick, who trained both Daredevil and Elektra in the martial arts, is the leader of the warrior order called The Chaste, and has fought alongside the clan''s other members against The Hand for years.','1969-12-31 21:00:00','Stick','http://gateway.marvel.com/v1/public/characters/1009626','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009627,'Wilbur Day was a scientist at Kaxton Labs who stole designs for a hydraulic ramming device from his company out of frustration of his position in his job.','1969-12-31 21:00:00','Stilt-Man (Wibur Day)','http://gateway.marvel.com/v1/public/characters/1009627','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/f0/4c003ac98d3ce'),
 (1009628,'Creating the Stingray costume, Newell succeeded in capturing the Sub-Mariner, although Namor soon escaped and Newell, while initially defeating him a second time, allowed his friend to go.','1969-12-31 21:00:00','Stingray (Walter Newell)','http://gateway.marvel.com/v1/public/characters/1009628','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/d0/4c003ac5e5195');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1010327,'','1969-12-31 21:00:00','Stone Men','http://gateway.marvel.com/v1/public/characters/1010327','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009629,'Ororo Monroe is the descendant of an ancient line of African priestesses, all of whom have white hair, blue eyes, and the potential to wield magic.','2016-05-26 12:50:27','Storm','http://gateway.marvel.com/v1/public/characters/1009629','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/40/526963dad214d'),
 (1010979,'Calling herself the Windrider, Storm carved out a small area of Africa as her own and intended to keep it safe from the strife of the war between humans and mutants.','2014-03-05 15:57:02','Storm (Age of Apocalypse)','http://gateway.marvel.com/v1/public/characters/1010979','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/00/5317732bcc91a'),
@@ -1376,7 +1376,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1009632,'Stryfe is the clone of Nathan Christopher Summers, alias Cable, the son of Cyclops of the X-Men.','2013-11-01 18:50:51','Stryfe','http://gateway.marvel.com/v1/public/characters/1009632','jpg','http://i.annihil.us/u/prod/marvel/i/mg/f/a0/527413b06270b'),
 (1011225,'','1969-12-31 21:00:00','Stryfe (Ultimate)','http://gateway.marvel.com/v1/public/characters/1011225','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1010791,'Prince Namor is the half-human/half-Atlantean ruler of Atlantis.','2013-09-27 17:50:47','Sub-Mariner','http://gateway.marvel.com/v1/public/characters/1010791','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/b0/5245ef8c83126');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009631,'','2013-10-24 15:41:17','Sue Storm','http://gateway.marvel.com/v1/public/characters/1009631','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/a0/52695b9cd40b6'),
 (1011212,'The Sugar Man was in charge of the Seattle Core, a slave camp that helped power North America during the Age of Apocalypse.','2013-11-01 18:50:49','Sugar Man','http://gateway.marvel.com/v1/public/characters/1011212','jpg','http://i.annihil.us/u/prod/marvel/i/mg/f/d0/527413a2480b5'),
 (1009635,'','1969-12-31 21:00:00','Sumo','http://gateway.marvel.com/v1/public/characters/1009635','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -1387,7 +1387,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1015280,'','2011-04-25 20:09:38','Super Hero Squad','http://gateway.marvel.com/v1/public/characters/1015280','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011022,'The Super-Adaptoid was created by the organization known as A.I.M. using a piece of the Cosmic Cube.','1969-12-31 21:00:00','Super-Adaptoid','http://gateway.marvel.com/v1/public/characters/1011022','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/e0/4c00325af279c'),
 (1009639,'After the Fantastic Four stopped the Skrulls'' attempted invasion of Earth, Skrull Emperor Dorrek invested vast resources into creating a superbeing of his own.','2013-11-01 18:51:40','Super-Skrull','http://gateway.marvel.com/v1/public/characters/1009639','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/b0/5274138fe6deb');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1011232,'Sergeant Milo Fields was recruited for the Order and regained the use of his legs after his nervous system intermingled with that of Aralune.','1969-12-31 21:00:00','Supernaut','http://gateway.marvel.com/v1/public/characters/1011232','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/90/4c002f048e0b6'),
 (1011160,'The Supreme Intelligence is an organic, computer construct, created by the Kree to act as their supreme leader.','2013-12-17 20:37:00','Supreme Intelligence','http://gateway.marvel.com/v1/public/characters/1011160','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/52b0d1eb0ca73'),
 (1010695,'Prior to enrolling at the Xavier Institute, Noriko Ashida lived on the street and was reliant on illegally obtained prescription drugs to reduce her highly accelerated mutant brain functions to a manageable rate.','2011-10-19 12:49:27','Surge','http://gateway.marvel.com/v1/public/characters/1010695','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/d0/4c0038d51109f'),
@@ -1398,7 +1398,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1009640,'','1969-12-31 21:00:00','Switch','http://gateway.marvel.com/v1/public/characters/1009640','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009641,'Andreas reappeared as the Swordsman in the latest incarnation of the Thunderbolts, though his true identity was kept secret for some time.','2014-04-29 15:51:47','Swordsman','http://gateway.marvel.com/v1/public/characters/1009641','jpg','http://i.annihil.us/u/prod/marvel/i/mg/a/40/535ff38904fff'),
 (1010982,'When Clint Barton came to the Carson Carnival of Traveling Wonders, the Swordsman became one of his mentors.','1969-12-31 21:00:00','Swordsman (Jaques Duquesne)','http://gateway.marvel.com/v1/public/characters/1010982','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009642,'','1969-12-31 21:00:00','Sym','http://gateway.marvel.com/v1/public/characters/1009642','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009643,'Everett Thomas was a founding member of Generation X.','1969-12-31 21:00:00','Synch','http://gateway.marvel.com/v1/public/characters/1009643','gif','http://i.annihil.us/u/prod/marvel/i/mg/f/60/4c002e0305708'),
 (1009644,'','2012-05-23 13:12:57','T''Challa','http://gateway.marvel.com/v1/public/characters/1009644','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -1409,7 +1409,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1011161,'Born without the ability to shape shift like other Skrulls, Talos became a savage fighter and a decorated military commander.','1969-12-31 21:00:00','Talos','http://gateway.marvel.com/v1/public/characters/1011161','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/80/4c002f3ec91c0'),
 (1011149,'','1969-12-31 21:00:00','Tana Nile','http://gateway.marvel.com/v1/public/characters/1011149','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/40/4c002f68816cd'),
 (1010713,'Alvarez replaced the original Tarantula after his death by the dictatorship Delvadian government.','1969-12-31 21:00:00','Tarantula (Luis Alvarez)','http://gateway.marvel.com/v1/public/characters/1010713','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009647,'','1969-12-31 21:00:00','Tarot','http://gateway.marvel.com/v1/public/characters/1009647','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009648,'Taskmaster first exhibited his unusual ability, called "photographic reflexes," which allowed him to mimic the motion of anyone he saw, when he was a young boy.','2013-10-24 15:29:31','Taskmaster','http://gateway.marvel.com/v1/public/characters/1009648','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/c0/526957dc0c27f'),
 (1011115,'','1969-12-31 21:00:00','Tattoo','http://gateway.marvel.com/v1/public/characters/1011115','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -1420,7 +1420,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1011034,'In the distant past, Terror battled a green bear-like demon that threatened early mankind, sacrificing his own form to overcome it; he was then cursed to wear its decayed form but gained its power.','1969-12-31 21:00:00','Terror','http://gateway.marvel.com/v1/public/characters/1011034','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/80/4c0032410b8d8'),
 (1010819,'','1969-12-31 21:00:00','Texas Twister','http://gateway.marvel.com/v1/public/characters/1010819','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/d0/4c0035e44d390'),
 (1011003,'','1969-12-31 21:00:00','Thaddeus Ross','http://gateway.marvel.com/v1/public/characters/1011003','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009652,'The Mad Titan Thanos, a melancholy, brooding individual, consumed with the concept of death, sought out personal power and increased strength, endowing himself with cybernetic implants until he became more powerful than any of his brethren.','2016-05-05 16:35:19','Thanos','http://gateway.marvel.com/v1/public/characters/1009652','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/40/5274137e3e2cd'),
 (1015004,'','2014-03-05 15:56:27','Thanos (Ultimate)','http://gateway.marvel.com/v1/public/characters/1015004','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/c0/5317734cbc1d0'),
 (1011083,'','2013-07-22 15:59:21','The 198','http://gateway.marvel.com/v1/public/characters/1011083','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -1431,7 +1431,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1010728,'','1969-12-31 21:00:00','The Executioner','http://gateway.marvel.com/v1/public/characters/1010728','jpg','http://i.annihil.us/u/prod/marvel/i/mg/e/d0/4ce5a2ab860be'),
 (1009655,'','1969-12-31 21:00:00','The Fallen','http://gateway.marvel.com/v1/public/characters/1009655','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1010359,'','2013-12-26 17:25:22','The Hand','http://gateway.marvel.com/v1/public/characters/1010359','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/b0/52bc82337d577');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1010715,'','2016-05-25 13:01:51','The Hood','http://gateway.marvel.com/v1/public/characters/1010715','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/90/539a09a2863cf'),
 (1011295,'','2015-09-30 13:27:59','The Howling Commandos','http://gateway.marvel.com/v1/public/characters/1011295','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/c0/4ce5a603588f5'),
 (1014986,'','2010-11-18 18:58:03','The Hunter','http://gateway.marvel.com/v1/public/characters/1014986','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/60/4cd05f86b27e1'),
@@ -1442,7 +1442,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1011018,'','1969-12-31 21:00:00','The Order','http://gateway.marvel.com/v1/public/characters/1011018','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009656,'','1969-12-31 21:00:00','The Phantom','http://gateway.marvel.com/v1/public/characters/1009656','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009657,'','1969-12-31 21:00:00','The Professor','http://gateway.marvel.com/v1/public/characters/1009657','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1011211,'','1969-12-31 21:00:00','The Renegades','http://gateway.marvel.com/v1/public/characters/1011211','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011110,'','1969-12-31 21:00:00','The Santerians','http://gateway.marvel.com/v1/public/characters/1011110','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009658,'','1969-12-31 21:00:00','The Shiver Man','http://gateway.marvel.com/v1/public/characters/1009658','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/90/4c003aaa26ee9'),
@@ -1453,7 +1453,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1011181,'Thena, a second generation Eternal, is the eldest daughter of Zuras, leader of the Eternals of Earth, and Cybele, and although she has lived for more than 4,000 years, she is still considered a young woman by Eternal standards.','1969-12-31 21:00:00','Thena','http://gateway.marvel.com/v1/public/characters/1011181','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/a0/4c002f2a83a8c'),
 (1009662,'The radiation that mutated Reed Richards, Sue Storm and Johnny Storm into superhuman beings had also mutated Ben Grimm, transforming him into a grotesque, rock-hided strongman dubbed the Thing.','2016-05-26 11:23:39','Thing','http://gateway.marvel.com/v1/public/characters/1009662','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/00/527bb4d36b5c2'),
 (1017313,'','2013-09-18 11:52:18','Thing (Marvel Heroes)','http://gateway.marvel.com/v1/public/characters/1017313','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/20/5239be1a26d18');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1010983,'When the time came for Reed Richards to demonstrate his teleportation device, his old friend Ben Grimm was invited to observe, but the device malfunctioned and Ben woke up in Mexico City, transformed into a rocky, brutish Thing.','2010-12-08 18:01:38','Thing (Ultimate)','http://gateway.marvel.com/v1/public/characters/1010983','jpg','http://i.annihil.us/u/prod/marvel/i/mg/f/40/4c0032a542533'),
 (1009664,'As the Norse God of thunder and lightning, Thor wields one of the greatest weapons ever made, the enchanted hammer Mjolnir. While others have described Thor as an over-muscled, oafish imbecile, he''s quite smart and compassionate.  He''s self-assured, and he would never, ever stop fighting for a worthwhile cause.','2020-03-11 11:18:57','Thor','http://gateway.marvel.com/v1/public/characters/1009664','jpg','http://i.annihil.us/u/prod/marvel/i/mg/d/d0/5269657a74350'),
 (1017576,'<p class="Body">When the Odinson lost his ability to wield Mjolnir, the role of Thor, God of Thunder, was left unoccupied&hellip;albeit for a short time. A mysterious female figure picked up the hammer with ease, changing the inscription to fit her status as the Goddess of Thunder.</p>','2014-11-17 20:48:24','Thor (Goddess of Thunder)','http://gateway.marvel.com/v1/public/characters/1017576','jpg','http://i.annihil.us/u/prod/marvel/i/mg/4/10/545a857a38f92'),
@@ -1464,7 +1464,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1011025,'He claims he is the legendary Norse thunder deity Thor, sent to Earth by his father Odin, but official records say he is Thorlief Golmen, who stole his scientist brother Gunnar Golmen''s super-soldier technology after suffering a nervous breakdown.','2014-03-05 15:58:19','Thor (Ultimate)','http://gateway.marvel.com/v1/public/characters/1011025','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/80/5317738e6dc12'),
 (1010820,'Tarene, aware of her true nature as the Designate, a being foretold to elevate all life to greatness, sought adventure and, using Thor as a template, transformed herself into an Asgardian goddess and journeyed to Earth.','2013-10-24 15:29:36','Thor Girl','http://gateway.marvel.com/v1/public/characters/1010820','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/e0/526957cdcf6d1'),
 (1010740,'','2016-05-02 16:42:32','Winter Soldier','http://gateway.marvel.com/v1/public/characters/1010740','jpg','http://i.annihil.us/u/prod/marvel/i/mg/d/03/5265478293c1e');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1010885,'Dr. Eliot Franklin was a genius-level physicist who was forced to turn to crime and helped form the Wrecking Crew alongside the Wrecker, Bulldozer and Piledriver.','1969-12-31 21:00:00','Thunderball','http://gateway.marvel.com/v1/public/characters/1010885','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009666,'An exceptionally strong and vigorous athlete in his youth, John Proudstar&rsquo;s mutant abilities first manifested when he wrestled a charging bison to save a young girl.','2017-08-21 17:59:58','Thunderbird (John Proudstar)','http://gateway.marvel.com/v1/public/characters/1009666','jpg','http://i.annihil.us/u/prod/marvel/i/mg/a/f0/4c003aa43b1ec'),
 (1009667,'Coming from an affluent family and the son of a Calcuttan police chief, Indian national Neal Shaara has not been a follower of Charles Xavier''s philosophies for long, but appears to be one of their most dedicated supporters, nonetheless.','1969-12-31 21:00:00','Thunderbird (Neal Shaara)','http://gateway.marvel.com/v1/public/characters/1009667','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/c0/4c003aa0d9cf9'),
@@ -1475,7 +1475,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1009669,'A champion Olympic swimmer, Todd Arliss earned nearly half million dollars in advances for public exhibitions, but his dreams came crashing down around him when he injured his back and legs while rescuing a man who had fallen overboard from a private craft, sending Arliss into the arms of Dr. Lemuel Dorcas, who used his "morphotron," which could imprint the genetic pattern of an animal onto a human, turning Arliss into a superhuman, amphibious creature.','1969-12-31 21:00:00','Tiger Shark','http://gateway.marvel.com/v1/public/characters/1009669','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/10/4c003a9db2f77'),
 (1011237,'','2011-05-26 18:53:29','Tiger''s Beautiful Daughter','http://gateway.marvel.com/v1/public/characters/1011237','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/80/4ce5a59d27a81'),
 (1009670,'Although she was able to use the cat''s-head amulet to change back to her human form, Greer Nelson became so accustomed to and enamored of her feline form that she seldom made the transformation.','2013-10-24 15:29:42','Tigra (Greer Nelson)','http://gateway.marvel.com/v1/public/characters/1009670','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/e0/526957bb909b3');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1010857,'As a young child, Rina Patel experienced visions of her future, though she eventually learned to control this, triggering visions of specific times, and she realized she was swapping her consciousness across time.','1969-12-31 21:00:00','Timeslip','http://gateway.marvel.com/v1/public/characters/1010857','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011345,'The Tinkerer is an ordinary man who has an extraordinary talent for anything mechanical.','1969-12-31 21:00:00','Tinkerer','http://gateway.marvel.com/v1/public/characters/1011345','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/60/4c002e3aaf52e'),
 (1011960,'After the senseless murder of Squirrel Girl’s first partner Monkey Joe, Tippy Toe remained by Squirrel Girl’s side and became her new partner.','2017-08-24 17:56:33','Tippy Toe','http://gateway.marvel.com/v1/public/characters/1011960','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -1486,7 +1486,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1011166,'','1969-12-31 21:00:00','Tomas','http://gateway.marvel.com/v1/public/characters/1011166','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009675,'Known as Tombstone, Lonnie Lincoln filed his teeth to points to add to his already intimidating image and honed his fighting skills in numerous street fights.','1969-12-31 21:00:00','Tombstone','http://gateway.marvel.com/v1/public/characters/1009675','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/40/4c003a981c496'),
 (1010328,'','1969-12-31 21:00:00','Tomorrow Man','http://gateway.marvel.com/v1/public/characters/1010328','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009624,'','2012-04-16 17:13:05','Tony Stark','http://gateway.marvel.com/v1/public/characters/1009624','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011309,'As the Torch approached Toro, his presence caused Toro to burst into flame like the Torch himself, but while remaining unharmed, causing the Torch to realize that Toro had the same powers that he himself did.','2011-09-21 14:42:59','Toro (Thomas Raymond)','http://gateway.marvel.com/v1/public/characters/1011309','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/10/4e7a2165364ca'),
 (1009676,'NYPD Officer Patrick Mulligan was implanted with a symbiote offspring during a chance encounter with Carnage.','1969-12-31 21:00:00','Toxin','http://gateway.marvel.com/v1/public/characters/1009676','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/30/4c003a94e668a'),
@@ -1497,7 +1497,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1010335,'Triton is a member of the Inhumans.','2013-11-20 20:27:21','Triton','http://gateway.marvel.com/v1/public/characters/1010335','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/90/528d367108dfb'),
 (1011352,'','1969-12-31 21:00:00','True Believers','http://gateway.marvel.com/v1/public/characters/1011352','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011047,'As Turbo, young journalist Michiko Musashi is the latest in a line of heroes who have worn the turbine-powered flying armor.','1969-12-31 21:00:00','Turbo','http://gateway.marvel.com/v1/public/characters/1011047','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/00/4c00322ddea0c');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009678,'','1969-12-31 21:00:00','Tusk','http://gateway.marvel.com/v1/public/characters/1009678','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1010852,'','2012-02-02 15:31:07','Two-Gun Kid','http://gateway.marvel.com/v1/public/characters/1010852','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/70/4ce5a390b929b'),
 (1009679,'','1969-12-31 21:00:00','Tyger Tiger','http://gateway.marvel.com/v1/public/characters/1009679','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -1508,7 +1508,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1009682,'With the end of the Vietnam War, John Walker thought his dreams of becoming a war hero had also ended, until he learned of the Power Broker, who could give anyone superhuman powers, which Walker used to first become Super-Patriot and later, U.S. Agent.','2014-04-29 15:14:29','U.S. Agent','http://gateway.marvel.com/v1/public/characters/1009682','jpg','http://i.annihil.us/u/prod/marvel/i/mg/c/90/535febe8b095a'),
 (1009683,'Uatu grew so fond of the lifeforms he observed that he occasionally violated his vow of non-interference when Earth''s existence was threatened.','2013-12-26 17:55:54','Uatu The Watcher','http://gateway.marvel.com/v1/public/characters/1009683','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/03/5274135912e8d'),
 (1010358,'Ulik was a Rock Troll from the realm known as Nornheim, located underground within the dimension of Asgard.','2011-01-25 19:05:37','Ulik','http://gateway.marvel.com/v1/public/characters/1010358','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/c0/4d3f3b2078758');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1016825,'For the past year, Peter Parker has been saving New York City from villains as the masked hero, Spider-Man. Facing thugs and evil geniuses alike, he learns how to balance heroics with homework and friends. Despite being a Super Hero, Peter is very much an average 16-year-old.  With the added responsibilities of being Spider-Man, juggling all the aspects of his life will continually challenge him.
 
 When S.H.I.E.L.D. Director, Nick Fury, offers Peter the chance to raise his game and become THE ULTIMATE SPIDER-MAN, Midtown High becomes a secret operations base for Spider-Man and other young heroes under the watchful eye of Fury and the schoolâ€™s new principal, Agent Coulson. ','2013-09-18 16:54:46','Ultimate Spider-Man (USM)','http://gateway.marvel.com/v1/public/characters/1016825','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/50/5232171a451bb'),
@@ -1521,7 +1521,7 @@ When S.H.I.E.L.D. Director, Nick Fury, offers Peter the chance to raise his game
 (1009686,'Umar and her sibling Dormammu gathered matter to themselves to increase their power, a practice anathema to their fellow Faltine who consider energy to be superior to matter.','1969-12-31 21:00:00','Umar','http://gateway.marvel.com/v1/public/characters/1009686','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1010862,'Milos Masaryk, a Soviet intelligence agent assigned as a security guard for Anton Vanko, a Soviet inventor who developed the Crimson Dynamo armor, was tasked by the Soviet government to retrieve Vanko after he defected to the United States.','1969-12-31 21:00:00','Unicorn','http://gateway.marvel.com/v1/public/characters/1010862','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/4c0035bc1dcf1'),
 (1010985,'Imprisoned in Germany during WWII, Brian Falsworth shared a cell with a German scientist who had tried to recreate the super-soldier serum, but didn''t want it to fall into Nazi hands, so he gave his only sample to Brian, who gained enhanced strength, speed, stamina and reflexes.','1969-12-31 21:00:00','Union Jack (Brian Falsworth)','http://gateway.marvel.com/v1/public/characters/1010985','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1010696,'Joey Chapman, the new Union Jack continued to fight evil, both alone and as a member of the Knights of Pendragon and the new Invaders.','2011-02-17 21:05:22','Union Jack (Joseph Chapman)','http://gateway.marvel.com/v1/public/characters/1010696','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/40/4c0038d27694a'),
 (1010984,'During World War I, Lord Montgomery Falsworth was recruited by the British army to become one of the first public superhero champions: Union Jack.','1969-12-31 21:00:00','Union Jack (Montgomery Falsworth)','http://gateway.marvel.com/v1/public/characters/1010984','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/10/4c0032a211f54'),
 (1009687,'Angelo Unuscione is a mutant whose powers did not surface until adolescence, when he first used them as a school bully and later as a small time criminal before immigrating to America and using his ability to create a virtually impenetrable force field around himself to launch a career as a flamboyant, invincible costumed wrestler known by the stage name of Unus the Untouchable.','1969-12-31 21:00:00','Unus','http://gateway.marvel.com/v1/public/characters/1009687','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/00/4c003a847f5d2'),
@@ -1532,7 +1532,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1010350,'Amora magically transformed Samantha Parrington into a raging, man-hating facsimile of the Asgardian warrior goddess Brunnhilde the Valkyrie, whose form and might Amora could replicate at will, having trapped Brunnhilde''s soul in a mystical crystal centuries earlier.','2014-04-29 15:23:28','Valkyrie (Samantha Parrington)','http://gateway.marvel.com/v1/public/characters/1010350','jpg','http://i.annihil.us/u/prod/marvel/i/mg/c/00/535fed8a3a00f'),
 (1011239,'','2014-03-05 15:58:33','Valkyrie (Ultimate)','http://gateway.marvel.com/v1/public/characters/1011239','jpg','http://i.annihil.us/u/prod/marvel/i/mg/4/20/53177396dc74f'),
 (1011182,'Vampiro, part of the race known as the Eternals, lived on Earth for many years, eventually taking a wife and making a career for himself as a professional wrestler.','1969-12-31 21:00:00','Vampiro','http://gateway.marvel.com/v1/public/characters/1011182','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/b0/4c002f27b9a1e');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1011342,'','1969-12-31 21:00:00','Vance Astro','http://gateway.marvel.com/v1/public/characters/1011342','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1010989,'Vanisher worked for Apocalypse.','2013-10-18 17:35:15','Vanisher (Age of Apocalypse)','http://gateway.marvel.com/v1/public/characters/1010989','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011365,'Nothing is known about the Vanisher''s past before he embarked on a one-man crime wave of spectacular thefts using his power of self-teleportation.','1969-12-31 21:00:00','Vanisher (Telford Porter)','http://gateway.marvel.com/v1/public/characters/1011365','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -1543,7 +1543,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1011231,'Magdalena Marie Neuntauben became an accomplished martial artist, then a model, and later an actress, from which she donated all of her proceeds to her charity, which made her a prime candidate for recruitment into the Order.','1969-12-31 21:00:00','Veda','http://gateway.marvel.com/v1/public/characters/1011231','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009691,'Michael Badilino became consumed with gaining vengeance on Ghost Rider for what happened to his family, and the demon Mephisto granted him the power with which to do so, transforming him into Vengeance.','2014-04-29 15:10:10','Vengeance (Michael Badilino)','http://gateway.marvel.com/v1/public/characters/1009691','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/e0/528d3655b9f06'),
 (1009663,'Flash Thompson was the high school bully of Peter Parker while also being one of Spider-Man''s biggest fans. After losing his legs during military service, he became the new Venom, working as an operative of the United States government.','2016-05-25 13:51:24','Venom (Flash Thompson)','http://gateway.marvel.com/v1/public/characters/1009663','jpg','http://i.annihil.us/u/prod/marvel/i/mg/7/80/5269668c7d5df');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1010788,'One of Spider-Man''s oldest enemies, Mac Gargan has recently abandoned his Scorpion suit and identity and bonded with the alien symbiote that had previously been hosted by Peter Parker and Eddie Brock, becoming the new Venom.','2014-03-05 15:58:37','Venom (Mac Gargan)','http://gateway.marvel.com/v1/public/characters/1010788','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/50/531773a2ac20a'),
 (1011128,'While Eddie Brock’s academic career seemed to take off, his personal life was in shambles due to his quick temper and inability to connect with women on any level, and Eddie became isolated, but when his old friend Peter Parker contacted him, he felt a rush of enthusiasm: here, at last, was someone with whom he could truly bond.','2014-03-05 15:58:42','Venom (Ultimate)','http://gateway.marvel.com/v1/public/characters/1011128','jpg','http://i.annihil.us/u/prod/marvel/i/mg/e/10/531773a976816'),
 (1011106,'During her time as an adventurer, Venus was approached by FBI agent Jimmy Woo, and she agreed to join Jimmy and his allies in freeing President Eisenhower from the clutches of the Yellow Claw.','2014-04-29 15:52:01','Venus (Siren)','http://gateway.marvel.com/v1/public/characters/1011106','jpg','http://i.annihil.us/u/prod/marvel/i/mg/f/f0/535ff36a8fbef'),
@@ -1554,7 +1554,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1010324,'','1969-12-31 21:00:00','Victor Von Doom','http://gateway.marvel.com/v1/public/characters/1010324','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011261,'','1969-12-31 21:00:00','Vin Gonzales','http://gateway.marvel.com/v1/public/characters/1011261','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009695,'Heather McNeil-Hudson married James Hudson, founder of Canadian super-team, Alpha Flight, and donned a version of his Vindicator armor after his death.','2011-06-17 14:31:18','Vindicator','http://gateway.marvel.com/v1/public/characters/1009695','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/b0/4c003a7f39967');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1010666,'','1969-12-31 21:00:00','Violations','http://gateway.marvel.com/v1/public/characters/1010666','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009696,'After the apparent death of Baron von Strucker, Viper took the name Madame Hydra and took control of the New York-based faction of Hydra.','2010-12-17 16:24:45','Viper','http://gateway.marvel.com/v1/public/characters/1009696','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1010697,'','1969-12-31 21:00:00','Virginia Dare','http://gateway.marvel.com/v1/public/characters/1010697','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -1565,7 +1565,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1010990,'Adrian Toomes, the Vulture, told his cellmate, Blackie Drago, the location of his Vulture costume.','1969-12-31 21:00:00','Vulture (Blackie Drago)','http://gateway.marvel.com/v1/public/characters/1010990','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/50/4c00329c0dc23'),
 (1010849,'Laurie Collins began to involuntarily manipulate anyone around her once her genetic mutation manifested, unable to control its effects.','1969-12-31 21:00:00','Wallflower','http://gateway.marvel.com/v1/public/characters/1010849','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011267,'Walter was born, presumably in the decade of 1910s, into the ClanDestine-- his father, the immortal Adam Destine and his mother a magical genie.','1969-12-31 21:00:00','Wallop','http://gateway.marvel.com/v1/public/characters/1011267','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4c002ef63d1e4');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009700,'Max Pressman murdered his wife and attempted to murder his two children Michael and Melinda, but after police officer shot him before he could so, Pressman returned as a ghost-like entity, with only the face of Melinda''s doll as his own.','1969-12-31 21:00:00','Wallow','http://gateway.marvel.com/v1/public/characters/1009700','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009701,'A young veteran wounded during the Vietnam War, Abraham Kieros was selected by Apocalypse to become the Horseman War.','1969-12-31 21:00:00','War (Abraham Kieros)','http://gateway.marvel.com/v1/public/characters/1009701','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1017322,'','2013-09-18 12:06:14','War Machine (Iron Man 3 - The Official Game)','http://gateway.marvel.com/v1/public/characters/1017322','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/80/5239c15d562d6'),
@@ -1576,7 +1576,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1011121,'','2014-05-01 15:11:10','Warbound','http://gateway.marvel.com/v1/public/characters/1011121','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/f0/53628de09a012'),
 (1010372,'','1969-12-31 21:00:00','Warhawk (Mitchell Tanner)','http://gateway.marvel.com/v1/public/characters/1010372','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009704,'College design student Janie Chin was transformed by Adam Warlock into a female version of him, who then tried to cure the planet.','1969-12-31 21:00:00','Warlock (Janie Chin)','http://gateway.marvel.com/v1/public/characters/1009704','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1011287,'The New Mutants'' Warlock is an alien being from an unidentified world where the a sentient life forms are "techno-organic" life that resembles circuitry and machinery in various ways.','2011-07-14 15:28:15','Warlock (Technarchy)','http://gateway.marvel.com/v1/public/characters/1011287','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4da612d77cbd0'),
 (1009705,'James Proudstar was once a member of Professor X''s New Mutants and is currently a member of the X-Men black ops team, X-Force.','2013-10-17 16:13:23','Warpath','http://gateway.marvel.com/v1/public/characters/1009705','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/e0/526035de08b23'),
 (1010668,'','1969-12-31 21:00:00','Warren Worthington III','http://gateway.marvel.com/v1/public/characters/1010668','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -1587,7 +1587,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1009709,'','1969-12-31 21:00:00','Weapon X','http://gateway.marvel.com/v1/public/characters/1009709','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011402,'','1969-12-31 21:00:00','Wendell Rand','http://gateway.marvel.com/v1/public/characters/1011402','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1010742,'','1969-12-31 21:00:00','Wendell Vaughn','http://gateway.marvel.com/v1/public/characters/1010742','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/80/4c003744919ef');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009710,'','2011-05-24 17:45:41','Wendigo','http://gateway.marvel.com/v1/public/characters/1009710','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/70/4ce5a1fa7a013'),
 (1010765,'Jack Russell inherited the curse of lycanthropy from his father, Gregor.','1969-12-31 21:00:00','Werewolf By Night','http://gateway.marvel.com/v1/public/characters/1010765','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/a0/4c00375df1879'),
 (1009711,'Filled with dreams of grandeur, Mark Scarlotti was a brilliant young man with a bright future who graduated with top honors from college and immediately had a promising job at Stark International, but it all went south, however, when he became friends with the wrong people who wanted him to develop weapons, which Scarlotti used to become the first Whiplash.','1969-12-31 21:00:00','Whiplash (Mark Scarlotti)','http://gateway.marvel.com/v1/public/characters/1009711','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -1602,8 +1602,8 @@ A skilled acrobatic fighter with feline senses and claws. Ava wears a small Tige
 In the field, sheâ€™s constantly frustrated with Spider-Man and his irreverent attitude. But the longer the two fight side by side, the more they will understand one another.','2013-09-18 16:44:30','White Tiger (USM)','http://gateway.marvel.com/v1/public/characters/1016838','jpg','http://i.annihil.us/u/prod/marvel/i/mg/d/c0/52321764379a9'),
 (1011425,'Stanley Stewart is a native of the alternate Earth (Earth-S) on which the organization of the superhuman champions known as the Squadron Supreme arose.','1969-12-31 21:00:00','Whizzer (Stanley Stewart)','http://gateway.marvel.com/v1/public/characters/1011425','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009714,'Believing himself to be one of the Scarlet Witch''s twin boys, Billy Kaplan also has reality-altering powers and is a member of the Young Avengers.','2011-09-19 17:21:04','Wiccan','http://gateway.marvel.com/v1/public/characters/1009714','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/50/4c003a6e38300');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
-(1009715,'Kyle Gibney''s mutant powers emerged at an early age and left him with a freakish appearance, horrifying his parents, who kicked him out of the house, where he was eventually found and experimented upon by the Secret Empire and, later, Department H, who dubbed Gibney Wild Child and placed him with Gamma Flight, the entry-level team whose recruits can eventually graduate to Alpha Flight.','0002-11-30 02:00:00 BC','Wild Child','http://gateway.marvel.com/v1/public/characters/1009715','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/00/4c003a6b5d11a'),
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
+(1009715,'Kyle Gibney''s mutant powers emerged at an early age and left him with a freakish appearance, horrifying his parents, who kicked him out of the house, where he was eventually found and experimented upon by the Secret Empire and, later, Department H, who dubbed Gibney Wild Child and placed him with Gamma Flight, the entry-level team whose recruits can eventually graduate to Alpha Flight.','0002-11-30 02:00:00','Wild Child','http://gateway.marvel.com/v1/public/characters/1009715','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/00/4c003a6b5d11a'),
 (1010994,'Kyle Gibney was one of the original volunteers for Beta Flight, Canada''s attempt at building a super soldier program to secure their borders against the onslaught of Apocalypse and his Infinite soldiers.','2013-11-20 20:27:05','Wild Child (Age of Apocalypse)','http://gateway.marvel.com/v1/public/characters/1010994','jpg','http://i.annihil.us/u/prod/marvel/i/mg/2/c0/528d36110a1b9'),
 (1011067,'','1969-12-31 21:00:00','Wild Pack','http://gateway.marvel.com/v1/public/characters/1011067','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/50/4c0030ee76e95'),
 (1009716,'','1969-12-31 21:00:00','Wildside','http://gateway.marvel.com/v1/public/characters/1009716','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -1613,7 +1613,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1011043,'When his genetic mutation manifested, Kevin Ford accidentally killed his father with his lethal and uncontrollable touch, after which he was recruited as a student at the Xavier Institute.','1969-12-31 21:00:00','Wither','http://gateway.marvel.com/v1/public/characters/1011043','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/b0/4c003235e6f1d'),
 (1011290,'Nicholas Gleason enrolled at the Xavier Institute after being saved from a pair of mutant-haters by X-Men members Cyclops and Chamber.','1969-12-31 21:00:00','Wolf Cub','http://gateway.marvel.com/v1/public/characters/1011290','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011281,'','1969-12-31 21:00:00','Wolfpack','http://gateway.marvel.com/v1/public/characters/1011281','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009717,'Rahne Sinclair was an orphan in Scotland, raised by Reverend Craig, who, when her powers manifested, attempted to perform an exorcism to cast out what he perceived was the devil, after which Rahne was rescued by Doctor Moira MacTaggert who legally adopted her, and was introduced to Charles Xavier and enrolled as part of his New Mutants training team.','2014-01-23 15:40:48','Wolfsbane','http://gateway.marvel.com/v1/public/characters/1009717','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/70/4c003a687658c'),
 (1010995,'An only child, Rahne Sinclair''s mutant powers emerged during the culling of Scotland by the Apocalypse''s Horseman Mikhail when her parents attempted to hide her, but failed, and Rahne was discovered by Mikhail''s hounds and brought before him alongside her parents whom Mikhail made Rahne beg for their lives, making her pledge allegiance to Apocalypse.','2013-11-20 20:27:01','Wolfsbane (Age of Apocalypse)','http://gateway.marvel.com/v1/public/characters/1010995','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/20/528d3602d37e0'),
 (1010729,'','1969-12-31 21:00:00','Wolver-dok','http://gateway.marvel.com/v1/public/characters/1010729','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -1624,7 +1624,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1017479,'','2014-01-15 22:44:36','Wolverine (X-Men: Battle of the Atom)','http://gateway.marvel.com/v1/public/characters/1017479','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/90/52d72b4c8376c'),
 (1009719,'Simon Williams agreed to undergo an experiment to give him superhuman powers, and Baron Zemo gave him the costumed guise of Wonder Man, warning Simon that he would die without further treatments from Zemo in order to ensure his loyalty, but Simon betrayed Zemo to the Avengers and ultimately joined their ranks.','2011-08-09 15:58:20','Wonder Man','http://gateway.marvel.com/v1/public/characters/1009719','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/40/4ce5a205a2322'),
 (1009720,'When Wong reached adulthood, the Ancient One sent him to the United States to his disciple, Doctor Stephen Strange, where has served Strange loyally and well for many years.','1969-12-31 21:00:00','Wong','http://gateway.marvel.com/v1/public/characters/1009720','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/30/4ce5a21096f17');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1015005,'','2012-07-11 12:23:58','Wong (Ultimate)','http://gateway.marvel.com/v1/public/characters/1015005','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1010737,'','1969-12-31 21:00:00','Wraith','http://gateway.marvel.com/v1/public/characters/1010737','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1010884,'Dirk Garthwaite, the son of a construction worker and abusive father and husband, grew up filled with resentment and anger toward his father, who abandoned the family, and quickly turned to crime, in which he used a crowbar as a reminder of his father, destroying each place he robbed.','1969-12-31 21:00:00','Wrecker','http://gateway.marvel.com/v1/public/characters/1010884','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -1635,7 +1635,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1009723,'','1969-12-31 21:00:00','X-Cutioner','http://gateway.marvel.com/v1/public/characters/1009723','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1010738,'','2016-02-11 15:19:50','X-Factor','http://gateway.marvel.com/v1/public/characters/1010738','jpg','http://i.annihil.us/u/prod/marvel/i/mg/5/03/5274136b4372f'),
 (1010739,'','2013-11-20 20:26:52','X-Factor Investigations','http://gateway.marvel.com/v1/public/characters/1010739','jpg','http://i.annihil.us/u/prod/marvel/i/mg/f/80/528d35f020202');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009724,'','2016-02-10 19:13:08','X-Force','http://gateway.marvel.com/v1/public/characters/1009724','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/03/52603663b553d'),
 (1009725,'A clone of Nathan Summers (Cable), Nate Grey was created in the "Age of Apocalypse" timeline by that timeline''s Mr. Sinister for the sole purpose of destroying Apocalypse.','2014-04-29 15:14:20','X-Man','http://gateway.marvel.com/v1/public/characters/1009725','jpg','http://i.annihil.us/u/prod/marvel/i/mg/d/10/535febd73f84f'),
 (1009726,'Feared and hated by humans because they''re different, the X-Men are heroic mutants, individuals born with special powers who''ve sworn to use their gifts to protect mutants as well as humans.','2017-01-24 18:44:42','X-Men','http://gateway.marvel.com/v1/public/characters/1009726','jpg','http://i.annihil.us/u/prod/marvel/i/mg/8/03/510c08f345938'),
@@ -1646,7 +1646,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1011094,'','1969-12-31 21:00:00','Xavin','http://gateway.marvel.com/v1/public/characters/1011094','jpg','http://i.annihil.us/u/prod/marvel/i/mg/3/a0/4ce5a49743462'),
 (1009734,'Xorn, whose mutation manifested as a tiny, powerful star inside his head, was brainwashed into believing he was the reincarnation of Magneto.','1969-12-31 21:00:00','Xorn (Kuan-Yin Xorn)','http://gateway.marvel.com/v1/public/characters/1009734','jpg','http://i.annihil.us/u/prod/marvel/i/mg/d/60/4c00394059727'),
 (1009736,'The Yellow Claw is Plan Tzu, the 19th Century descendant of and rightful successor to the legendary warlord Temujin, a.k.a. Genghis Khan.','1969-12-31 21:00:00','Yellow Claw','http://gateway.marvel.com/v1/public/characters/1009736','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1010996,'Rita DeMara, hoping to show off her talent of engineering, stole a copy of the Yellowjacket costume from the Avengers Mansion.','2014-06-11 16:06:35','Yellowjacket (Rita DeMara)','http://gateway.marvel.com/v1/public/characters/1010996','jpg','http://i.annihil.us/u/prod/marvel/i/mg/9/f0/5398a8a4b8ca9'),
 (1010698,'','2013-01-22 17:13:43','Young Avengers','http://gateway.marvel.com/v1/public/characters/1010698','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/c0/50fec602eed20'),
 (1011277,'','1969-12-31 21:00:00','Young X-Men','http://gateway.marvel.com/v1/public/characters/1011277','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
@@ -1657,7 +1657,7 @@ INSERT INTO public."character" (id,description,modified,"name",resourceuri,"exte
 (1009739,'','1969-12-31 21:00:00','Zeigeist','http://gateway.marvel.com/v1/public/characters/1009739','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1010780,'','1969-12-31 21:00:00','Zemo','http://gateway.marvel.com/v1/public/characters/1010780','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1011127,'Twelve demons merged with Norman Harrison, who, soon after, adopted the guise of Zodiac and used his abilities to harness powers based on the astrological Zodiac.','1969-12-31 21:00:00','Zodiak','http://gateway.marvel.com/v1/public/characters/1011127','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available');
-INSERT INTO public."character" (id,description,modified,"name",resourceuri,"extension","path") VALUES
+INSERT INTO public.character (id,description,modified,name,resourceuri,extension,path) VALUES
 (1009741,'War hero Simon Garth was turned into a zombie by his secretary, Layla, who was also a voodoo priestess, after being killed by his gardener, Gyps.','1969-12-31 21:00:00','Zombie (Simon Garth)','http://gateway.marvel.com/v1/public/characters/1009741','jpg','http://i.annihil.us/u/prod/marvel/i/mg/6/10/4c003937c9ba4'),
 (1011183,'Zuras was once the leader of the Eternals.','1969-12-31 21:00:00','Zuras','http://gateway.marvel.com/v1/public/characters/1011183','jpg','http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available'),
 (1009742,'A chain reaction in an atomic reactor, a result of a terrorist attack, accidentally created a force that absorbed the electrolytes of the nearby humans'' brains, granting the explosion of energy a rudimentary sentience.  ','2013-12-17 21:35:54','Zzzax','http://gateway.marvel.com/v1/public/characters/1009742','jpg','http://i.annihil.us/u/prod/marvel/i/mg/c/d0/4ced5ab9078c9');
