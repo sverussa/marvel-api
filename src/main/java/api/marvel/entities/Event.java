@@ -26,7 +26,7 @@ public class Event {
     private String resourceURI;
     private Date modified;
     private Date start;
-    private Date end;
+    private Date ending;
     private Image thumbnail;
 
     @Transient
