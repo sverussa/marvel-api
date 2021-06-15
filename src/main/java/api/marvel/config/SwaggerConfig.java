@@ -1,4 +1,4 @@
-package api.marvel;
+package api.marvel.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

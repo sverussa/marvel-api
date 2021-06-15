@@ -1,14 +1,17 @@
 package api.marvel.service;
 
-import api.marvel.entities.Comic;
 import api.marvel.entities.Event;
+import api.marvel.entities.container.EventDataContainer;
+import api.marvel.entities.list.EventList;
 import api.marvel.validation.Parameters;
 
 public interface EventsService {
 
-    Event find(Parameters parameters);
+    EventDataContainer find(Parameters parameters);
 
-    Event findById(Integer id, Parameters parameters);
+    EventDataContainer findByIdCharacter(Integer idCharacter, Parameters parameters);
+
+    EventList findSummaryByIdCharacter(Integer idCharacter);
 
     Event save(Event event);
 }

@@ -1,4 +1,4 @@
-package api.marvel.validation;
+package api.marvel.config;
 
 import org.flywaydb.core.Flyway;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -8,6 +8,7 @@ import api.marvel.entities.summary.ComicSummary;
 import api.marvel.repository.CharacterRepository;
 import api.marvel.repository.ComicsRepository;
 import api.marvel.service.CharacterService;
+import api.marvel.service.ComicsService;
 import api.marvel.validation.Parameters;
 import lombok.extern.log4j.Log4j2;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -22,7 +23,7 @@ public class CharacterServiceImpl implements CharacterService {
 
     CharacterRepository characterRepository;
 
-    ComicsRepository comicsRepository;
+    ComicsService comicsService;
 
     @Autowired
     public void setCharacterRepository(CharacterRepository characterRepository) {
@@ -30,15 +31,15 @@ public class CharacterServiceImpl implements CharacterService {
     }
 
     @Autowired
-    public void setComicsRepository(ComicsRepository comicsRepository) {
-        this.comicsRepository = comicsRepository;
+    public void setComicsService(ComicsService comicsService) {
+        this.comicsService = comicsService;
     }
 
     public CharacterDataContainer find(Parameters parameters) {
         List<Character> characters = characterRepository.findAll();
         for (Character character : characters) {
-            List<Comic> comics = comicsRepository.findAllByIdCharacterEquals(character.getId());
-            log.info(comics.size());
+            ComicList comics = comicsService.findSummaryByIdCharacter(character.getId());
+            character.setComics(comics);
         }
 
         CharacterDataContainer characterDataContainer = new CharacterDataContainer();
@@ -49,17 +50,8 @@ public class CharacterServiceImpl implements CharacterService {
     @Override
     public CharacterDataContainer findById(Integer id, Parameters parameters) {
         Character character = characterRepository.findById(id).orElse(null);
-        List<Comic> comics = comicsRepository.findAllByIdCharacterEquals(character.getId());
-        log.info(comics.size());
-
-        ComicList comicList = new ComicList();
-        comicList.setAvailable(comics.size());
-        for (Comic comic : comics) {
-            ComicSummary comicSummary = comic.getSummary();
-            comicList.getItems().add(comicSummary);
-        }
-
-        character.setComics(comicList);
+        ComicList comics = comicsService.findSummaryByIdCharacter(character.getId());
+        character.setComics(comics);
 
         CharacterDataContainer characterDataContainer = new CharacterDataContainer();
         characterDataContainer.setResults(Arrays.asList(character));

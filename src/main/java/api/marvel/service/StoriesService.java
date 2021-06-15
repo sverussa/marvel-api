@@ -1,13 +1,17 @@
 package api.marvel.service;
 
 import api.marvel.entities.Story;
+import api.marvel.entities.container.StoryDataContainer;
+import api.marvel.entities.list.StoryList;
 import api.marvel.validation.Parameters;
 
 public interface StoriesService {
 
-    Story find(Parameters parameters);
+    StoryDataContainer find(Parameters parameters);
 
-    Story findById(Integer id, Parameters parameters);
+    StoryDataContainer findByIdCharacter(Integer idCharacter, Parameters parameters);
 
-    Story save(Story story);
+    StoryList findSummaryByIdCharacter(Integer idCharacter);
+
+    Story save(Story series);
 }
