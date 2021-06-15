@@ -1,14 +1,14 @@
 package api.marvel.service;
 
 import api.marvel.entities.Comic;
-import api.marvel.entities.Serie;
+import api.marvel.entities.Series;
 import api.marvel.validation.Parameters;
 
 public interface SeriesService {
 
-    Serie find(Parameters parameters);
+    Series find(Parameters parameters);
 
     Comic findById(Integer id, Parameters parameters);
 
-    Serie save(Serie serie);
+    Series save(Series serie);
 }

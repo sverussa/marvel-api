@@ -1,7 +1,7 @@
 package api.marvel.entities;
 
 import api.marvel.entities.list.*;
-import api.marvel.entities.summary.ComicSummary;
+import api.marvel.entities.summary.SeriesSummary;
 import lombok.Data;
 
 import javax.persistence.Entity;
@@ -12,26 +12,24 @@ import java.util.Date;
 
 @Data
 @Entity
-@Table(name = "story")
-public class Story {
+@Table(name = "series")
+public class Series {
 
     @Id
     private Integer id;
     private int digitalID;
 
-    private int idCharacter;
-
     private String title;
     private String description;
-    private String resourceURI;
-    private String type;
+    private int startYear;
+    private int endYear;
+    private String rating;
     private Date modified;
     private Image thumbnail;
-
     @Transient
     private ComicList comics;
     @Transient
-    private SeriesList series;
+    private StoryList stories;
     @Transient
     private EventList events;
     @Transient
@@ -39,6 +37,8 @@ public class Story {
     @Transient
     private CreatorList creators;
     @Transient
-    private ComicSummary originalissue;
+    private SeriesSummary next;
+    @Transient
+    private SeriesSummary previous;
 
 }
