@@ -1,6 +1,5 @@
-package api.marvel;
+package api.marvel.controller;
 
-import api.marvel.service.CharacterService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -13,17 +12,17 @@ import org.springframework.test.web.servlet.MockMvc;
 import org.springframework.test.web.servlet.setup.MockMvcBuilders;
 import org.springframework.web.context.WebApplicationContext;
 
+import static org.junit.jupiter.api.Assertions.*;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
+import static org.springframework.test.web.servlet.result.MockMvcResultHandlers.print;
+import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.jsonPath;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 
 @SpringBootTest
 @WebAppConfiguration
 @AutoConfigureMockMvc
 @ActiveProfiles("test")
-class MarvelApiApplicationTests {
-
-    @Autowired
-    CharacterService characterService;
+class SeriesControllerTest {
 
     @Autowired
     private WebApplicationContext webApplicationContext;
@@ -38,9 +37,13 @@ class MarvelApiApplicationTests {
     }
 
     @Test
-    public void given_actuator_is_running_when_get_then_returns200() throws Exception {
-        mockMvc.perform(get("/actuator/health")
+    void getCharacterIdComics() throws Exception {
+        mockMvc.perform(get("/v1/public/characters/1009664/series")
                 .contentType(MediaType.APPLICATION_JSON))
-                .andExpect(status().isOk());
+                .andDo(print())
+                .andExpect(status().isOk())
+                .andExpect(jsonPath("$.code").value(200))
+                .andExpect(jsonPath("$.data.results[*].idCharacter").isArray());
     }
+
 }

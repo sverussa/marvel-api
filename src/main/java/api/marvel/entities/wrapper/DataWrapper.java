@@ -1,5 +1,8 @@
 package api.marvel.entities.wrapper;
 
+import lombok.Data;
+
+@Data
 public class DataWrapper {
 
     private int code = 200;

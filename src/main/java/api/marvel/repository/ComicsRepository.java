@@ -1,10 +1,7 @@
 package api.marvel.repository;
 
-import api.marvel.entities.Character;
 import api.marvel.entities.Comic;
 import org.springframework.data.jpa.repository.JpaRepository;
-import org.springframework.data.jpa.repository.Query;
-import org.springframework.data.repository.query.Param;
 
 import java.util.List;
 
