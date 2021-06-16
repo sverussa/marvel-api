@@ -8,11 +8,15 @@ import api.marvel.entities.list.SeriesList;
 import api.marvel.entities.list.StoryList;
 import api.marvel.repository.CharacterRepository;
 import api.marvel.service.*;
+import api.marvel.util.OffsetBasedPageRequest;
 import api.marvel.validation.Parameters;
 import lombok.extern.log4j.Log4j2;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.domain.PageRequest;
+import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
@@ -53,7 +57,11 @@ public class CharacterServiceImpl implements CharacterService {
     }
 
     public CharacterDataContainer find(Parameters parameters) {
-        List<Character> characters = characterRepository.findAll();
+//        Pageable pageable = PageRequest.of(parameters.getOffset(), parameters.getLimit());
+
+        OffsetBasedPageRequest offsetBasedPageRequest = new OffsetBasedPageRequest(parameters.getOffset(), parameters.getLimit());
+
+        Iterable<Character> characters = characterRepository.findAll(offsetBasedPageRequest);
         for (Character character : characters) {
             ComicList comics = comicsService.findSummaryByIdCharacter(character.getId());
             EventList events = eventsService.findSummaryByIdCharacter(character.getId());
@@ -65,8 +73,12 @@ public class CharacterServiceImpl implements CharacterService {
             character.setSeries(series);
         }
 
+        List<Character> result = new ArrayList<Character>();
+        characters.forEach(result::add);
+
         CharacterDataContainer characterDataContainer = new CharacterDataContainer();
-        characterDataContainer.setResults(characters);
+
+        characterDataContainer.setResults(result);
         return characterDataContainer;
     }
 

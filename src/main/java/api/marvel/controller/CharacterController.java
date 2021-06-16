@@ -1,17 +1,13 @@
 package api.marvel.controller;
 
 
-import api.marvel.adapter.HibernateProxyTypeAdapter;
 import api.marvel.entities.container.CharacterDataContainer;
 import api.marvel.entities.wrapper.CharacterDataWrapper;
 import api.marvel.service.CharacterService;
 import api.marvel.util.MarvelGson;
 import api.marvel.validation.Parameters;
 import com.fasterxml.jackson.core.JsonProcessingException;
-import com.fasterxml.jackson.databind.ObjectMapper;
-import com.fasterxml.jackson.databind.ObjectWriter;
 import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
 import lombok.extern.log4j.Log4j2;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
@@ -39,7 +35,6 @@ public class CharacterController {
 
     @GetMapping(produces = MediaType.APPLICATION_JSON_VALUE)
     public ResponseEntity<String> getMarvelCharacter(@Valid Parameters parameters) {
-
         log.info("Parameters:" + parameters);
 
         CharacterDataContainer characterDataContainer  = characterService.find(parameters);

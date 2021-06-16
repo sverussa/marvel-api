@@ -53,9 +53,12 @@ class CharacterControllerTest {
 
     @Test
     void getMarvelCharacter() throws Exception {
-
-
-
+        mockMvc.perform(get("/v1/public/characters")
+                .contentType(MediaType.APPLICATION_JSON))
+                .andDo(print())
+                .andExpect(status().isOk())
+                .andExpect(jsonPath("$.code").value(200))
+                .andExpect(jsonPath("$.data.offset").value(0));
     }
 
     @Test

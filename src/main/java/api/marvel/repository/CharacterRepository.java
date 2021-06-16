@@ -1,7 +1,7 @@
 package api.marvel.repository;
 
 import api.marvel.entities.Character;
-import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.data.repository.PagingAndSortingRepository;
 
-public interface CharacterRepository extends JpaRepository<Character, Integer> {
+public interface CharacterRepository extends PagingAndSortingRepository<Character, Integer> {
 }
